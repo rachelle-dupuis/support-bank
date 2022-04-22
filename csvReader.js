@@ -89,8 +89,7 @@ async function printAllTransactions(name) {
     const allTransactions = await getTransactions(filePath);
     for (let i = 0; i < allTransactions.length; i++) {
         if (allTransactions[i].fromAccount === name || allTransactions[i].toAccount=== name) {
-            let amount = allTransactions[i].amount;
-            amount = amount.toFixed(2);
+            let amount = allTransactions[i].amount.toFixed(2);
             console.log(`${allTransactions[i].date} ${allTransactions[i].fromAccount} paid ${allTransactions[i].toAccount} $${amount} for ${allTransactions[i].description}`);
         }
     }
