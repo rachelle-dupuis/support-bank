@@ -1,8 +1,10 @@
-var moment = require('moment'); // require
+var moment = require('moment');
 moment().format();
 const csv = require('csv-parser');
 const fs = require('fs');
-var readlineSync = require('readline-sync'), options = ['List All', 'List Account'], index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
+var readlineSync = require('readline-sync'),
+    options = ['List All', 'List Account'],
+    index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
 
 const filePath = 'Transactions2014.csv';
 
