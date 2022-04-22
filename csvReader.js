@@ -37,7 +37,7 @@ class Account {
     }
 }
 
-const filePath = 'DodgyTransactions2015.csv';
+const filePath = 'Transactions2014.csv';
 
 function getTransactions(file) {
     const transactions = [];
@@ -86,15 +86,18 @@ async function returnUserSelection() {
 
     switch (options[index]) {
         case 'List All':
+            logger.info('Fetching account balances...')
             getAccountBalances(transactions, accounts);
             break;
         case 'List Account':
+            logger.info('Prompting user for account name...')
             const accountName = readlineSync.question('Please enter account name:');
             logger.info('User entered: ' + accountName)
             if (!accounts.has(accountName)) {
                 logger.info('Name is not in account list')
                 console.log('There is no account with that name');
             }
+            logger.info(`Fetching ${accountName}'s transactions...`)
             printAllTransactions(accountName, transactions);
             break;
     }
