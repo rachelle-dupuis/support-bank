@@ -68,7 +68,7 @@ function getTransactions(file) {
                 line++;
             })
             .on('end', () => {
-                logger.info('End of file. File read successfully')
+                logger.info('End of file. File read successfully.')
                 resolve({transactions, accounts});
             });
     });
@@ -107,9 +107,11 @@ function printAllTransactions(name, transactions) {
     transactions.forEach((transaction) => {
         if (transaction.fromAccount === name || transaction.toAccount === name) {
             const amount = transaction.amount.toFixed(2);
+            logger.info(`${transaction.date} ${transaction.fromAccount} paid ${transaction.toAccount} $${amount} for ${transaction.description}`);
             console.log(`${transaction.date} ${transaction.fromAccount} paid ${transaction.toAccount} $${amount} for ${transaction.description}`);
         }
     })
+    logger.info(`Finished printing ${name}'s transactions.`);
 }
 
 function getAccountBalances(transactions, accounts) {
@@ -124,8 +126,10 @@ function getAccountBalances(transactions, accounts) {
             }
         })
         balance = balance.toFixed(2);
+        logger.info(`${account}: ${balance}`);
         console.log(`${account}: ${balance}`);
     })
+    logger.info(`Finished printing balances for ${accounts.size} accounts.`);
 }
 
 returnUserSelection();
