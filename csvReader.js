@@ -55,6 +55,14 @@ class Transaction {
     }
 }
 
+class Account {
+    name;
+
+    constructor (name) {
+        this.name = name;
+    }
+}
+
 function getTransactions(file) {
     const bank = [];
     let line = 2;
