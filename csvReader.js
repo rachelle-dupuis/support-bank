@@ -22,20 +22,22 @@ const filePath = 'Transactions2014.csv';
 
 async function getUserInput() {
     logger.info('Program started')
-    if (options[index] === 'List All') {
-        logger.info('User chose to list all account balances')
-        getAccountBalances();
-    }
-    if (options[index] === 'List Account') {
-        logger.info('User chose to see account detail')
-        const accountName = readlineSync.question('Please enter account name:');
-        logger.info('User entered: ' + accountName)
-        const accountList = await getAccounts();
-        if (!accountList.includes(accountName)) {
-            logger.info('Name is not in account list')
-            console.log('There is no account with that name');
-        }
-        printAllTransactions(accountName);
+    switch (options[index]) {
+        case 'List All':
+            logger.info('User chose to list all account balances')
+            getAccountBalances();
+            break;
+        case 'List Account':
+            logger.info('User chose to see account detail')
+            const accountName = readlineSync.question('Please enter account name:');
+            logger.info('User entered: ' + accountName)
+            const accountList = await getAccounts();
+            if (!accountList.includes(accountName)) {
+                logger.info('Name is not in account list')
+                console.log('There is no account with that name');
+            }
+            printAllTransactions(accountName);
+            break;
     }
 }
 
@@ -68,9 +70,7 @@ function getTransactions(file) {
     let line = 2;
     return new Promise((resolve, reject) => {
         fs.createReadStream(file)
-            .on('error', error => {
-                reject(error);
-            })
+            .on('error', reject)
             .pipe(csv())
             .on('data', (data) => {
                 logger.info('CSV line ' + line)
@@ -95,32 +95,30 @@ async function getAccounts() {
 
 async function printAllTransactions(name) {
     const allTransactions = await getTransactions(filePath);
-    for (let i = 0; i < allTransactions.length; i++) {
-        if (allTransactions[i].fromAccount === name || allTransactions[i].toAccount=== name) {
-            const amount = allTransactions[i].amount.toFixed(2);
-            console.log(`${allTransactions[i].date} ${allTransactions[i].fromAccount} paid ${allTransactions[i].toAccount} $${amount} for ${allTransactions[i].description}`);
+    allTransactions.forEach((transaction) => {
+        if (transaction.fromAccount === name || transaction.toAccount === name) {
+            const amount = transaction.amount.toFixed(2);
+            console.log(`${transaction.date} ${transaction.fromAccount} paid ${transaction.toAccount} $${amount} for ${transaction.description}`);
         }
-    }
+    })
 }
 
 async function getAccountBalances() {
     const allTransactions = await getTransactions(filePath);
     const allAccounts = await getAccounts();
-    for (let i = 0; i < allAccounts.length; i++) {
-        const account = allAccounts[i];
+    allAccounts.forEach((account) => {
         let balance = 0;
-        for (let i = 0; i < allTransactions.length; i++) {
-            const transaction = allTransactions[i];
+        allTransactions.forEach((transaction) => {
             if (transaction.toAccount === account) {
                 balance += transaction.amount;
             }
             if (transaction.fromAccount === account) {
                 balance -= transaction.amount;
             }
-        }
+        })
         balance = balance.toFixed(2);
         console.log(`${account}: ${balance}`);
-    }
+    })
 }
 
 getUserInput();
