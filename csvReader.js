@@ -2,6 +2,23 @@ var moment = require('moment'); // require
 moment().format();
 const csv = require('csv-parser');
 const fs = require('fs');
+var readlineSync = require('readline-sync'), options = ['List All', 'List Account'], index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
+
+const filePath = 'Transactions2014.csv';
+
+async function getUserInput() {
+    if (options[index] === 'List All') {
+        getAccountBalances();
+    }
+    if (options[index] === 'List Account') {
+        let accountName = readlineSync.question('Please enter account name:');
+        const accountList = await getAccounts();
+        if (!accountList.includes(accountName)) {
+            console.log('There is no account with that name');
+        }
+        printAllTransactions(accountName);
+    }
+}
 
 class Transaction {
     date;
@@ -41,13 +58,13 @@ function getTransactions(file) {
 }
 
 async function getAccounts() {
-    const data = await getTransactions('Transactions2014.csv');
+    const data = await getTransactions(filePath);
     const accounts = [...new Set(data.map(item => item.fromAccount && item.toAccount))]
     return accounts;
 }
 
 async function printAllTransactions(name) {
-    const allTransactions = await getTransactions('Transactions2014.csv');
+    const allTransactions = await getTransactions(filePath);
     for (let i = 0; i < allTransactions.length; i++) {
         if (allTransactions[i].fromAccount === name || allTransactions[i].toAccount=== name) {
             let amount = allTransactions[i].amount;
@@ -58,7 +75,7 @@ async function printAllTransactions(name) {
 }
 
 async function getAccountBalances() {
-    const allTransactions = await getTransactions('Transactions2014.csv');
+    const allTransactions = await getTransactions(filePath);
     const allAccounts = await getAccounts();
     for (let i = 0; i < allAccounts.length; i++) {
         let account = allAccounts[i];
@@ -77,5 +94,4 @@ async function getAccountBalances() {
     }
 }
 
-getAccountBalances();
-printAllTransactions('Jon A');
+getUserInput();
