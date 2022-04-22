@@ -2,6 +2,18 @@ var moment = require('moment');
 moment().format();
 const csv = require('csv-parser');
 const fs = require('fs');
+var log4js = require("log4js");
+
+log4js.configure({
+    appenders: {
+        file: { type: 'fileSync', filename: 'logs/debug.log' }
+    },
+    categories: {
+        default: { appenders: ['file'], level: 'debug'}
+    }
+});
+const logger = log4js.getLogger('csvReader');
+
 var readlineSync = require('readline-sync'),
     options = ['List All', 'List Account'],
     index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
@@ -9,13 +21,18 @@ var readlineSync = require('readline-sync'),
 const filePath = 'Transactions2014.csv';
 
 async function getUserInput() {
+    logger.info('Program started')
     if (options[index] === 'List All') {
+        logger.info('User chose to list all account balances')
         getAccountBalances();
     }
     if (options[index] === 'List Account') {
+        logger.info('User chose to see account detail')
         let accountName = readlineSync.question('Please enter account name:');
+        logger.info('User entered: ' + accountName)
         const accountList = await getAccounts();
         if (!accountList.includes(accountName)) {
+            logger.info('Name is not in account list')
             console.log('There is no account with that name');
         }
         printAllTransactions(accountName);
@@ -40,6 +57,7 @@ class Transaction {
 
 function getTransactions(file) {
     let bank = [];
+    let line = 2;
     return new Promise((resolve, reject) => {
         fs.createReadStream(file)
             .on('error', error => {
@@ -47,11 +65,13 @@ function getTransactions(file) {
             })
             .pipe(csv())
             .on('data', (data) => {
+                logger.info('CSV line ' + line)
                 let dateMomentObject = moment(data.Date, "DD/MM/YYYY");
                 let date = new Date(dateMomentObject);
                 let amount = parseFloat(data.Amount);
                 let newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
                 bank.push(newTransaction);
+                line++;
             })
             .on('end', () => {
                 resolve(bank);
