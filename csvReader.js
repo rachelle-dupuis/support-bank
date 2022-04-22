@@ -1,8 +1,8 @@
-var moment = require('moment');
+const moment = require('moment');
 moment().format();
 const csv = require('csv-parser');
 const fs = require('fs');
-var log4js = require("log4js");
+const log4js = require("log4js");
 
 log4js.configure({
     appenders: {
@@ -14,7 +14,7 @@ log4js.configure({
 });
 const logger = log4js.getLogger('csvReader');
 
-var readlineSync = require('readline-sync'),
+const readlineSync = require('readline-sync'),
     options = ['List All', 'List Account'],
     index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
 
@@ -28,7 +28,7 @@ async function getUserInput() {
     }
     if (options[index] === 'List Account') {
         logger.info('User chose to see account detail')
-        let accountName = readlineSync.question('Please enter account name:');
+        const accountName = readlineSync.question('Please enter account name:');
         logger.info('User entered: ' + accountName)
         const accountList = await getAccounts();
         if (!accountList.includes(accountName)) {
@@ -56,7 +56,7 @@ class Transaction {
 }
 
 function getTransactions(file) {
-    let bank = [];
+    const bank = [];
     let line = 2;
     return new Promise((resolve, reject) => {
         fs.createReadStream(file)
@@ -66,10 +66,10 @@ function getTransactions(file) {
             .pipe(csv())
             .on('data', (data) => {
                 logger.info('CSV line ' + line)
-                let dateMomentObject = moment(data.Date, "DD/MM/YYYY");
-                let date = new Date(dateMomentObject);
-                let amount = parseFloat(data.Amount);
-                let newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
+                const dateMomentObject = moment(data.Date, "DD/MM/YYYY");
+                const date = new Date(dateMomentObject);
+                const amount = parseFloat(data.Amount);
+                const newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
                 bank.push(newTransaction);
                 line++;
             })
@@ -89,7 +89,7 @@ async function printAllTransactions(name) {
     const allTransactions = await getTransactions(filePath);
     for (let i = 0; i < allTransactions.length; i++) {
         if (allTransactions[i].fromAccount === name || allTransactions[i].toAccount=== name) {
-            let amount = allTransactions[i].amount.toFixed(2);
+            const amount = allTransactions[i].amount.toFixed(2);
             console.log(`${allTransactions[i].date} ${allTransactions[i].fromAccount} paid ${allTransactions[i].toAccount} $${amount} for ${allTransactions[i].description}`);
         }
     }
@@ -99,10 +99,10 @@ async function getAccountBalances() {
     const allTransactions = await getTransactions(filePath);
     const allAccounts = await getAccounts();
     for (let i = 0; i < allAccounts.length; i++) {
-        let account = allAccounts[i];
+        const account = allAccounts[i];
         let balance = 0;
         for (let i = 0; i < allTransactions.length; i++) {
-            let transaction = allTransactions[i];
+            const transaction = allTransactions[i];
             if (transaction.toAccount === account) {
                 balance += transaction.amount;
             }
