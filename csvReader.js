@@ -22,21 +22,49 @@ const filePath = 'Transactions2014.csv';
 
 async function getUserInput() {
     logger.info('Program started')
+
+    function getTransactions(file) {
+        const transactions = [];
+        const accounts = new Set();
+        let line = 2;
+        return new Promise((resolve, reject) => {
+            fs.createReadStream(file)
+                .on('error', reject)
+                .pipe(csv())
+                .on('data', (data) => {
+                    logger.info('CSV line ' + line)
+                    accounts.add(data.From);
+                    accounts.add(data.To);
+                    const dateMomentObject = moment(data.Date, "DD/MM/YYYY");
+                    const date = new Date(dateMomentObject);
+                    const amount = parseFloat(data.Amount);
+                    const newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
+                    transactions.push(newTransaction);
+                    line++;
+                })
+                .on('end', () => {
+                    resolve({transactions, accounts});
+                });
+        });
+    }
+    const bank = await getTransactions(filePath);
+    const allTransactions = bank.transactions;
+    const allAccounts = bank.accounts;
+
     switch (options[index]) {
         case 'List All':
             logger.info('User chose to list all account balances')
-            getAccountBalances();
+            getAccountBalances(allTransactions, allAccounts);
             break;
         case 'List Account':
             logger.info('User chose to see account detail')
             const accountName = readlineSync.question('Please enter account name:');
             logger.info('User entered: ' + accountName)
-            const accountList = await getAccounts();
-            if (!accountList.includes(accountName)) {
+            if (!allAccounts.has(accountName)) {
                 logger.info('Name is not in account list')
                 console.log('There is no account with that name');
             }
-            printAllTransactions(accountName);
+            printAllTransactions(accountName, allTransactions);
             break;
     }
 }
@@ -65,37 +93,8 @@ class Account {
     }
 }
 
-function getTransactions(file) {
-    const bank = [];
-    let line = 2;
-    return new Promise((resolve, reject) => {
-        fs.createReadStream(file)
-            .on('error', reject)
-            .pipe(csv())
-            .on('data', (data) => {
-                logger.info('CSV line ' + line)
-                const dateMomentObject = moment(data.Date, "DD/MM/YYYY");
-                const date = new Date(dateMomentObject);
-                const amount = parseFloat(data.Amount);
-                const newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
-                bank.push(newTransaction);
-                line++;
-            })
-            .on('end', () => {
-                resolve(bank);
-            });
-    });
-}
-
-async function getAccounts() {
-    const data = await getTransactions(filePath);
-    const accounts = [...new Set(data.map(item => item.fromAccount && item.toAccount))]
-    return accounts;
-}
-
-async function printAllTransactions(name) {
-    const allTransactions = await getTransactions(filePath);
-    allTransactions.forEach((transaction) => {
+function printAllTransactions(name, transactions) {
+    transactions.forEach((transaction) => {
         if (transaction.fromAccount === name || transaction.toAccount === name) {
             const amount = transaction.amount.toFixed(2);
             console.log(`${transaction.date} ${transaction.fromAccount} paid ${transaction.toAccount} $${amount} for ${transaction.description}`);
@@ -103,12 +102,10 @@ async function printAllTransactions(name) {
     })
 }
 
-async function getAccountBalances() {
-    const allTransactions = await getTransactions(filePath);
-    const allAccounts = await getAccounts();
-    allAccounts.forEach((account) => {
+function getAccountBalances(transactions, accounts) {
+    accounts.forEach((account) => {
         let balance = 0;
-        allTransactions.forEach((transaction) => {
+        transactions.forEach((transaction) => {
             if (transaction.toAccount === account) {
                 balance += transaction.amount;
             }
