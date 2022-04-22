@@ -37,12 +37,13 @@ class Account {
     }
 }
 
-const filePath = 'Transactions2014.csv';
+const filePath = 'DodgyTransactions2015.csv';
 
 function getTransactions(file) {
     const transactions = [];
     const accounts = new Set();
     let line = 2;
+    logger.info('Reading file...')
     return new Promise((resolve, reject) => {
         fs.createReadStream(file)
             .on('error', reject)
@@ -51,14 +52,23 @@ function getTransactions(file) {
                 logger.info('CSV line ' + line)
                 accounts.add(data.From);
                 accounts.add(data.To);
-                const dateMomentObject = moment(data.Date, "DD/MM/YYYY");
+                const dateMomentObject = moment(data.Date, "DD/MM/YYYY", true);
                 const date = new Date(dateMomentObject);
+                if (!dateMomentObject.isValid()) {
+                    logger.error('Date is not valid');
+                    throw new Error(`${filePath} line ${line}: Date is not valid`);
+                }
                 const amount = parseFloat(data.Amount);
+                if (isNaN(amount)) {
+                    logger.error('Amount is not valid');
+                    throw new Error(`${filePath} line ${line}: Amount is not valid`);
+                }
                 const newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
                 transactions.push(newTransaction);
                 line++;
             })
             .on('end', () => {
+                logger.info('End of file. File read successfully')
                 resolve({transactions, accounts});
             });
     });
@@ -67,6 +77,7 @@ function getTransactions(file) {
 const readlineSync = require('readline-sync'),
     options = ['List All', 'List Account'],
     index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
+logger.info('User selected ' + options[index]);
 
 async function returnUserSelection() {
     logger.info('Program started')
@@ -75,11 +86,9 @@ async function returnUserSelection() {
 
     switch (options[index]) {
         case 'List All':
-            logger.info('User chose to list all account balances')
             getAccountBalances(transactions, accounts);
             break;
         case 'List Account':
-            logger.info('User chose to see account detail')
             const accountName = readlineSync.question('Please enter account name:');
             logger.info('User entered: ' + accountName)
             if (!accounts.has(accountName)) {
