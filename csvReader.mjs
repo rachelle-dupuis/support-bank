@@ -1,8 +1,9 @@
-const moment = require('moment');
+import moment from 'moment';
 moment().format();
-const csv = require('csv-parser');
-const fs = require('fs');
-const log4js = require("log4js");
+import csv from 'csv-parser';
+import * as fs from 'fs';
+import log4js from "log4js";
+import * as readline from 'readline-sync';
 const logger = log4js.getLogger('csvReader');
 log4js.configure({
     appenders: {
@@ -74,7 +75,7 @@ function getTransactions(file) {
     });
 }
 
-const readlineSync = require('readline-sync'),
+const readlineSync = readline,
     options = ['List All', 'List Account'],
     index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
 logger.info('User selected ' + options[index]);
