@@ -4,6 +4,7 @@ import csv from 'csv-parser';
 import * as fs from 'fs';
 import log4js from "log4js";
 import * as readline from 'readline-sync';
+import {getJsonFileTransactions} from "./jsonReader.mjs";
 const logger = log4js.getLogger('csvReader');
 log4js.configure({
     appenders: {
@@ -14,7 +15,7 @@ log4js.configure({
     }
 });
 
-class Transaction {
+export class Transaction {
     date;
     fromAccount;
     toAccount;
@@ -27,14 +28,6 @@ class Transaction {
         this.toAccount = toAccount;
         this.description = description;
         this.amount = amount;
-    }
-}
-
-class Account {
-    name;
-
-    constructor (name) {
-        this.name = name;
     }
 }
 
@@ -135,37 +128,3 @@ function getAccountBalances(transactions, accounts) {
 }
 
 returnUserSelection();
-
-function getJsonFileTransactions (file) {
-    const jsonFile = fs.readFileSync(file, 'utf8');
-    const jsonArray = JSON.parse(jsonFile);
-
-    const transactions = [];
-    const accounts = new Set();
-    let line = 1;
-    logger.info('Reading file...')
-
-    jsonArray.forEach((data) =>
-    {
-        logger.info('JSON line ' + line)
-        accounts.add(data.FromAccount);
-        accounts.add(data.ToAccount);
-        let testDate = new Date(data.Date).toISOString().split('T')[0];
-        const dateMomentObject = moment(testDate, "YYYY-MM-DD", true);
-        const date = new Date(dateMomentObject);
-        if (!dateMomentObject.isValid()) {
-            logger.error('Date is not valid');
-            throw new Error(`${filePath} line ${line}: Date is not valid`);
-        }
-        const amount = parseFloat(data.Amount);
-        if (isNaN(amount)) {
-            logger.error('Amount is not valid');
-            throw new Error(`${filePath} line ${line}: Amount is not valid`);
-        }
-        const newTransaction = new Transaction(date, data.FromAccount, data.ToAccount, data.Narrative, amount);
-        transactions.push(newTransaction);
-        line++;
-    });
-    logger.info('End of file. File read successfully.')
-    return ({transactions, accounts});
-}

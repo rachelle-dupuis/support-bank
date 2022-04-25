@@ -24240,3 +24240,512 @@
 [2022-04-25T10:58:42.382] [INFO] csvReader - Thu Dec 19 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $8.72 for Pokemon Training
 [2022-04-25T10:58:42.383] [INFO] csvReader - Fri Dec 27 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Stephen S paid Todd $4.34 for Spline Reticulation
 [2022-04-25T10:58:42.383] [INFO] csvReader - Finished printing Todd's transactions.
+[2022-04-25T11:06:02.685] [INFO] csvReader - User selected List All
+[2022-04-25T11:06:02.690] [INFO] csvReader - Program started
+[2022-04-25T11:06:02.691] [INFO] jsonReader - Reading file...
+[2022-04-25T11:06:02.691] [INFO] jsonReader - JSON line 1
+[2022-04-25T11:06:57.107] [INFO] csvReader - User selected List All
+[2022-04-25T11:06:57.112] [INFO] csvReader - Program started
+[2022-04-25T11:06:57.113] [INFO] jsonReader - Reading file...
+[2022-04-25T11:06:57.113] [INFO] jsonReader - JSON line 1
+[2022-04-25T11:06:57.115] [INFO] jsonReader - JSON line 2
+[2022-04-25T11:06:57.115] [INFO] jsonReader - JSON line 3
+[2022-04-25T11:06:57.115] [INFO] jsonReader - JSON line 4
+[2022-04-25T11:06:57.116] [INFO] jsonReader - JSON line 5
+[2022-04-25T11:06:57.116] [INFO] jsonReader - JSON line 6
+[2022-04-25T11:06:57.117] [INFO] jsonReader - JSON line 7
+[2022-04-25T11:06:57.117] [INFO] jsonReader - JSON line 8
+[2022-04-25T11:06:57.118] [INFO] jsonReader - JSON line 9
+[2022-04-25T11:06:57.118] [INFO] jsonReader - JSON line 10
+[2022-04-25T11:06:57.119] [INFO] jsonReader - JSON line 11
+[2022-04-25T11:06:57.119] [INFO] jsonReader - JSON line 12
+[2022-04-25T11:06:57.120] [INFO] jsonReader - JSON line 13
+[2022-04-25T11:06:57.120] [INFO] jsonReader - JSON line 14
+[2022-04-25T11:06:57.120] [INFO] jsonReader - JSON line 15
+[2022-04-25T11:06:57.121] [INFO] jsonReader - JSON line 16
+[2022-04-25T11:06:57.121] [INFO] jsonReader - JSON line 17
+[2022-04-25T11:06:57.122] [INFO] jsonReader - JSON line 18
+[2022-04-25T11:06:57.122] [INFO] jsonReader - JSON line 19
+[2022-04-25T11:06:57.122] [INFO] jsonReader - JSON line 20
+[2022-04-25T11:06:57.123] [INFO] jsonReader - JSON line 21
+[2022-04-25T11:06:57.123] [INFO] jsonReader - JSON line 22
+[2022-04-25T11:06:57.124] [INFO] jsonReader - JSON line 23
+[2022-04-25T11:06:57.124] [INFO] jsonReader - JSON line 24
+[2022-04-25T11:06:57.124] [INFO] jsonReader - JSON line 25
+[2022-04-25T11:06:57.125] [INFO] jsonReader - JSON line 26
+[2022-04-25T11:06:57.125] [INFO] jsonReader - JSON line 27
+[2022-04-25T11:06:57.126] [INFO] jsonReader - JSON line 28
+[2022-04-25T11:06:57.126] [INFO] jsonReader - JSON line 29
+[2022-04-25T11:06:57.126] [INFO] jsonReader - JSON line 30
+[2022-04-25T11:06:57.127] [INFO] jsonReader - JSON line 31
+[2022-04-25T11:06:57.127] [INFO] jsonReader - JSON line 32
+[2022-04-25T11:06:57.127] [INFO] jsonReader - JSON line 33
+[2022-04-25T11:06:57.128] [INFO] jsonReader - JSON line 34
+[2022-04-25T11:06:57.128] [INFO] jsonReader - JSON line 35
+[2022-04-25T11:06:57.129] [INFO] jsonReader - JSON line 36
+[2022-04-25T11:06:57.129] [INFO] jsonReader - JSON line 37
+[2022-04-25T11:06:57.129] [INFO] jsonReader - JSON line 38
+[2022-04-25T11:06:57.130] [INFO] jsonReader - JSON line 39
+[2022-04-25T11:06:57.130] [INFO] jsonReader - JSON line 40
+[2022-04-25T11:06:57.130] [INFO] jsonReader - JSON line 41
+[2022-04-25T11:06:57.131] [INFO] jsonReader - JSON line 42
+[2022-04-25T11:06:57.131] [INFO] jsonReader - JSON line 43
+[2022-04-25T11:06:57.131] [INFO] jsonReader - JSON line 44
+[2022-04-25T11:06:57.132] [INFO] jsonReader - JSON line 45
+[2022-04-25T11:06:57.132] [INFO] jsonReader - JSON line 46
+[2022-04-25T11:06:57.132] [INFO] jsonReader - JSON line 47
+[2022-04-25T11:06:57.133] [INFO] jsonReader - JSON line 48
+[2022-04-25T11:06:57.133] [INFO] jsonReader - JSON line 49
+[2022-04-25T11:06:57.133] [INFO] jsonReader - JSON line 50
+[2022-04-25T11:06:57.134] [INFO] jsonReader - JSON line 51
+[2022-04-25T11:06:57.134] [INFO] jsonReader - JSON line 52
+[2022-04-25T11:06:57.134] [INFO] jsonReader - JSON line 53
+[2022-04-25T11:06:57.135] [INFO] jsonReader - JSON line 54
+[2022-04-25T11:06:57.135] [INFO] jsonReader - JSON line 55
+[2022-04-25T11:06:57.135] [INFO] jsonReader - JSON line 56
+[2022-04-25T11:06:57.136] [INFO] jsonReader - JSON line 57
+[2022-04-25T11:06:57.136] [INFO] jsonReader - JSON line 58
+[2022-04-25T11:06:57.137] [INFO] jsonReader - JSON line 59
+[2022-04-25T11:06:57.137] [INFO] jsonReader - JSON line 60
+[2022-04-25T11:06:57.137] [INFO] jsonReader - JSON line 61
+[2022-04-25T11:06:57.138] [INFO] jsonReader - JSON line 62
+[2022-04-25T11:06:57.138] [INFO] jsonReader - JSON line 63
+[2022-04-25T11:06:57.139] [INFO] jsonReader - JSON line 64
+[2022-04-25T11:06:57.139] [INFO] jsonReader - JSON line 65
+[2022-04-25T11:06:57.139] [INFO] jsonReader - JSON line 66
+[2022-04-25T11:06:57.140] [INFO] jsonReader - JSON line 67
+[2022-04-25T11:06:57.140] [INFO] jsonReader - JSON line 68
+[2022-04-25T11:06:57.140] [INFO] jsonReader - JSON line 69
+[2022-04-25T11:06:57.141] [INFO] jsonReader - JSON line 70
+[2022-04-25T11:06:57.141] [INFO] jsonReader - JSON line 71
+[2022-04-25T11:06:57.142] [INFO] jsonReader - JSON line 72
+[2022-04-25T11:06:57.142] [INFO] jsonReader - JSON line 73
+[2022-04-25T11:06:57.143] [INFO] jsonReader - JSON line 74
+[2022-04-25T11:06:57.143] [INFO] jsonReader - JSON line 75
+[2022-04-25T11:06:57.144] [INFO] jsonReader - JSON line 76
+[2022-04-25T11:06:57.144] [INFO] jsonReader - JSON line 77
+[2022-04-25T11:06:57.145] [INFO] jsonReader - JSON line 78
+[2022-04-25T11:06:57.145] [INFO] jsonReader - JSON line 79
+[2022-04-25T11:06:57.145] [INFO] jsonReader - JSON line 80
+[2022-04-25T11:06:57.146] [INFO] jsonReader - JSON line 81
+[2022-04-25T11:06:57.146] [INFO] jsonReader - JSON line 82
+[2022-04-25T11:06:57.146] [INFO] jsonReader - JSON line 83
+[2022-04-25T11:06:57.147] [INFO] jsonReader - JSON line 84
+[2022-04-25T11:06:57.147] [INFO] jsonReader - JSON line 85
+[2022-04-25T11:06:57.147] [INFO] jsonReader - JSON line 86
+[2022-04-25T11:06:57.148] [INFO] jsonReader - JSON line 87
+[2022-04-25T11:06:57.148] [INFO] jsonReader - JSON line 88
+[2022-04-25T11:06:57.149] [INFO] jsonReader - JSON line 89
+[2022-04-25T11:06:57.149] [INFO] jsonReader - JSON line 90
+[2022-04-25T11:06:57.150] [INFO] jsonReader - JSON line 91
+[2022-04-25T11:06:57.150] [INFO] jsonReader - JSON line 92
+[2022-04-25T11:06:57.150] [INFO] jsonReader - JSON line 93
+[2022-04-25T11:06:57.151] [INFO] jsonReader - JSON line 94
+[2022-04-25T11:06:57.151] [INFO] jsonReader - JSON line 95
+[2022-04-25T11:06:57.151] [INFO] jsonReader - JSON line 96
+[2022-04-25T11:06:57.152] [INFO] jsonReader - JSON line 97
+[2022-04-25T11:06:57.152] [INFO] jsonReader - JSON line 98
+[2022-04-25T11:06:57.153] [INFO] jsonReader - JSON line 99
+[2022-04-25T11:06:57.153] [INFO] jsonReader - JSON line 100
+[2022-04-25T11:06:57.153] [INFO] jsonReader - JSON line 101
+[2022-04-25T11:06:57.154] [INFO] jsonReader - JSON line 102
+[2022-04-25T11:06:57.154] [INFO] jsonReader - JSON line 103
+[2022-04-25T11:06:57.155] [INFO] jsonReader - JSON line 104
+[2022-04-25T11:06:57.155] [INFO] jsonReader - JSON line 105
+[2022-04-25T11:06:57.155] [INFO] jsonReader - JSON line 106
+[2022-04-25T11:06:57.156] [INFO] jsonReader - JSON line 107
+[2022-04-25T11:06:57.156] [INFO] jsonReader - JSON line 108
+[2022-04-25T11:06:57.156] [INFO] jsonReader - JSON line 109
+[2022-04-25T11:06:57.157] [INFO] jsonReader - JSON line 110
+[2022-04-25T11:06:57.157] [INFO] jsonReader - JSON line 111
+[2022-04-25T11:06:57.157] [INFO] jsonReader - JSON line 112
+[2022-04-25T11:06:57.158] [INFO] jsonReader - JSON line 113
+[2022-04-25T11:06:57.158] [INFO] jsonReader - JSON line 114
+[2022-04-25T11:06:57.159] [INFO] jsonReader - JSON line 115
+[2022-04-25T11:06:57.159] [INFO] jsonReader - JSON line 116
+[2022-04-25T11:06:57.159] [INFO] jsonReader - JSON line 117
+[2022-04-25T11:06:57.160] [INFO] jsonReader - JSON line 118
+[2022-04-25T11:06:57.160] [INFO] jsonReader - JSON line 119
+[2022-04-25T11:06:57.160] [INFO] jsonReader - JSON line 120
+[2022-04-25T11:06:57.161] [INFO] jsonReader - JSON line 121
+[2022-04-25T11:06:57.161] [INFO] jsonReader - JSON line 122
+[2022-04-25T11:06:57.161] [INFO] jsonReader - JSON line 123
+[2022-04-25T11:06:57.162] [INFO] jsonReader - JSON line 124
+[2022-04-25T11:06:57.162] [INFO] jsonReader - JSON line 125
+[2022-04-25T11:06:57.163] [INFO] jsonReader - JSON line 126
+[2022-04-25T11:06:57.163] [INFO] jsonReader - JSON line 127
+[2022-04-25T11:06:57.164] [INFO] jsonReader - JSON line 128
+[2022-04-25T11:06:57.164] [INFO] jsonReader - JSON line 129
+[2022-04-25T11:06:57.164] [INFO] jsonReader - JSON line 130
+[2022-04-25T11:06:57.165] [INFO] jsonReader - JSON line 131
+[2022-04-25T11:06:57.165] [INFO] jsonReader - JSON line 132
+[2022-04-25T11:06:57.165] [INFO] jsonReader - JSON line 133
+[2022-04-25T11:06:57.166] [INFO] jsonReader - JSON line 134
+[2022-04-25T11:06:57.166] [INFO] jsonReader - JSON line 135
+[2022-04-25T11:06:57.166] [INFO] jsonReader - JSON line 136
+[2022-04-25T11:06:57.167] [INFO] jsonReader - JSON line 137
+[2022-04-25T11:06:57.167] [INFO] jsonReader - JSON line 138
+[2022-04-25T11:06:57.167] [INFO] jsonReader - JSON line 139
+[2022-04-25T11:06:57.168] [INFO] jsonReader - JSON line 140
+[2022-04-25T11:06:57.168] [INFO] jsonReader - JSON line 141
+[2022-04-25T11:06:57.168] [INFO] jsonReader - JSON line 142
+[2022-04-25T11:06:57.169] [INFO] jsonReader - JSON line 143
+[2022-04-25T11:06:57.169] [INFO] jsonReader - JSON line 144
+[2022-04-25T11:06:57.169] [INFO] jsonReader - JSON line 145
+[2022-04-25T11:06:57.170] [INFO] jsonReader - End of file. File read successfully.
+[2022-04-25T11:06:57.170] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:06:57.170] [INFO] csvReader - Jon A: -24.87
+[2022-04-25T11:06:57.172] [INFO] csvReader - Gergana I: -30.97
+[2022-04-25T11:06:57.172] [INFO] csvReader - Chris W: 27.31
+[2022-04-25T11:06:57.172] [INFO] csvReader - Dan W: 29.50
+[2022-04-25T11:06:57.173] [INFO] csvReader - Stephen S: -74.38
+[2022-04-25T11:06:57.173] [INFO] csvReader - Tim L: 85.99
+[2022-04-25T11:06:57.174] [INFO] csvReader - Todd: -28.48
+[2022-04-25T11:06:57.175] [INFO] csvReader - Rob S: 25.21
+[2022-04-25T11:06:57.176] [INFO] csvReader - Sarah T: 4.17
+[2022-04-25T11:06:57.176] [INFO] csvReader - Laura B: -11.80
+[2022-04-25T11:06:57.176] [INFO] csvReader - Ben B: -27.75
+[2022-04-25T11:06:57.177] [INFO] csvReader - Sam N: 26.07
+[2022-04-25T11:06:57.177] [INFO] csvReader - Finished printing balances for 12 accounts.
+[2022-04-25T11:08:40.865] [INFO] csvReader - User selected List All
+[2022-04-25T11:08:40.868] [INFO] csvReader - Program started
+[2022-04-25T11:08:40.871] [INFO] jsonReader - Reading file...
+[2022-04-25T11:08:40.872] [INFO] jsonReader - JSON line 1
+[2022-04-25T11:08:40.876] [INFO] jsonReader - JSON line 2
+[2022-04-25T11:08:40.876] [INFO] jsonReader - JSON line 3
+[2022-04-25T11:08:40.876] [INFO] jsonReader - JSON line 4
+[2022-04-25T11:08:40.877] [INFO] jsonReader - JSON line 5
+[2022-04-25T11:08:40.877] [INFO] jsonReader - JSON line 6
+[2022-04-25T11:08:40.878] [INFO] jsonReader - JSON line 7
+[2022-04-25T11:08:40.878] [INFO] jsonReader - JSON line 8
+[2022-04-25T11:08:40.879] [INFO] jsonReader - JSON line 9
+[2022-04-25T11:08:40.879] [INFO] jsonReader - JSON line 10
+[2022-04-25T11:08:40.880] [INFO] jsonReader - JSON line 11
+[2022-04-25T11:08:40.880] [INFO] jsonReader - JSON line 12
+[2022-04-25T11:08:40.881] [INFO] jsonReader - JSON line 13
+[2022-04-25T11:08:40.881] [INFO] jsonReader - JSON line 14
+[2022-04-25T11:08:40.881] [INFO] jsonReader - JSON line 15
+[2022-04-25T11:08:40.882] [INFO] jsonReader - JSON line 16
+[2022-04-25T11:08:40.882] [INFO] jsonReader - JSON line 17
+[2022-04-25T11:08:40.883] [INFO] jsonReader - JSON line 18
+[2022-04-25T11:08:40.883] [INFO] jsonReader - JSON line 19
+[2022-04-25T11:08:40.884] [INFO] jsonReader - JSON line 20
+[2022-04-25T11:08:40.884] [INFO] jsonReader - JSON line 21
+[2022-04-25T11:08:40.884] [INFO] jsonReader - JSON line 22
+[2022-04-25T11:08:40.885] [INFO] jsonReader - JSON line 23
+[2022-04-25T11:08:40.885] [INFO] jsonReader - JSON line 24
+[2022-04-25T11:08:40.885] [INFO] jsonReader - JSON line 25
+[2022-04-25T11:08:40.886] [INFO] jsonReader - JSON line 26
+[2022-04-25T11:08:40.886] [INFO] jsonReader - JSON line 27
+[2022-04-25T11:08:40.887] [INFO] jsonReader - JSON line 28
+[2022-04-25T11:08:40.887] [INFO] jsonReader - JSON line 29
+[2022-04-25T11:08:40.888] [INFO] jsonReader - JSON line 30
+[2022-04-25T11:08:40.888] [INFO] jsonReader - JSON line 31
+[2022-04-25T11:08:40.888] [INFO] jsonReader - JSON line 32
+[2022-04-25T11:08:40.889] [INFO] jsonReader - JSON line 33
+[2022-04-25T11:08:40.889] [INFO] jsonReader - JSON line 34
+[2022-04-25T11:08:40.890] [INFO] jsonReader - JSON line 35
+[2022-04-25T11:08:40.890] [INFO] jsonReader - JSON line 36
+[2022-04-25T11:08:40.890] [INFO] jsonReader - JSON line 37
+[2022-04-25T11:08:40.891] [INFO] jsonReader - JSON line 38
+[2022-04-25T11:08:40.891] [INFO] jsonReader - JSON line 39
+[2022-04-25T11:08:40.891] [INFO] jsonReader - JSON line 40
+[2022-04-25T11:08:40.892] [INFO] jsonReader - JSON line 41
+[2022-04-25T11:08:40.892] [INFO] jsonReader - JSON line 42
+[2022-04-25T11:08:40.893] [INFO] jsonReader - JSON line 43
+[2022-04-25T11:08:40.893] [INFO] jsonReader - JSON line 44
+[2022-04-25T11:08:40.893] [INFO] jsonReader - JSON line 45
+[2022-04-25T11:08:40.894] [INFO] jsonReader - JSON line 46
+[2022-04-25T11:08:40.894] [INFO] jsonReader - JSON line 47
+[2022-04-25T11:08:40.894] [INFO] jsonReader - JSON line 48
+[2022-04-25T11:08:40.895] [INFO] jsonReader - JSON line 49
+[2022-04-25T11:08:40.895] [INFO] jsonReader - JSON line 50
+[2022-04-25T11:08:40.895] [INFO] jsonReader - JSON line 51
+[2022-04-25T11:08:40.896] [INFO] jsonReader - JSON line 52
+[2022-04-25T11:08:40.896] [INFO] jsonReader - JSON line 53
+[2022-04-25T11:08:40.896] [INFO] jsonReader - JSON line 54
+[2022-04-25T11:08:40.897] [INFO] jsonReader - JSON line 55
+[2022-04-25T11:08:40.897] [INFO] jsonReader - JSON line 56
+[2022-04-25T11:08:40.897] [INFO] jsonReader - JSON line 57
+[2022-04-25T11:08:40.898] [INFO] jsonReader - JSON line 58
+[2022-04-25T11:08:40.898] [INFO] jsonReader - JSON line 59
+[2022-04-25T11:08:40.899] [INFO] jsonReader - JSON line 60
+[2022-04-25T11:08:40.899] [INFO] jsonReader - JSON line 61
+[2022-04-25T11:08:40.900] [INFO] jsonReader - JSON line 62
+[2022-04-25T11:08:40.900] [INFO] jsonReader - JSON line 63
+[2022-04-25T11:08:40.900] [INFO] jsonReader - JSON line 64
+[2022-04-25T11:08:40.901] [INFO] jsonReader - JSON line 65
+[2022-04-25T11:08:40.901] [INFO] jsonReader - JSON line 66
+[2022-04-25T11:08:40.901] [INFO] jsonReader - JSON line 67
+[2022-04-25T11:08:40.902] [INFO] jsonReader - JSON line 68
+[2022-04-25T11:08:40.902] [INFO] jsonReader - JSON line 69
+[2022-04-25T11:08:40.903] [INFO] jsonReader - JSON line 70
+[2022-04-25T11:08:40.903] [INFO] jsonReader - JSON line 71
+[2022-04-25T11:08:40.903] [INFO] jsonReader - JSON line 72
+[2022-04-25T11:08:40.904] [INFO] jsonReader - JSON line 73
+[2022-04-25T11:08:40.904] [INFO] jsonReader - JSON line 74
+[2022-04-25T11:08:40.905] [INFO] jsonReader - JSON line 75
+[2022-04-25T11:08:40.905] [INFO] jsonReader - JSON line 76
+[2022-04-25T11:08:40.905] [INFO] jsonReader - JSON line 77
+[2022-04-25T11:08:40.906] [INFO] jsonReader - JSON line 78
+[2022-04-25T11:08:40.906] [INFO] jsonReader - JSON line 79
+[2022-04-25T11:08:40.907] [INFO] jsonReader - JSON line 80
+[2022-04-25T11:08:40.907] [INFO] jsonReader - JSON line 81
+[2022-04-25T11:08:40.907] [INFO] jsonReader - JSON line 82
+[2022-04-25T11:08:40.908] [INFO] jsonReader - JSON line 83
+[2022-04-25T11:08:40.908] [INFO] jsonReader - JSON line 84
+[2022-04-25T11:08:40.908] [INFO] jsonReader - JSON line 85
+[2022-04-25T11:08:40.909] [INFO] jsonReader - JSON line 86
+[2022-04-25T11:08:40.909] [INFO] jsonReader - JSON line 87
+[2022-04-25T11:08:40.909] [INFO] jsonReader - JSON line 88
+[2022-04-25T11:08:40.910] [INFO] jsonReader - JSON line 89
+[2022-04-25T11:08:40.910] [INFO] jsonReader - JSON line 90
+[2022-04-25T11:08:40.910] [INFO] jsonReader - JSON line 91
+[2022-04-25T11:08:40.911] [INFO] jsonReader - JSON line 92
+[2022-04-25T11:08:40.911] [INFO] jsonReader - JSON line 93
+[2022-04-25T11:08:40.911] [INFO] jsonReader - JSON line 94
+[2022-04-25T11:08:40.912] [INFO] jsonReader - JSON line 95
+[2022-04-25T11:08:40.912] [INFO] jsonReader - JSON line 96
+[2022-04-25T11:08:40.913] [INFO] jsonReader - JSON line 97
+[2022-04-25T11:08:40.913] [INFO] jsonReader - JSON line 98
+[2022-04-25T11:08:40.913] [INFO] jsonReader - JSON line 99
+[2022-04-25T11:08:40.914] [INFO] jsonReader - JSON line 100
+[2022-04-25T11:08:40.914] [INFO] jsonReader - JSON line 101
+[2022-04-25T11:08:40.914] [INFO] jsonReader - JSON line 102
+[2022-04-25T11:08:40.915] [INFO] jsonReader - JSON line 103
+[2022-04-25T11:08:40.915] [INFO] jsonReader - JSON line 104
+[2022-04-25T11:08:40.915] [INFO] jsonReader - JSON line 105
+[2022-04-25T11:08:40.916] [INFO] jsonReader - JSON line 106
+[2022-04-25T11:08:40.916] [INFO] jsonReader - JSON line 107
+[2022-04-25T11:08:40.916] [INFO] jsonReader - JSON line 108
+[2022-04-25T11:08:40.917] [INFO] jsonReader - JSON line 109
+[2022-04-25T11:08:40.917] [INFO] jsonReader - JSON line 110
+[2022-04-25T11:08:40.917] [INFO] jsonReader - JSON line 111
+[2022-04-25T11:08:40.918] [INFO] jsonReader - JSON line 112
+[2022-04-25T11:08:40.918] [INFO] jsonReader - JSON line 113
+[2022-04-25T11:08:40.918] [INFO] jsonReader - JSON line 114
+[2022-04-25T11:08:40.919] [INFO] jsonReader - JSON line 115
+[2022-04-25T11:08:40.919] [INFO] jsonReader - JSON line 116
+[2022-04-25T11:08:40.919] [INFO] jsonReader - JSON line 117
+[2022-04-25T11:08:40.920] [INFO] jsonReader - JSON line 118
+[2022-04-25T11:08:40.920] [INFO] jsonReader - JSON line 119
+[2022-04-25T11:08:40.920] [INFO] jsonReader - JSON line 120
+[2022-04-25T11:08:40.921] [INFO] jsonReader - JSON line 121
+[2022-04-25T11:08:40.921] [INFO] jsonReader - JSON line 122
+[2022-04-25T11:08:40.922] [INFO] jsonReader - JSON line 123
+[2022-04-25T11:08:40.923] [INFO] jsonReader - JSON line 124
+[2022-04-25T11:08:40.923] [INFO] jsonReader - JSON line 125
+[2022-04-25T11:08:40.924] [INFO] jsonReader - JSON line 126
+[2022-04-25T11:08:40.924] [INFO] jsonReader - JSON line 127
+[2022-04-25T11:08:40.924] [INFO] jsonReader - JSON line 128
+[2022-04-25T11:08:40.924] [INFO] jsonReader - JSON line 129
+[2022-04-25T11:08:40.925] [INFO] jsonReader - JSON line 130
+[2022-04-25T11:08:40.925] [INFO] jsonReader - JSON line 131
+[2022-04-25T11:08:40.925] [INFO] jsonReader - JSON line 132
+[2022-04-25T11:08:40.926] [INFO] jsonReader - JSON line 133
+[2022-04-25T11:08:40.926] [INFO] jsonReader - JSON line 134
+[2022-04-25T11:08:40.926] [INFO] jsonReader - JSON line 135
+[2022-04-25T11:08:40.927] [INFO] jsonReader - JSON line 136
+[2022-04-25T11:08:40.927] [INFO] jsonReader - JSON line 137
+[2022-04-25T11:08:40.927] [INFO] jsonReader - JSON line 138
+[2022-04-25T11:08:40.928] [INFO] jsonReader - JSON line 139
+[2022-04-25T11:08:40.928] [INFO] jsonReader - JSON line 140
+[2022-04-25T11:08:40.928] [INFO] jsonReader - JSON line 141
+[2022-04-25T11:08:40.929] [INFO] jsonReader - JSON line 142
+[2022-04-25T11:08:40.929] [INFO] jsonReader - JSON line 143
+[2022-04-25T11:08:40.929] [INFO] jsonReader - JSON line 144
+[2022-04-25T11:08:40.930] [INFO] jsonReader - JSON line 145
+[2022-04-25T11:08:40.930] [INFO] jsonReader - End of file. File read successfully.
+[2022-04-25T11:08:40.930] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:08:40.931] [INFO] csvReader - Jon A: -24.87
+[2022-04-25T11:08:40.932] [INFO] csvReader - Gergana I: -30.97
+[2022-04-25T11:08:40.933] [INFO] csvReader - Chris W: 27.31
+[2022-04-25T11:08:40.933] [INFO] csvReader - Dan W: 29.50
+[2022-04-25T11:08:40.934] [INFO] csvReader - Stephen S: -74.38
+[2022-04-25T11:08:40.934] [INFO] csvReader - Tim L: 85.99
+[2022-04-25T11:08:40.935] [INFO] csvReader - Todd: -28.48
+[2022-04-25T11:08:40.935] [INFO] csvReader - Rob S: 25.21
+[2022-04-25T11:08:40.935] [INFO] csvReader - Sarah T: 4.17
+[2022-04-25T11:08:40.936] [INFO] csvReader - Laura B: -11.80
+[2022-04-25T11:08:40.936] [INFO] csvReader - Ben B: -27.75
+[2022-04-25T11:08:40.936] [INFO] csvReader - Sam N: 26.07
+[2022-04-25T11:08:40.937] [INFO] csvReader - Finished printing balances for 12 accounts.
+[2022-04-25T11:08:44.560] [INFO] csvReader - User selected List Account
+[2022-04-25T11:08:44.561] [INFO] csvReader - Program started
+[2022-04-25T11:08:44.562] [INFO] jsonReader - Reading file...
+[2022-04-25T11:08:44.562] [INFO] jsonReader - JSON line 1
+[2022-04-25T11:08:44.563] [INFO] jsonReader - JSON line 2
+[2022-04-25T11:08:44.564] [INFO] jsonReader - JSON line 3
+[2022-04-25T11:08:44.564] [INFO] jsonReader - JSON line 4
+[2022-04-25T11:08:44.565] [INFO] jsonReader - JSON line 5
+[2022-04-25T11:08:44.565] [INFO] jsonReader - JSON line 6
+[2022-04-25T11:08:44.566] [INFO] jsonReader - JSON line 7
+[2022-04-25T11:08:44.566] [INFO] jsonReader - JSON line 8
+[2022-04-25T11:08:44.566] [INFO] jsonReader - JSON line 9
+[2022-04-25T11:08:44.567] [INFO] jsonReader - JSON line 10
+[2022-04-25T11:08:44.567] [INFO] jsonReader - JSON line 11
+[2022-04-25T11:08:44.568] [INFO] jsonReader - JSON line 12
+[2022-04-25T11:08:44.568] [INFO] jsonReader - JSON line 13
+[2022-04-25T11:08:44.569] [INFO] jsonReader - JSON line 14
+[2022-04-25T11:08:44.569] [INFO] jsonReader - JSON line 15
+[2022-04-25T11:08:44.570] [INFO] jsonReader - JSON line 16
+[2022-04-25T11:08:44.570] [INFO] jsonReader - JSON line 17
+[2022-04-25T11:08:44.571] [INFO] jsonReader - JSON line 18
+[2022-04-25T11:08:44.571] [INFO] jsonReader - JSON line 19
+[2022-04-25T11:08:44.571] [INFO] jsonReader - JSON line 20
+[2022-04-25T11:08:44.572] [INFO] jsonReader - JSON line 21
+[2022-04-25T11:08:44.572] [INFO] jsonReader - JSON line 22
+[2022-04-25T11:08:44.573] [INFO] jsonReader - JSON line 23
+[2022-04-25T11:08:44.573] [INFO] jsonReader - JSON line 24
+[2022-04-25T11:08:44.574] [INFO] jsonReader - JSON line 25
+[2022-04-25T11:08:44.574] [INFO] jsonReader - JSON line 26
+[2022-04-25T11:08:44.574] [INFO] jsonReader - JSON line 27
+[2022-04-25T11:08:44.575] [INFO] jsonReader - JSON line 28
+[2022-04-25T11:08:44.575] [INFO] jsonReader - JSON line 29
+[2022-04-25T11:08:44.576] [INFO] jsonReader - JSON line 30
+[2022-04-25T11:08:44.576] [INFO] jsonReader - JSON line 31
+[2022-04-25T11:08:44.576] [INFO] jsonReader - JSON line 32
+[2022-04-25T11:08:44.577] [INFO] jsonReader - JSON line 33
+[2022-04-25T11:08:44.577] [INFO] jsonReader - JSON line 34
+[2022-04-25T11:08:44.577] [INFO] jsonReader - JSON line 35
+[2022-04-25T11:08:44.578] [INFO] jsonReader - JSON line 36
+[2022-04-25T11:08:44.578] [INFO] jsonReader - JSON line 37
+[2022-04-25T11:08:44.579] [INFO] jsonReader - JSON line 38
+[2022-04-25T11:08:44.579] [INFO] jsonReader - JSON line 39
+[2022-04-25T11:08:44.579] [INFO] jsonReader - JSON line 40
+[2022-04-25T11:08:44.580] [INFO] jsonReader - JSON line 41
+[2022-04-25T11:08:44.580] [INFO] jsonReader - JSON line 42
+[2022-04-25T11:08:44.580] [INFO] jsonReader - JSON line 43
+[2022-04-25T11:08:44.581] [INFO] jsonReader - JSON line 44
+[2022-04-25T11:08:44.581] [INFO] jsonReader - JSON line 45
+[2022-04-25T11:08:44.581] [INFO] jsonReader - JSON line 46
+[2022-04-25T11:08:44.582] [INFO] jsonReader - JSON line 47
+[2022-04-25T11:08:44.582] [INFO] jsonReader - JSON line 48
+[2022-04-25T11:08:44.583] [INFO] jsonReader - JSON line 49
+[2022-04-25T11:08:44.583] [INFO] jsonReader - JSON line 50
+[2022-04-25T11:08:44.584] [INFO] jsonReader - JSON line 51
+[2022-04-25T11:08:44.584] [INFO] jsonReader - JSON line 52
+[2022-04-25T11:08:44.584] [INFO] jsonReader - JSON line 53
+[2022-04-25T11:08:44.585] [INFO] jsonReader - JSON line 54
+[2022-04-25T11:08:44.585] [INFO] jsonReader - JSON line 55
+[2022-04-25T11:08:44.585] [INFO] jsonReader - JSON line 56
+[2022-04-25T11:08:44.586] [INFO] jsonReader - JSON line 57
+[2022-04-25T11:08:44.586] [INFO] jsonReader - JSON line 58
+[2022-04-25T11:08:44.586] [INFO] jsonReader - JSON line 59
+[2022-04-25T11:08:44.587] [INFO] jsonReader - JSON line 60
+[2022-04-25T11:08:44.587] [INFO] jsonReader - JSON line 61
+[2022-04-25T11:08:44.588] [INFO] jsonReader - JSON line 62
+[2022-04-25T11:08:44.588] [INFO] jsonReader - JSON line 63
+[2022-04-25T11:08:44.588] [INFO] jsonReader - JSON line 64
+[2022-04-25T11:08:44.589] [INFO] jsonReader - JSON line 65
+[2022-04-25T11:08:44.589] [INFO] jsonReader - JSON line 66
+[2022-04-25T11:08:44.589] [INFO] jsonReader - JSON line 67
+[2022-04-25T11:08:44.590] [INFO] jsonReader - JSON line 68
+[2022-04-25T11:08:44.590] [INFO] jsonReader - JSON line 69
+[2022-04-25T11:08:44.591] [INFO] jsonReader - JSON line 70
+[2022-04-25T11:08:44.591] [INFO] jsonReader - JSON line 71
+[2022-04-25T11:08:44.591] [INFO] jsonReader - JSON line 72
+[2022-04-25T11:08:44.592] [INFO] jsonReader - JSON line 73
+[2022-04-25T11:08:44.592] [INFO] jsonReader - JSON line 74
+[2022-04-25T11:08:44.593] [INFO] jsonReader - JSON line 75
+[2022-04-25T11:08:44.593] [INFO] jsonReader - JSON line 76
+[2022-04-25T11:08:44.594] [INFO] jsonReader - JSON line 77
+[2022-04-25T11:08:44.594] [INFO] jsonReader - JSON line 78
+[2022-04-25T11:08:44.594] [INFO] jsonReader - JSON line 79
+[2022-04-25T11:08:44.595] [INFO] jsonReader - JSON line 80
+[2022-04-25T11:08:44.595] [INFO] jsonReader - JSON line 81
+[2022-04-25T11:08:44.595] [INFO] jsonReader - JSON line 82
+[2022-04-25T11:08:44.596] [INFO] jsonReader - JSON line 83
+[2022-04-25T11:08:44.596] [INFO] jsonReader - JSON line 84
+[2022-04-25T11:08:44.596] [INFO] jsonReader - JSON line 85
+[2022-04-25T11:08:44.597] [INFO] jsonReader - JSON line 86
+[2022-04-25T11:08:44.597] [INFO] jsonReader - JSON line 87
+[2022-04-25T11:08:44.597] [INFO] jsonReader - JSON line 88
+[2022-04-25T11:08:44.598] [INFO] jsonReader - JSON line 89
+[2022-04-25T11:08:44.598] [INFO] jsonReader - JSON line 90
+[2022-04-25T11:08:44.598] [INFO] jsonReader - JSON line 91
+[2022-04-25T11:08:44.599] [INFO] jsonReader - JSON line 92
+[2022-04-25T11:08:44.599] [INFO] jsonReader - JSON line 93
+[2022-04-25T11:08:44.600] [INFO] jsonReader - JSON line 94
+[2022-04-25T11:08:44.600] [INFO] jsonReader - JSON line 95
+[2022-04-25T11:08:44.600] [INFO] jsonReader - JSON line 96
+[2022-04-25T11:08:44.601] [INFO] jsonReader - JSON line 97
+[2022-04-25T11:08:44.601] [INFO] jsonReader - JSON line 98
+[2022-04-25T11:08:44.601] [INFO] jsonReader - JSON line 99
+[2022-04-25T11:08:44.602] [INFO] jsonReader - JSON line 100
+[2022-04-25T11:08:44.602] [INFO] jsonReader - JSON line 101
+[2022-04-25T11:08:44.603] [INFO] jsonReader - JSON line 102
+[2022-04-25T11:08:44.603] [INFO] jsonReader - JSON line 103
+[2022-04-25T11:08:44.603] [INFO] jsonReader - JSON line 104
+[2022-04-25T11:08:44.604] [INFO] jsonReader - JSON line 105
+[2022-04-25T11:08:44.604] [INFO] jsonReader - JSON line 106
+[2022-04-25T11:08:44.604] [INFO] jsonReader - JSON line 107
+[2022-04-25T11:08:44.605] [INFO] jsonReader - JSON line 108
+[2022-04-25T11:08:44.605] [INFO] jsonReader - JSON line 109
+[2022-04-25T11:08:44.605] [INFO] jsonReader - JSON line 110
+[2022-04-25T11:08:44.606] [INFO] jsonReader - JSON line 111
+[2022-04-25T11:08:44.606] [INFO] jsonReader - JSON line 112
+[2022-04-25T11:08:44.606] [INFO] jsonReader - JSON line 113
+[2022-04-25T11:08:44.607] [INFO] jsonReader - JSON line 114
+[2022-04-25T11:08:44.607] [INFO] jsonReader - JSON line 115
+[2022-04-25T11:08:44.608] [INFO] jsonReader - JSON line 116
+[2022-04-25T11:08:44.608] [INFO] jsonReader - JSON line 117
+[2022-04-25T11:08:44.608] [INFO] jsonReader - JSON line 118
+[2022-04-25T11:08:44.609] [INFO] jsonReader - JSON line 119
+[2022-04-25T11:08:44.609] [INFO] jsonReader - JSON line 120
+[2022-04-25T11:08:44.610] [INFO] jsonReader - JSON line 121
+[2022-04-25T11:08:44.610] [INFO] jsonReader - JSON line 122
+[2022-04-25T11:08:44.610] [INFO] jsonReader - JSON line 123
+[2022-04-25T11:08:44.611] [INFO] jsonReader - JSON line 124
+[2022-04-25T11:08:44.611] [INFO] jsonReader - JSON line 125
+[2022-04-25T11:08:44.611] [INFO] jsonReader - JSON line 126
+[2022-04-25T11:08:44.612] [INFO] jsonReader - JSON line 127
+[2022-04-25T11:08:44.612] [INFO] jsonReader - JSON line 128
+[2022-04-25T11:08:44.612] [INFO] jsonReader - JSON line 129
+[2022-04-25T11:08:44.613] [INFO] jsonReader - JSON line 130
+[2022-04-25T11:08:44.613] [INFO] jsonReader - JSON line 131
+[2022-04-25T11:08:44.613] [INFO] jsonReader - JSON line 132
+[2022-04-25T11:08:44.614] [INFO] jsonReader - JSON line 133
+[2022-04-25T11:08:44.614] [INFO] jsonReader - JSON line 134
+[2022-04-25T11:08:44.614] [INFO] jsonReader - JSON line 135
+[2022-04-25T11:08:44.615] [INFO] jsonReader - JSON line 136
+[2022-04-25T11:08:44.615] [INFO] jsonReader - JSON line 137
+[2022-04-25T11:08:44.615] [INFO] jsonReader - JSON line 138
+[2022-04-25T11:08:44.616] [INFO] jsonReader - JSON line 139
+[2022-04-25T11:08:44.616] [INFO] jsonReader - JSON line 140
+[2022-04-25T11:08:44.616] [INFO] jsonReader - JSON line 141
+[2022-04-25T11:08:44.617] [INFO] jsonReader - JSON line 142
+[2022-04-25T11:08:44.617] [INFO] jsonReader - JSON line 143
+[2022-04-25T11:08:44.617] [INFO] jsonReader - JSON line 144
+[2022-04-25T11:08:44.618] [INFO] jsonReader - JSON line 145
+[2022-04-25T11:08:44.618] [INFO] jsonReader - End of file. File read successfully.
+[2022-04-25T11:08:44.618] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:08:46.023] [INFO] csvReader - User entered: Todd
+[2022-04-25T11:08:46.024] [INFO] csvReader - Fetching Todd's transactions...
+[2022-04-25T11:08:46.025] [INFO] csvReader - Wed Jan 09 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $8.19 for Coffee
+[2022-04-25T11:08:46.027] [INFO] csvReader - Sun Jan 13 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $1.01 for Coffee
+[2022-04-25T11:08:46.027] [INFO] csvReader - Tue Jan 15 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Laura B $2.71 for Golf Bets
+[2022-04-25T11:08:46.029] [INFO] csvReader - Wed Jan 30 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Sarah T paid Todd $11.95 for Jenkins Fees
+[2022-04-25T11:08:46.029] [INFO] csvReader - Sun Feb 10 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Stephen S paid Todd $10.40 for Snooker Night
+[2022-04-25T11:08:46.030] [INFO] csvReader - Tue Mar 12 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Jon A $0.90 for Automated Testing Services
+[2022-04-25T11:08:46.031] [INFO] csvReader - Thu Mar 14 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Chris W $8.97 for Rails Consultancy
+[2022-04-25T11:08:46.031] [INFO] csvReader - Sun Apr 07 2013 00:00:00 GMT+0100 (British Summer Time) Tim L paid Todd $4.27 for Jenkins Fees
+[2022-04-25T11:08:46.032] [INFO] csvReader - Mon Apr 08 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Gergana I $2.60 for Misc Morale
+[2022-04-25T11:08:46.032] [INFO] csvReader - Sat Apr 20 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Sarah T $5.32 for Sandcastle Help
+[2022-04-25T11:08:46.033] [INFO] csvReader - Sun May 05 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Dan W $4.92 for Git-Fu Rendered
+[2022-04-25T11:08:46.034] [INFO] csvReader - Sun May 12 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Ben B $11.07 for Coffee
+[2022-04-25T11:08:46.034] [INFO] csvReader - Sat Jun 01 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Ben B $11.83 for Golf Bets
+[2022-04-25T11:08:46.035] [INFO] csvReader - Wed Jun 05 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Jon A $1.06 for Pokemon Training
+[2022-04-25T11:08:46.035] [INFO] csvReader - Thu Jun 20 2013 00:00:00 GMT+0100 (British Summer Time) Dan W paid Todd $5.43 for Lunch
+[2022-04-25T11:08:46.036] [INFO] csvReader - Mon Jul 29 2013 00:00:00 GMT+0100 (British Summer Time) Ben B paid Todd $0.69 for Beers
+[2022-04-25T11:08:46.036] [INFO] csvReader - Wed Jul 31 2013 00:00:00 GMT+0100 (British Summer Time) Ben B paid Todd $11.18 for Lunch
+[2022-04-25T11:08:46.037] [INFO] csvReader - Thu Aug 22 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Sam N $0.60 for Beers
+[2022-04-25T11:08:46.037] [INFO] csvReader - Sun Aug 25 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Rob S $3.85 for Lunch
+[2022-04-25T11:08:46.037] [INFO] csvReader - Mon Sep 30 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Tim L $10.13 for Coffee
+[2022-04-25T11:08:46.038] [INFO] csvReader - Thu Oct 10 2013 00:00:00 GMT+0100 (British Summer Time) Todd paid Rob S $10.62 for Lunch
+[2022-04-25T11:08:46.038] [INFO] csvReader - Tue Oct 22 2013 00:00:00 GMT+0100 (British Summer Time) Chris W paid Todd $3.42 for Lego Assistance
+[2022-04-25T11:08:46.038] [INFO] csvReader - Thu Nov 28 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Ben B paid Todd $2.15 for Golf Bets
+[2022-04-25T11:08:46.039] [INFO] csvReader - Mon Dec 02 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Jon A paid Todd $10.19 for Misc Morale
+[2022-04-25T11:08:46.039] [INFO] csvReader - Thu Dec 19 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $8.72 for Pokemon Training
+[2022-04-25T11:08:46.040] [INFO] csvReader - Fri Dec 27 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Stephen S paid Todd $4.34 for Spline Reticulation
+[2022-04-25T11:08:46.040] [INFO] csvReader - Finished printing Todd's transactions.
