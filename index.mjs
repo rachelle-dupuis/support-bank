@@ -4,6 +4,7 @@ import {getJsonFileTransactions} from "./fileReaders/jsonReader.mjs";
 import {printAllTransactions} from "./client/printAllTransactions.mjs";
 import {getAccountBalances} from "./client/getAccountBalances.mjs";
 import {getCsvFileTransactions} from "./fileReaders/csvReader.mjs";
+import {getXmlFileTransactions} from "./fileReaders/xmlReader.mjs";
 const logger = log4js.getLogger('csvReader');
 log4js.configure({
     appenders: {
@@ -32,6 +33,7 @@ export class Transaction {
 
 const filePath = 'Transactions2014.csv';
 const jsonFile = 'Transactions2013.json';
+const xml = 'C:\\Work\\Training\\support-bank\\Transactions2012.xml';
 
 const readlineSync = readline,
     options = ['List All', 'List Account'],
@@ -41,7 +43,7 @@ logger.info('User selected ' + options[index]);
 async function returnUserSelection() {
     logger.info('Program started')
 
-    const { transactions, accounts } = await getCsvFileTransactions(filePath);
+    const { transactions, accounts } = await getXmlFileTransactions(xml);
 
     switch (options[index]) {
         case 'List All':

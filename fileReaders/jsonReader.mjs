@@ -13,8 +13,7 @@ log4js.configure({
     }
 });
 
-
-export function getJsonFileTransactions (file) {
+export function getJsonFileTransactions(file) {
     const jsonFile = fs.readFileSync(file, 'utf8');
     const jsonArray = JSON.parse(jsonFile);
     const transactions = [];
