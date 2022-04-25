@@ -1,7 +1,7 @@
 import moment from 'moment';
 moment().format();
 import * as fs from 'fs';
-import {Transaction} from "./csvReader.mjs";
+import {Transaction} from "../index.mjs";
 import log4js from "log4js";
 const logger = log4js.getLogger('jsonReader');
 log4js.configure({

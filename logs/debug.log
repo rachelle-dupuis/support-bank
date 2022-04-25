@@ -24749,3 +24749,2254 @@
 [2022-04-25T11:08:46.039] [INFO] csvReader - Thu Dec 19 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $8.72 for Pokemon Training
 [2022-04-25T11:08:46.040] [INFO] csvReader - Fri Dec 27 2013 00:00:00 GMT+0000 (Greenwich Mean Time) Stephen S paid Todd $4.34 for Spline Reticulation
 [2022-04-25T11:08:46.040] [INFO] csvReader - Finished printing Todd's transactions.
+[2022-04-25T11:13:54.957] [INFO] csvReader - User selected List All
+[2022-04-25T11:13:54.959] [INFO] csvReader - Program started
+[2022-04-25T11:13:54.959] [INFO] csvReader - Reading file...
+[2022-04-25T11:13:54.964] [INFO] csvReader - CSV line 2
+[2022-04-25T11:14:25.439] [INFO] csvReader - User selected List All
+[2022-04-25T11:14:25.442] [INFO] csvReader - Program started
+[2022-04-25T11:14:25.443] [INFO] csvReader - Reading file...
+[2022-04-25T11:14:25.450] [INFO] csvReader - CSV line 2
+[2022-04-25T11:14:25.451] [INFO] csvReader - CSV line 3
+[2022-04-25T11:14:25.452] [INFO] csvReader - CSV line 4
+[2022-04-25T11:14:25.452] [INFO] csvReader - CSV line 5
+[2022-04-25T11:14:25.452] [INFO] csvReader - CSV line 6
+[2022-04-25T11:14:25.453] [INFO] csvReader - CSV line 7
+[2022-04-25T11:14:25.453] [INFO] csvReader - CSV line 8
+[2022-04-25T11:14:25.454] [INFO] csvReader - CSV line 9
+[2022-04-25T11:14:25.454] [INFO] csvReader - CSV line 10
+[2022-04-25T11:14:25.455] [INFO] csvReader - CSV line 11
+[2022-04-25T11:14:25.455] [INFO] csvReader - CSV line 12
+[2022-04-25T11:14:25.455] [INFO] csvReader - CSV line 13
+[2022-04-25T11:14:25.456] [INFO] csvReader - CSV line 14
+[2022-04-25T11:14:25.456] [INFO] csvReader - CSV line 15
+[2022-04-25T11:14:25.457] [INFO] csvReader - CSV line 16
+[2022-04-25T11:14:25.457] [INFO] csvReader - CSV line 17
+[2022-04-25T11:14:25.458] [INFO] csvReader - CSV line 18
+[2022-04-25T11:14:25.458] [INFO] csvReader - CSV line 19
+[2022-04-25T11:14:25.458] [INFO] csvReader - CSV line 20
+[2022-04-25T11:14:25.459] [INFO] csvReader - CSV line 21
+[2022-04-25T11:14:25.459] [INFO] csvReader - CSV line 22
+[2022-04-25T11:14:25.460] [INFO] csvReader - CSV line 23
+[2022-04-25T11:14:25.460] [INFO] csvReader - CSV line 24
+[2022-04-25T11:14:25.461] [INFO] csvReader - CSV line 25
+[2022-04-25T11:14:25.461] [INFO] csvReader - CSV line 26
+[2022-04-25T11:14:25.462] [INFO] csvReader - CSV line 27
+[2022-04-25T11:14:25.462] [INFO] csvReader - CSV line 28
+[2022-04-25T11:14:25.463] [INFO] csvReader - CSV line 29
+[2022-04-25T11:14:25.463] [INFO] csvReader - CSV line 30
+[2022-04-25T11:14:25.463] [INFO] csvReader - CSV line 31
+[2022-04-25T11:14:25.464] [INFO] csvReader - CSV line 32
+[2022-04-25T11:14:25.464] [INFO] csvReader - CSV line 33
+[2022-04-25T11:14:25.465] [INFO] csvReader - CSV line 34
+[2022-04-25T11:14:25.465] [INFO] csvReader - CSV line 35
+[2022-04-25T11:14:25.465] [INFO] csvReader - CSV line 36
+[2022-04-25T11:14:25.466] [INFO] csvReader - CSV line 37
+[2022-04-25T11:14:25.466] [INFO] csvReader - CSV line 38
+[2022-04-25T11:14:25.466] [INFO] csvReader - CSV line 39
+[2022-04-25T11:14:25.467] [INFO] csvReader - CSV line 40
+[2022-04-25T11:14:25.467] [INFO] csvReader - CSV line 41
+[2022-04-25T11:14:25.468] [INFO] csvReader - CSV line 42
+[2022-04-25T11:14:25.468] [INFO] csvReader - CSV line 43
+[2022-04-25T11:14:25.468] [INFO] csvReader - CSV line 44
+[2022-04-25T11:14:25.469] [INFO] csvReader - CSV line 45
+[2022-04-25T11:14:25.469] [INFO] csvReader - CSV line 46
+[2022-04-25T11:14:25.469] [INFO] csvReader - CSV line 47
+[2022-04-25T11:14:25.470] [INFO] csvReader - CSV line 48
+[2022-04-25T11:14:25.470] [INFO] csvReader - CSV line 49
+[2022-04-25T11:14:25.471] [INFO] csvReader - CSV line 50
+[2022-04-25T11:14:25.472] [INFO] csvReader - CSV line 51
+[2022-04-25T11:14:25.472] [INFO] csvReader - CSV line 52
+[2022-04-25T11:14:25.472] [INFO] csvReader - CSV line 53
+[2022-04-25T11:14:25.473] [INFO] csvReader - CSV line 54
+[2022-04-25T11:14:25.473] [INFO] csvReader - CSV line 55
+[2022-04-25T11:14:25.473] [INFO] csvReader - CSV line 56
+[2022-04-25T11:14:25.474] [INFO] csvReader - CSV line 57
+[2022-04-25T11:14:25.474] [INFO] csvReader - CSV line 58
+[2022-04-25T11:14:25.475] [INFO] csvReader - CSV line 59
+[2022-04-25T11:14:25.475] [INFO] csvReader - CSV line 60
+[2022-04-25T11:14:25.476] [INFO] csvReader - CSV line 61
+[2022-04-25T11:14:25.476] [INFO] csvReader - CSV line 62
+[2022-04-25T11:14:25.477] [INFO] csvReader - CSV line 63
+[2022-04-25T11:14:25.477] [INFO] csvReader - CSV line 64
+[2022-04-25T11:14:25.478] [INFO] csvReader - CSV line 65
+[2022-04-25T11:14:25.478] [INFO] csvReader - CSV line 66
+[2022-04-25T11:14:25.479] [INFO] csvReader - CSV line 67
+[2022-04-25T11:14:25.479] [INFO] csvReader - CSV line 68
+[2022-04-25T11:14:25.479] [INFO] csvReader - CSV line 69
+[2022-04-25T11:14:25.480] [INFO] csvReader - CSV line 70
+[2022-04-25T11:14:25.480] [INFO] csvReader - CSV line 71
+[2022-04-25T11:14:25.480] [INFO] csvReader - CSV line 72
+[2022-04-25T11:14:25.481] [INFO] csvReader - CSV line 73
+[2022-04-25T11:14:25.481] [INFO] csvReader - CSV line 74
+[2022-04-25T11:14:25.482] [INFO] csvReader - CSV line 75
+[2022-04-25T11:14:25.482] [INFO] csvReader - CSV line 76
+[2022-04-25T11:14:25.482] [INFO] csvReader - CSV line 77
+[2022-04-25T11:14:25.483] [INFO] csvReader - CSV line 78
+[2022-04-25T11:14:25.483] [INFO] csvReader - CSV line 79
+[2022-04-25T11:14:25.483] [INFO] csvReader - CSV line 80
+[2022-04-25T11:14:25.484] [INFO] csvReader - CSV line 81
+[2022-04-25T11:14:25.484] [INFO] csvReader - CSV line 82
+[2022-04-25T11:14:25.484] [INFO] csvReader - CSV line 83
+[2022-04-25T11:14:25.485] [INFO] csvReader - CSV line 84
+[2022-04-25T11:14:25.485] [INFO] csvReader - CSV line 85
+[2022-04-25T11:14:25.485] [INFO] csvReader - CSV line 86
+[2022-04-25T11:14:25.486] [INFO] csvReader - CSV line 87
+[2022-04-25T11:14:25.486] [INFO] csvReader - CSV line 88
+[2022-04-25T11:14:25.486] [INFO] csvReader - CSV line 89
+[2022-04-25T11:14:25.487] [INFO] csvReader - CSV line 90
+[2022-04-25T11:14:25.487] [INFO] csvReader - CSV line 91
+[2022-04-25T11:14:25.488] [INFO] csvReader - CSV line 92
+[2022-04-25T11:14:25.488] [INFO] csvReader - CSV line 93
+[2022-04-25T11:14:25.488] [INFO] csvReader - CSV line 94
+[2022-04-25T11:14:25.489] [INFO] csvReader - CSV line 95
+[2022-04-25T11:14:25.489] [INFO] csvReader - CSV line 96
+[2022-04-25T11:14:25.490] [INFO] csvReader - CSV line 97
+[2022-04-25T11:14:25.490] [INFO] csvReader - CSV line 98
+[2022-04-25T11:14:25.491] [INFO] csvReader - CSV line 99
+[2022-04-25T11:14:25.491] [INFO] csvReader - CSV line 100
+[2022-04-25T11:14:25.492] [INFO] csvReader - CSV line 101
+[2022-04-25T11:14:25.492] [INFO] csvReader - CSV line 102
+[2022-04-25T11:14:25.492] [INFO] csvReader - CSV line 103
+[2022-04-25T11:14:25.493] [INFO] csvReader - CSV line 104
+[2022-04-25T11:14:25.493] [INFO] csvReader - CSV line 105
+[2022-04-25T11:14:25.494] [INFO] csvReader - CSV line 106
+[2022-04-25T11:14:25.494] [INFO] csvReader - CSV line 107
+[2022-04-25T11:14:25.494] [INFO] csvReader - CSV line 108
+[2022-04-25T11:14:25.495] [INFO] csvReader - CSV line 109
+[2022-04-25T11:14:25.495] [INFO] csvReader - CSV line 110
+[2022-04-25T11:14:25.495] [INFO] csvReader - CSV line 111
+[2022-04-25T11:14:25.496] [INFO] csvReader - CSV line 112
+[2022-04-25T11:14:25.496] [INFO] csvReader - CSV line 113
+[2022-04-25T11:14:25.496] [INFO] csvReader - CSV line 114
+[2022-04-25T11:14:25.497] [INFO] csvReader - CSV line 115
+[2022-04-25T11:14:25.497] [INFO] csvReader - CSV line 116
+[2022-04-25T11:14:25.497] [INFO] csvReader - CSV line 117
+[2022-04-25T11:14:25.498] [INFO] csvReader - CSV line 118
+[2022-04-25T11:14:25.498] [INFO] csvReader - CSV line 119
+[2022-04-25T11:14:25.499] [INFO] csvReader - CSV line 120
+[2022-04-25T11:14:25.499] [INFO] csvReader - CSV line 121
+[2022-04-25T11:14:25.499] [INFO] csvReader - CSV line 122
+[2022-04-25T11:14:25.500] [INFO] csvReader - CSV line 123
+[2022-04-25T11:14:25.500] [INFO] csvReader - CSV line 124
+[2022-04-25T11:14:25.501] [INFO] csvReader - CSV line 125
+[2022-04-25T11:14:25.501] [INFO] csvReader - CSV line 126
+[2022-04-25T11:14:25.503] [INFO] csvReader - CSV line 127
+[2022-04-25T11:14:25.503] [INFO] csvReader - CSV line 128
+[2022-04-25T11:14:25.504] [INFO] csvReader - CSV line 129
+[2022-04-25T11:14:25.504] [INFO] csvReader - CSV line 130
+[2022-04-25T11:14:25.505] [INFO] csvReader - CSV line 131
+[2022-04-25T11:14:25.505] [INFO] csvReader - CSV line 132
+[2022-04-25T11:14:25.506] [INFO] csvReader - CSV line 133
+[2022-04-25T11:14:25.506] [INFO] csvReader - CSV line 134
+[2022-04-25T11:14:25.507] [INFO] csvReader - CSV line 135
+[2022-04-25T11:14:25.507] [INFO] csvReader - CSV line 136
+[2022-04-25T11:14:25.507] [INFO] csvReader - CSV line 137
+[2022-04-25T11:14:25.508] [INFO] csvReader - CSV line 138
+[2022-04-25T11:14:25.508] [INFO] csvReader - CSV line 139
+[2022-04-25T11:14:25.508] [INFO] csvReader - CSV line 140
+[2022-04-25T11:14:25.509] [INFO] csvReader - CSV line 141
+[2022-04-25T11:14:25.509] [INFO] csvReader - CSV line 142
+[2022-04-25T11:14:25.510] [INFO] csvReader - CSV line 143
+[2022-04-25T11:14:25.510] [INFO] csvReader - CSV line 144
+[2022-04-25T11:14:25.511] [INFO] csvReader - CSV line 145
+[2022-04-25T11:14:25.511] [INFO] csvReader - CSV line 146
+[2022-04-25T11:14:25.511] [INFO] csvReader - CSV line 147
+[2022-04-25T11:14:25.512] [INFO] csvReader - CSV line 148
+[2022-04-25T11:14:25.512] [INFO] csvReader - CSV line 149
+[2022-04-25T11:14:25.514] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:14:25.515] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:14:25.515] [INFO] csvReader - Jon A: -88.62
+[2022-04-25T11:14:25.517] [INFO] csvReader - Sarah T: -28.81
+[2022-04-25T11:14:25.517] [INFO] csvReader - Stephen S: 37.21
+[2022-04-25T11:14:25.517] [INFO] csvReader - Tim L: 19.82
+[2022-04-25T11:14:25.518] [INFO] csvReader - Laura B: -22.30
+[2022-04-25T11:14:25.518] [INFO] csvReader - Rob S: 26.75
+[2022-04-25T11:14:25.518] [INFO] csvReader - Ben B: 33.65
+[2022-04-25T11:14:25.519] [INFO] csvReader - Sam N: 28.50
+[2022-04-25T11:14:25.519] [INFO] csvReader - Gergana I: 46.37
+[2022-04-25T11:14:25.520] [INFO] csvReader - Todd: -12.03
+[2022-04-25T11:14:25.520] [INFO] csvReader - Chris W: -44.95
+[2022-04-25T11:14:25.521] [INFO] csvReader - Dan W: 4.41
+[2022-04-25T11:14:25.521] [INFO] csvReader - Finished printing balances for 12 accounts.
+[2022-04-25T11:14:28.829] [INFO] csvReader - User selected List Account
+[2022-04-25T11:14:28.831] [INFO] csvReader - Program started
+[2022-04-25T11:14:28.831] [INFO] csvReader - Reading file...
+[2022-04-25T11:14:28.835] [INFO] csvReader - CSV line 2
+[2022-04-25T11:14:28.837] [INFO] csvReader - CSV line 3
+[2022-04-25T11:14:28.837] [INFO] csvReader - CSV line 4
+[2022-04-25T11:14:28.837] [INFO] csvReader - CSV line 5
+[2022-04-25T11:14:28.838] [INFO] csvReader - CSV line 6
+[2022-04-25T11:14:28.838] [INFO] csvReader - CSV line 7
+[2022-04-25T11:14:28.839] [INFO] csvReader - CSV line 8
+[2022-04-25T11:14:28.839] [INFO] csvReader - CSV line 9
+[2022-04-25T11:14:28.839] [INFO] csvReader - CSV line 10
+[2022-04-25T11:14:28.840] [INFO] csvReader - CSV line 11
+[2022-04-25T11:14:28.841] [INFO] csvReader - CSV line 12
+[2022-04-25T11:14:28.841] [INFO] csvReader - CSV line 13
+[2022-04-25T11:14:28.841] [INFO] csvReader - CSV line 14
+[2022-04-25T11:14:28.842] [INFO] csvReader - CSV line 15
+[2022-04-25T11:14:28.842] [INFO] csvReader - CSV line 16
+[2022-04-25T11:14:28.843] [INFO] csvReader - CSV line 17
+[2022-04-25T11:14:28.843] [INFO] csvReader - CSV line 18
+[2022-04-25T11:14:28.844] [INFO] csvReader - CSV line 19
+[2022-04-25T11:14:28.844] [INFO] csvReader - CSV line 20
+[2022-04-25T11:14:28.844] [INFO] csvReader - CSV line 21
+[2022-04-25T11:14:28.845] [INFO] csvReader - CSV line 22
+[2022-04-25T11:14:28.845] [INFO] csvReader - CSV line 23
+[2022-04-25T11:14:28.846] [INFO] csvReader - CSV line 24
+[2022-04-25T11:14:28.846] [INFO] csvReader - CSV line 25
+[2022-04-25T11:14:28.846] [INFO] csvReader - CSV line 26
+[2022-04-25T11:14:28.847] [INFO] csvReader - CSV line 27
+[2022-04-25T11:14:28.847] [INFO] csvReader - CSV line 28
+[2022-04-25T11:14:28.848] [INFO] csvReader - CSV line 29
+[2022-04-25T11:14:28.848] [INFO] csvReader - CSV line 30
+[2022-04-25T11:14:28.849] [INFO] csvReader - CSV line 31
+[2022-04-25T11:14:28.849] [INFO] csvReader - CSV line 32
+[2022-04-25T11:14:28.849] [INFO] csvReader - CSV line 33
+[2022-04-25T11:14:28.850] [INFO] csvReader - CSV line 34
+[2022-04-25T11:14:28.850] [INFO] csvReader - CSV line 35
+[2022-04-25T11:14:28.851] [INFO] csvReader - CSV line 36
+[2022-04-25T11:14:28.851] [INFO] csvReader - CSV line 37
+[2022-04-25T11:14:28.851] [INFO] csvReader - CSV line 38
+[2022-04-25T11:14:28.852] [INFO] csvReader - CSV line 39
+[2022-04-25T11:14:28.852] [INFO] csvReader - CSV line 40
+[2022-04-25T11:14:28.852] [INFO] csvReader - CSV line 41
+[2022-04-25T11:14:28.853] [INFO] csvReader - CSV line 42
+[2022-04-25T11:14:28.853] [INFO] csvReader - CSV line 43
+[2022-04-25T11:14:28.853] [INFO] csvReader - CSV line 44
+[2022-04-25T11:14:28.854] [INFO] csvReader - CSV line 45
+[2022-04-25T11:14:28.854] [INFO] csvReader - CSV line 46
+[2022-04-25T11:14:28.855] [INFO] csvReader - CSV line 47
+[2022-04-25T11:14:28.855] [INFO] csvReader - CSV line 48
+[2022-04-25T11:14:28.856] [INFO] csvReader - CSV line 49
+[2022-04-25T11:14:28.856] [INFO] csvReader - CSV line 50
+[2022-04-25T11:14:28.856] [INFO] csvReader - CSV line 51
+[2022-04-25T11:14:28.857] [INFO] csvReader - CSV line 52
+[2022-04-25T11:14:28.857] [INFO] csvReader - CSV line 53
+[2022-04-25T11:14:28.858] [INFO] csvReader - CSV line 54
+[2022-04-25T11:14:28.858] [INFO] csvReader - CSV line 55
+[2022-04-25T11:14:28.859] [INFO] csvReader - CSV line 56
+[2022-04-25T11:14:28.859] [INFO] csvReader - CSV line 57
+[2022-04-25T11:14:28.860] [INFO] csvReader - CSV line 58
+[2022-04-25T11:14:28.860] [INFO] csvReader - CSV line 59
+[2022-04-25T11:14:28.861] [INFO] csvReader - CSV line 60
+[2022-04-25T11:14:28.861] [INFO] csvReader - CSV line 61
+[2022-04-25T11:14:28.861] [INFO] csvReader - CSV line 62
+[2022-04-25T11:14:28.862] [INFO] csvReader - CSV line 63
+[2022-04-25T11:14:28.862] [INFO] csvReader - CSV line 64
+[2022-04-25T11:14:28.863] [INFO] csvReader - CSV line 65
+[2022-04-25T11:14:28.863] [INFO] csvReader - CSV line 66
+[2022-04-25T11:14:28.863] [INFO] csvReader - CSV line 67
+[2022-04-25T11:14:28.864] [INFO] csvReader - CSV line 68
+[2022-04-25T11:14:28.864] [INFO] csvReader - CSV line 69
+[2022-04-25T11:14:28.864] [INFO] csvReader - CSV line 70
+[2022-04-25T11:14:28.865] [INFO] csvReader - CSV line 71
+[2022-04-25T11:14:28.865] [INFO] csvReader - CSV line 72
+[2022-04-25T11:14:28.865] [INFO] csvReader - CSV line 73
+[2022-04-25T11:14:28.866] [INFO] csvReader - CSV line 74
+[2022-04-25T11:14:28.866] [INFO] csvReader - CSV line 75
+[2022-04-25T11:14:28.866] [INFO] csvReader - CSV line 76
+[2022-04-25T11:14:28.867] [INFO] csvReader - CSV line 77
+[2022-04-25T11:14:28.867] [INFO] csvReader - CSV line 78
+[2022-04-25T11:14:28.868] [INFO] csvReader - CSV line 79
+[2022-04-25T11:14:28.868] [INFO] csvReader - CSV line 80
+[2022-04-25T11:14:28.868] [INFO] csvReader - CSV line 81
+[2022-04-25T11:14:28.869] [INFO] csvReader - CSV line 82
+[2022-04-25T11:14:28.869] [INFO] csvReader - CSV line 83
+[2022-04-25T11:14:28.870] [INFO] csvReader - CSV line 84
+[2022-04-25T11:14:28.870] [INFO] csvReader - CSV line 85
+[2022-04-25T11:14:28.870] [INFO] csvReader - CSV line 86
+[2022-04-25T11:14:28.871] [INFO] csvReader - CSV line 87
+[2022-04-25T11:14:28.871] [INFO] csvReader - CSV line 88
+[2022-04-25T11:14:28.872] [INFO] csvReader - CSV line 89
+[2022-04-25T11:14:28.872] [INFO] csvReader - CSV line 90
+[2022-04-25T11:14:28.873] [INFO] csvReader - CSV line 91
+[2022-04-25T11:14:28.873] [INFO] csvReader - CSV line 92
+[2022-04-25T11:14:28.874] [INFO] csvReader - CSV line 93
+[2022-04-25T11:14:28.874] [INFO] csvReader - CSV line 94
+[2022-04-25T11:14:28.874] [INFO] csvReader - CSV line 95
+[2022-04-25T11:14:28.875] [INFO] csvReader - CSV line 96
+[2022-04-25T11:14:28.875] [INFO] csvReader - CSV line 97
+[2022-04-25T11:14:28.876] [INFO] csvReader - CSV line 98
+[2022-04-25T11:14:28.876] [INFO] csvReader - CSV line 99
+[2022-04-25T11:14:28.876] [INFO] csvReader - CSV line 100
+[2022-04-25T11:14:28.877] [INFO] csvReader - CSV line 101
+[2022-04-25T11:14:28.877] [INFO] csvReader - CSV line 102
+[2022-04-25T11:14:28.877] [INFO] csvReader - CSV line 103
+[2022-04-25T11:14:28.878] [INFO] csvReader - CSV line 104
+[2022-04-25T11:14:28.878] [INFO] csvReader - CSV line 105
+[2022-04-25T11:14:28.879] [INFO] csvReader - CSV line 106
+[2022-04-25T11:14:28.879] [INFO] csvReader - CSV line 107
+[2022-04-25T11:14:28.880] [INFO] csvReader - CSV line 108
+[2022-04-25T11:14:28.880] [INFO] csvReader - CSV line 109
+[2022-04-25T11:14:28.880] [INFO] csvReader - CSV line 110
+[2022-04-25T11:14:28.881] [INFO] csvReader - CSV line 111
+[2022-04-25T11:14:28.881] [INFO] csvReader - CSV line 112
+[2022-04-25T11:14:28.881] [INFO] csvReader - CSV line 113
+[2022-04-25T11:14:28.881] [INFO] csvReader - CSV line 114
+[2022-04-25T11:14:28.882] [INFO] csvReader - CSV line 115
+[2022-04-25T11:14:28.882] [INFO] csvReader - CSV line 116
+[2022-04-25T11:14:28.882] [INFO] csvReader - CSV line 117
+[2022-04-25T11:14:28.883] [INFO] csvReader - CSV line 118
+[2022-04-25T11:14:28.883] [INFO] csvReader - CSV line 119
+[2022-04-25T11:14:28.883] [INFO] csvReader - CSV line 120
+[2022-04-25T11:14:28.883] [INFO] csvReader - CSV line 121
+[2022-04-25T11:14:28.884] [INFO] csvReader - CSV line 122
+[2022-04-25T11:14:28.884] [INFO] csvReader - CSV line 123
+[2022-04-25T11:14:28.885] [INFO] csvReader - CSV line 124
+[2022-04-25T11:14:28.885] [INFO] csvReader - CSV line 125
+[2022-04-25T11:14:28.885] [INFO] csvReader - CSV line 126
+[2022-04-25T11:14:28.887] [INFO] csvReader - CSV line 127
+[2022-04-25T11:14:28.887] [INFO] csvReader - CSV line 128
+[2022-04-25T11:14:28.888] [INFO] csvReader - CSV line 129
+[2022-04-25T11:14:28.888] [INFO] csvReader - CSV line 130
+[2022-04-25T11:14:28.888] [INFO] csvReader - CSV line 131
+[2022-04-25T11:14:28.889] [INFO] csvReader - CSV line 132
+[2022-04-25T11:14:28.889] [INFO] csvReader - CSV line 133
+[2022-04-25T11:14:28.890] [INFO] csvReader - CSV line 134
+[2022-04-25T11:14:28.890] [INFO] csvReader - CSV line 135
+[2022-04-25T11:14:28.890] [INFO] csvReader - CSV line 136
+[2022-04-25T11:14:28.891] [INFO] csvReader - CSV line 137
+[2022-04-25T11:14:28.891] [INFO] csvReader - CSV line 138
+[2022-04-25T11:14:28.892] [INFO] csvReader - CSV line 139
+[2022-04-25T11:14:28.892] [INFO] csvReader - CSV line 140
+[2022-04-25T11:14:28.892] [INFO] csvReader - CSV line 141
+[2022-04-25T11:14:28.893] [INFO] csvReader - CSV line 142
+[2022-04-25T11:14:28.893] [INFO] csvReader - CSV line 143
+[2022-04-25T11:14:28.893] [INFO] csvReader - CSV line 144
+[2022-04-25T11:14:28.894] [INFO] csvReader - CSV line 145
+[2022-04-25T11:14:28.894] [INFO] csvReader - CSV line 146
+[2022-04-25T11:14:28.894] [INFO] csvReader - CSV line 147
+[2022-04-25T11:14:28.895] [INFO] csvReader - CSV line 148
+[2022-04-25T11:14:28.895] [INFO] csvReader - CSV line 149
+[2022-04-25T11:14:28.897] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:14:28.897] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:14:30.493] [INFO] csvReader - User entered: Todd
+[2022-04-25T11:14:30.493] [INFO] csvReader - Fetching Todd's transactions...
+[2022-04-25T11:14:30.495] [INFO] csvReader - Tue Jan 28 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.81 for Coffee
+[2022-04-25T11:14:30.496] [INFO] csvReader - Sat Feb 01 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.87 for Snooker Night
+[2022-04-25T11:14:30.497] [INFO] csvReader - Wed Feb 05 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $5.62 for Sandbox Help
+[2022-04-25T11:14:30.498] [INFO] csvReader - Tue Feb 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $7.10 for Automated Testing Services
+[2022-04-25T11:14:30.498] [INFO] csvReader - Fri Mar 07 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Laura B $9.39 for Pokemon Training
+[2022-04-25T11:14:30.499] [INFO] csvReader - Mon Mar 10 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Gergana I $1.62 for Sandbox Help
+[2022-04-25T11:14:30.500] [INFO] csvReader - Sat Mar 29 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $5.01 for Git-Fu Rendered
+[2022-04-25T11:14:30.500] [INFO] csvReader - Fri Apr 04 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Ben B $10.85 for Rails Consultancy
+[2022-04-25T11:14:30.501] [INFO] csvReader - Thu Apr 10 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sarah T $3.55 for Snooker Night
+[2022-04-25T11:14:30.502] [INFO] csvReader - Fri Apr 11 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Laura B $3.72 for Coffee
+[2022-04-25T11:14:30.503] [INFO] csvReader - Sat Apr 26 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Tim L $1.46 for Lunch
+[2022-04-25T11:14:30.503] [INFO] csvReader - Sat May 10 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $10.63 for Lego Assistance
+[2022-04-25T11:14:30.504] [INFO] csvReader - Mon May 19 2014 00:00:00 GMT+0100 (British Summer Time) Jon A paid Todd $9.04 for Beers
+[2022-04-25T11:14:30.505] [INFO] csvReader - Thu May 22 2014 00:00:00 GMT+0100 (British Summer Time) Tim L paid Todd $3.81 for Coffee
+[2022-04-25T11:14:30.505] [INFO] csvReader - Fri May 30 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $7.01 for Lunch
+[2022-04-25T11:14:30.506] [INFO] csvReader - Sat Jun 14 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sam N $6.30 for Lego Assistance
+[2022-04-25T11:14:30.507] [INFO] csvReader - Thu Jun 26 2014 00:00:00 GMT+0100 (British Summer Time) Chris W paid Todd $9.81 for Beers
+[2022-04-25T11:14:30.507] [INFO] csvReader - Wed Aug 13 2014 00:00:00 GMT+0100 (British Summer Time) Sarah T paid Todd $8.25 for Beers
+[2022-04-25T11:14:30.508] [INFO] csvReader - Sat Sep 06 2014 00:00:00 GMT+0100 (British Summer Time) Dan W paid Todd $1.80 for Lunch
+[2022-04-25T11:14:30.509] [INFO] csvReader - Tue Sep 09 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Dan W $3.93 for Audit and Other Financial Services
+[2022-04-25T11:14:30.510] [INFO] csvReader - Sat Oct 04 2014 00:00:00 GMT+0100 (British Summer Time) Ben B paid Todd $11.28 for Lunch
+[2022-04-25T11:14:30.510] [INFO] csvReader - Sat Oct 25 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $8.42 for Beers
+[2022-04-25T11:14:30.511] [INFO] csvReader - Fri Nov 21 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Chris W paid Todd $1.42 for Lego Assistance
+[2022-04-25T11:14:30.512] [INFO] csvReader - Sun Nov 23 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $2.24 for Beers
+[2022-04-25T11:14:30.512] [INFO] csvReader - Tue Dec 16 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Tim L $7.17 for Poker Winnings
+[2022-04-25T11:14:30.513] [INFO] csvReader - Thu Dec 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $1.86 for Lego Assistance
+[2022-04-25T11:14:30.514] [INFO] csvReader - Finished printing Todd's transactions.
+[2022-04-25T11:14:47.870] [INFO] csvReader - User selected List All
+[2022-04-25T11:14:47.874] [INFO] csvReader - Program started
+[2022-04-25T11:14:47.875] [INFO] csvReader - Reading file...
+[2022-04-25T11:14:47.880] [INFO] csvReader - CSV line 2
+[2022-04-25T11:14:47.881] [INFO] csvReader - CSV line 3
+[2022-04-25T11:14:47.882] [INFO] csvReader - CSV line 4
+[2022-04-25T11:14:47.882] [INFO] csvReader - CSV line 5
+[2022-04-25T11:14:47.883] [INFO] csvReader - CSV line 6
+[2022-04-25T11:14:47.883] [INFO] csvReader - CSV line 7
+[2022-04-25T11:14:47.883] [INFO] csvReader - CSV line 8
+[2022-04-25T11:14:47.884] [INFO] csvReader - CSV line 9
+[2022-04-25T11:14:47.884] [INFO] csvReader - CSV line 10
+[2022-04-25T11:14:47.885] [INFO] csvReader - CSV line 11
+[2022-04-25T11:14:47.885] [INFO] csvReader - CSV line 12
+[2022-04-25T11:14:47.886] [INFO] csvReader - CSV line 13
+[2022-04-25T11:14:47.886] [INFO] csvReader - CSV line 14
+[2022-04-25T11:14:47.886] [INFO] csvReader - CSV line 15
+[2022-04-25T11:14:47.887] [INFO] csvReader - CSV line 16
+[2022-04-25T11:14:47.887] [INFO] csvReader - CSV line 17
+[2022-04-25T11:14:47.888] [INFO] csvReader - CSV line 18
+[2022-04-25T11:14:47.888] [INFO] csvReader - CSV line 19
+[2022-04-25T11:14:47.889] [INFO] csvReader - CSV line 20
+[2022-04-25T11:14:47.889] [INFO] csvReader - CSV line 21
+[2022-04-25T11:14:47.889] [INFO] csvReader - CSV line 22
+[2022-04-25T11:14:47.890] [INFO] csvReader - CSV line 23
+[2022-04-25T11:14:47.890] [INFO] csvReader - CSV line 24
+[2022-04-25T11:14:47.891] [INFO] csvReader - CSV line 25
+[2022-04-25T11:14:47.891] [INFO] csvReader - CSV line 26
+[2022-04-25T11:14:47.891] [INFO] csvReader - CSV line 27
+[2022-04-25T11:14:47.892] [INFO] csvReader - CSV line 28
+[2022-04-25T11:14:47.892] [INFO] csvReader - CSV line 29
+[2022-04-25T11:14:47.893] [INFO] csvReader - CSV line 30
+[2022-04-25T11:14:47.893] [INFO] csvReader - CSV line 31
+[2022-04-25T11:14:47.893] [INFO] csvReader - CSV line 32
+[2022-04-25T11:14:47.894] [INFO] csvReader - CSV line 33
+[2022-04-25T11:14:47.894] [INFO] csvReader - CSV line 34
+[2022-04-25T11:14:47.895] [INFO] csvReader - CSV line 35
+[2022-04-25T11:14:47.895] [INFO] csvReader - CSV line 36
+[2022-04-25T11:14:47.896] [INFO] csvReader - CSV line 37
+[2022-04-25T11:14:47.896] [INFO] csvReader - CSV line 38
+[2022-04-25T11:14:47.896] [INFO] csvReader - CSV line 39
+[2022-04-25T11:14:47.897] [INFO] csvReader - CSV line 40
+[2022-04-25T11:14:47.897] [INFO] csvReader - CSV line 41
+[2022-04-25T11:14:47.897] [INFO] csvReader - CSV line 42
+[2022-04-25T11:14:47.898] [INFO] csvReader - CSV line 43
+[2022-04-25T11:14:47.898] [INFO] csvReader - CSV line 44
+[2022-04-25T11:14:47.899] [INFO] csvReader - CSV line 45
+[2022-04-25T11:14:47.899] [INFO] csvReader - CSV line 46
+[2022-04-25T11:14:47.899] [INFO] csvReader - CSV line 47
+[2022-04-25T11:14:47.900] [INFO] csvReader - CSV line 48
+[2022-04-25T11:14:47.900] [INFO] csvReader - CSV line 49
+[2022-04-25T11:14:47.901] [INFO] csvReader - CSV line 50
+[2022-04-25T11:14:47.901] [INFO] csvReader - CSV line 51
+[2022-04-25T11:14:47.901] [INFO] csvReader - CSV line 52
+[2022-04-25T11:14:47.902] [INFO] csvReader - CSV line 53
+[2022-04-25T11:14:47.902] [INFO] csvReader - CSV line 54
+[2022-04-25T11:14:47.903] [INFO] csvReader - CSV line 55
+[2022-04-25T11:14:47.903] [INFO] csvReader - CSV line 56
+[2022-04-25T11:14:47.904] [INFO] csvReader - CSV line 57
+[2022-04-25T11:14:47.904] [INFO] csvReader - CSV line 58
+[2022-04-25T11:14:47.905] [INFO] csvReader - CSV line 59
+[2022-04-25T11:14:47.905] [INFO] csvReader - CSV line 60
+[2022-04-25T11:14:47.905] [INFO] csvReader - CSV line 61
+[2022-04-25T11:14:47.906] [INFO] csvReader - CSV line 62
+[2022-04-25T11:14:47.906] [INFO] csvReader - CSV line 63
+[2022-04-25T11:14:47.907] [INFO] csvReader - CSV line 64
+[2022-04-25T11:14:47.907] [INFO] csvReader - CSV line 65
+[2022-04-25T11:14:47.908] [INFO] csvReader - CSV line 66
+[2022-04-25T11:14:47.908] [INFO] csvReader - CSV line 67
+[2022-04-25T11:14:47.908] [INFO] csvReader - CSV line 68
+[2022-04-25T11:14:47.909] [INFO] csvReader - CSV line 69
+[2022-04-25T11:14:47.909] [INFO] csvReader - CSV line 70
+[2022-04-25T11:14:47.910] [INFO] csvReader - CSV line 71
+[2022-04-25T11:14:47.911] [INFO] csvReader - CSV line 72
+[2022-04-25T11:14:47.911] [INFO] csvReader - CSV line 73
+[2022-04-25T11:14:47.911] [INFO] csvReader - CSV line 74
+[2022-04-25T11:14:47.912] [INFO] csvReader - CSV line 75
+[2022-04-25T11:14:47.912] [INFO] csvReader - CSV line 76
+[2022-04-25T11:14:47.913] [INFO] csvReader - CSV line 77
+[2022-04-25T11:14:47.913] [INFO] csvReader - CSV line 78
+[2022-04-25T11:14:47.913] [INFO] csvReader - CSV line 79
+[2022-04-25T11:14:47.914] [INFO] csvReader - CSV line 80
+[2022-04-25T11:14:47.914] [INFO] csvReader - CSV line 81
+[2022-04-25T11:14:47.915] [INFO] csvReader - CSV line 82
+[2022-04-25T11:14:47.915] [INFO] csvReader - CSV line 83
+[2022-04-25T11:14:47.915] [INFO] csvReader - CSV line 84
+[2022-04-25T11:14:47.916] [INFO] csvReader - CSV line 85
+[2022-04-25T11:14:47.916] [INFO] csvReader - CSV line 86
+[2022-04-25T11:14:47.917] [INFO] csvReader - CSV line 87
+[2022-04-25T11:14:47.917] [INFO] csvReader - CSV line 88
+[2022-04-25T11:14:47.917] [INFO] csvReader - CSV line 89
+[2022-04-25T11:14:47.918] [INFO] csvReader - CSV line 90
+[2022-04-25T11:14:47.918] [INFO] csvReader - CSV line 91
+[2022-04-25T11:14:47.918] [INFO] csvReader - CSV line 92
+[2022-04-25T11:14:47.919] [INFO] csvReader - CSV line 93
+[2022-04-25T11:14:47.919] [INFO] csvReader - CSV line 94
+[2022-04-25T11:14:47.920] [INFO] csvReader - CSV line 95
+[2022-04-25T11:14:47.920] [INFO] csvReader - CSV line 96
+[2022-04-25T11:14:47.920] [INFO] csvReader - CSV line 97
+[2022-04-25T11:14:47.920] [INFO] csvReader - CSV line 98
+[2022-04-25T11:14:47.921] [INFO] csvReader - CSV line 99
+[2022-04-25T11:14:47.921] [INFO] csvReader - CSV line 100
+[2022-04-25T11:14:47.921] [INFO] csvReader - CSV line 101
+[2022-04-25T11:14:47.922] [INFO] csvReader - CSV line 102
+[2022-04-25T11:14:47.922] [INFO] csvReader - CSV line 103
+[2022-04-25T11:14:47.923] [INFO] csvReader - CSV line 104
+[2022-04-25T11:14:47.923] [INFO] csvReader - CSV line 105
+[2022-04-25T11:14:47.924] [INFO] csvReader - CSV line 106
+[2022-04-25T11:14:47.924] [INFO] csvReader - CSV line 107
+[2022-04-25T11:14:47.924] [INFO] csvReader - CSV line 108
+[2022-04-25T11:14:47.924] [INFO] csvReader - CSV line 109
+[2022-04-25T11:14:47.925] [INFO] csvReader - CSV line 110
+[2022-04-25T11:14:47.925] [INFO] csvReader - CSV line 111
+[2022-04-25T11:14:47.926] [INFO] csvReader - CSV line 112
+[2022-04-25T11:14:47.926] [INFO] csvReader - CSV line 113
+[2022-04-25T11:14:47.927] [INFO] csvReader - CSV line 114
+[2022-04-25T11:14:47.927] [INFO] csvReader - CSV line 115
+[2022-04-25T11:14:47.927] [INFO] csvReader - CSV line 116
+[2022-04-25T11:14:47.928] [INFO] csvReader - CSV line 117
+[2022-04-25T11:14:47.928] [INFO] csvReader - CSV line 118
+[2022-04-25T11:14:47.928] [INFO] csvReader - CSV line 119
+[2022-04-25T11:14:47.929] [INFO] csvReader - CSV line 120
+[2022-04-25T11:14:47.929] [INFO] csvReader - CSV line 121
+[2022-04-25T11:14:47.930] [INFO] csvReader - CSV line 122
+[2022-04-25T11:14:47.930] [INFO] csvReader - CSV line 123
+[2022-04-25T11:14:47.931] [INFO] csvReader - CSV line 124
+[2022-04-25T11:14:47.931] [INFO] csvReader - CSV line 125
+[2022-04-25T11:14:47.931] [INFO] csvReader - CSV line 126
+[2022-04-25T11:14:47.933] [INFO] csvReader - CSV line 127
+[2022-04-25T11:14:47.933] [INFO] csvReader - CSV line 128
+[2022-04-25T11:14:47.934] [INFO] csvReader - CSV line 129
+[2022-04-25T11:14:47.934] [INFO] csvReader - CSV line 130
+[2022-04-25T11:14:47.935] [INFO] csvReader - CSV line 131
+[2022-04-25T11:14:47.935] [INFO] csvReader - CSV line 132
+[2022-04-25T11:14:47.935] [INFO] csvReader - CSV line 133
+[2022-04-25T11:14:47.936] [INFO] csvReader - CSV line 134
+[2022-04-25T11:14:47.936] [INFO] csvReader - CSV line 135
+[2022-04-25T11:14:47.937] [INFO] csvReader - CSV line 136
+[2022-04-25T11:14:47.937] [INFO] csvReader - CSV line 137
+[2022-04-25T11:14:47.937] [INFO] csvReader - CSV line 138
+[2022-04-25T11:14:47.938] [INFO] csvReader - CSV line 139
+[2022-04-25T11:14:47.938] [INFO] csvReader - CSV line 140
+[2022-04-25T11:14:47.939] [INFO] csvReader - CSV line 141
+[2022-04-25T11:14:47.939] [INFO] csvReader - CSV line 142
+[2022-04-25T11:14:47.940] [INFO] csvReader - CSV line 143
+[2022-04-25T11:14:47.940] [INFO] csvReader - CSV line 144
+[2022-04-25T11:14:47.941] [INFO] csvReader - CSV line 145
+[2022-04-25T11:14:47.941] [INFO] csvReader - CSV line 146
+[2022-04-25T11:14:47.942] [INFO] csvReader - CSV line 147
+[2022-04-25T11:14:47.943] [INFO] csvReader - CSV line 148
+[2022-04-25T11:14:47.943] [INFO] csvReader - CSV line 149
+[2022-04-25T11:14:47.945] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:14:47.945] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:14:47.946] [INFO] csvReader - Jon A: -88.62
+[2022-04-25T11:14:47.947] [INFO] csvReader - Sarah T: -28.81
+[2022-04-25T11:14:47.948] [INFO] csvReader - Stephen S: 37.21
+[2022-04-25T11:14:47.948] [INFO] csvReader - Tim L: 19.82
+[2022-04-25T11:14:47.949] [INFO] csvReader - Laura B: -22.30
+[2022-04-25T11:14:47.949] [INFO] csvReader - Rob S: 26.75
+[2022-04-25T11:14:47.950] [INFO] csvReader - Ben B: 33.65
+[2022-04-25T11:14:47.950] [INFO] csvReader - Sam N: 28.50
+[2022-04-25T11:14:47.951] [INFO] csvReader - Gergana I: 46.37
+[2022-04-25T11:14:47.951] [INFO] csvReader - Todd: -12.03
+[2022-04-25T11:14:47.951] [INFO] csvReader - Chris W: -44.95
+[2022-04-25T11:14:47.952] [INFO] csvReader - Dan W: 4.41
+[2022-04-25T11:14:47.952] [INFO] csvReader - Finished printing balances for 12 accounts.
+[2022-04-25T11:14:56.174] [INFO] csvReader - User selected List Account
+[2022-04-25T11:14:56.175] [INFO] csvReader - Program started
+[2022-04-25T11:14:56.176] [INFO] csvReader - Reading file...
+[2022-04-25T11:14:56.180] [INFO] csvReader - CSV line 2
+[2022-04-25T11:14:56.181] [INFO] csvReader - CSV line 3
+[2022-04-25T11:14:56.182] [INFO] csvReader - CSV line 4
+[2022-04-25T11:14:56.182] [INFO] csvReader - CSV line 5
+[2022-04-25T11:14:56.183] [INFO] csvReader - CSV line 6
+[2022-04-25T11:14:56.183] [INFO] csvReader - CSV line 7
+[2022-04-25T11:14:56.184] [INFO] csvReader - CSV line 8
+[2022-04-25T11:14:56.184] [INFO] csvReader - CSV line 9
+[2022-04-25T11:14:56.185] [INFO] csvReader - CSV line 10
+[2022-04-25T11:14:56.185] [INFO] csvReader - CSV line 11
+[2022-04-25T11:14:56.186] [INFO] csvReader - CSV line 12
+[2022-04-25T11:14:56.186] [INFO] csvReader - CSV line 13
+[2022-04-25T11:14:56.186] [INFO] csvReader - CSV line 14
+[2022-04-25T11:14:56.187] [INFO] csvReader - CSV line 15
+[2022-04-25T11:14:56.187] [INFO] csvReader - CSV line 16
+[2022-04-25T11:14:56.188] [INFO] csvReader - CSV line 17
+[2022-04-25T11:14:56.188] [INFO] csvReader - CSV line 18
+[2022-04-25T11:14:56.188] [INFO] csvReader - CSV line 19
+[2022-04-25T11:14:56.189] [INFO] csvReader - CSV line 20
+[2022-04-25T11:14:56.189] [INFO] csvReader - CSV line 21
+[2022-04-25T11:14:56.190] [INFO] csvReader - CSV line 22
+[2022-04-25T11:14:56.190] [INFO] csvReader - CSV line 23
+[2022-04-25T11:14:56.190] [INFO] csvReader - CSV line 24
+[2022-04-25T11:14:56.191] [INFO] csvReader - CSV line 25
+[2022-04-25T11:14:56.191] [INFO] csvReader - CSV line 26
+[2022-04-25T11:14:56.192] [INFO] csvReader - CSV line 27
+[2022-04-25T11:14:56.192] [INFO] csvReader - CSV line 28
+[2022-04-25T11:14:56.192] [INFO] csvReader - CSV line 29
+[2022-04-25T11:14:56.193] [INFO] csvReader - CSV line 30
+[2022-04-25T11:14:56.193] [INFO] csvReader - CSV line 31
+[2022-04-25T11:14:56.194] [INFO] csvReader - CSV line 32
+[2022-04-25T11:14:56.194] [INFO] csvReader - CSV line 33
+[2022-04-25T11:14:56.194] [INFO] csvReader - CSV line 34
+[2022-04-25T11:14:56.195] [INFO] csvReader - CSV line 35
+[2022-04-25T11:14:56.195] [INFO] csvReader - CSV line 36
+[2022-04-25T11:14:56.195] [INFO] csvReader - CSV line 37
+[2022-04-25T11:14:56.196] [INFO] csvReader - CSV line 38
+[2022-04-25T11:14:56.196] [INFO] csvReader - CSV line 39
+[2022-04-25T11:14:56.197] [INFO] csvReader - CSV line 40
+[2022-04-25T11:14:56.197] [INFO] csvReader - CSV line 41
+[2022-04-25T11:14:56.197] [INFO] csvReader - CSV line 42
+[2022-04-25T11:14:56.197] [INFO] csvReader - CSV line 43
+[2022-04-25T11:14:56.198] [INFO] csvReader - CSV line 44
+[2022-04-25T11:14:56.198] [INFO] csvReader - CSV line 45
+[2022-04-25T11:14:56.199] [INFO] csvReader - CSV line 46
+[2022-04-25T11:14:56.199] [INFO] csvReader - CSV line 47
+[2022-04-25T11:14:56.200] [INFO] csvReader - CSV line 48
+[2022-04-25T11:14:56.200] [INFO] csvReader - CSV line 49
+[2022-04-25T11:14:56.200] [INFO] csvReader - CSV line 50
+[2022-04-25T11:14:56.201] [INFO] csvReader - CSV line 51
+[2022-04-25T11:14:56.201] [INFO] csvReader - CSV line 52
+[2022-04-25T11:14:56.202] [INFO] csvReader - CSV line 53
+[2022-04-25T11:14:56.202] [INFO] csvReader - CSV line 54
+[2022-04-25T11:14:56.203] [INFO] csvReader - CSV line 55
+[2022-04-25T11:14:56.203] [INFO] csvReader - CSV line 56
+[2022-04-25T11:14:56.203] [INFO] csvReader - CSV line 57
+[2022-04-25T11:14:56.204] [INFO] csvReader - CSV line 58
+[2022-04-25T11:14:56.204] [INFO] csvReader - CSV line 59
+[2022-04-25T11:14:56.204] [INFO] csvReader - CSV line 60
+[2022-04-25T11:14:56.205] [INFO] csvReader - CSV line 61
+[2022-04-25T11:14:56.205] [INFO] csvReader - CSV line 62
+[2022-04-25T11:14:56.206] [INFO] csvReader - CSV line 63
+[2022-04-25T11:14:56.206] [INFO] csvReader - CSV line 64
+[2022-04-25T11:14:56.206] [INFO] csvReader - CSV line 65
+[2022-04-25T11:14:56.207] [INFO] csvReader - CSV line 66
+[2022-04-25T11:14:56.207] [INFO] csvReader - CSV line 67
+[2022-04-25T11:14:56.207] [INFO] csvReader - CSV line 68
+[2022-04-25T11:14:56.208] [INFO] csvReader - CSV line 69
+[2022-04-25T11:14:56.208] [INFO] csvReader - CSV line 70
+[2022-04-25T11:14:56.209] [INFO] csvReader - CSV line 71
+[2022-04-25T11:14:56.209] [INFO] csvReader - CSV line 72
+[2022-04-25T11:14:56.210] [INFO] csvReader - CSV line 73
+[2022-04-25T11:14:56.210] [INFO] csvReader - CSV line 74
+[2022-04-25T11:14:56.210] [INFO] csvReader - CSV line 75
+[2022-04-25T11:14:56.211] [INFO] csvReader - CSV line 76
+[2022-04-25T11:14:56.211] [INFO] csvReader - CSV line 77
+[2022-04-25T11:14:56.211] [INFO] csvReader - CSV line 78
+[2022-04-25T11:14:56.212] [INFO] csvReader - CSV line 79
+[2022-04-25T11:14:56.212] [INFO] csvReader - CSV line 80
+[2022-04-25T11:14:56.213] [INFO] csvReader - CSV line 81
+[2022-04-25T11:14:56.213] [INFO] csvReader - CSV line 82
+[2022-04-25T11:14:56.214] [INFO] csvReader - CSV line 83
+[2022-04-25T11:14:56.214] [INFO] csvReader - CSV line 84
+[2022-04-25T11:14:56.214] [INFO] csvReader - CSV line 85
+[2022-04-25T11:14:56.215] [INFO] csvReader - CSV line 86
+[2022-04-25T11:14:56.215] [INFO] csvReader - CSV line 87
+[2022-04-25T11:14:56.216] [INFO] csvReader - CSV line 88
+[2022-04-25T11:14:56.216] [INFO] csvReader - CSV line 89
+[2022-04-25T11:14:56.216] [INFO] csvReader - CSV line 90
+[2022-04-25T11:14:56.217] [INFO] csvReader - CSV line 91
+[2022-04-25T11:14:56.217] [INFO] csvReader - CSV line 92
+[2022-04-25T11:14:56.217] [INFO] csvReader - CSV line 93
+[2022-04-25T11:14:56.218] [INFO] csvReader - CSV line 94
+[2022-04-25T11:14:56.218] [INFO] csvReader - CSV line 95
+[2022-04-25T11:14:56.219] [INFO] csvReader - CSV line 96
+[2022-04-25T11:14:56.219] [INFO] csvReader - CSV line 97
+[2022-04-25T11:14:56.219] [INFO] csvReader - CSV line 98
+[2022-04-25T11:14:56.220] [INFO] csvReader - CSV line 99
+[2022-04-25T11:14:56.220] [INFO] csvReader - CSV line 100
+[2022-04-25T11:14:56.220] [INFO] csvReader - CSV line 101
+[2022-04-25T11:14:56.221] [INFO] csvReader - CSV line 102
+[2022-04-25T11:14:56.221] [INFO] csvReader - CSV line 103
+[2022-04-25T11:14:56.221] [INFO] csvReader - CSV line 104
+[2022-04-25T11:14:56.222] [INFO] csvReader - CSV line 105
+[2022-04-25T11:14:56.222] [INFO] csvReader - CSV line 106
+[2022-04-25T11:14:56.222] [INFO] csvReader - CSV line 107
+[2022-04-25T11:14:56.223] [INFO] csvReader - CSV line 108
+[2022-04-25T11:14:56.223] [INFO] csvReader - CSV line 109
+[2022-04-25T11:14:56.223] [INFO] csvReader - CSV line 110
+[2022-04-25T11:14:56.224] [INFO] csvReader - CSV line 111
+[2022-04-25T11:14:56.224] [INFO] csvReader - CSV line 112
+[2022-04-25T11:14:56.224] [INFO] csvReader - CSV line 113
+[2022-04-25T11:14:56.225] [INFO] csvReader - CSV line 114
+[2022-04-25T11:14:56.225] [INFO] csvReader - CSV line 115
+[2022-04-25T11:14:56.225] [INFO] csvReader - CSV line 116
+[2022-04-25T11:14:56.226] [INFO] csvReader - CSV line 117
+[2022-04-25T11:14:56.226] [INFO] csvReader - CSV line 118
+[2022-04-25T11:14:56.226] [INFO] csvReader - CSV line 119
+[2022-04-25T11:14:56.227] [INFO] csvReader - CSV line 120
+[2022-04-25T11:14:56.228] [INFO] csvReader - CSV line 121
+[2022-04-25T11:14:56.228] [INFO] csvReader - CSV line 122
+[2022-04-25T11:14:56.228] [INFO] csvReader - CSV line 123
+[2022-04-25T11:14:56.229] [INFO] csvReader - CSV line 124
+[2022-04-25T11:14:56.229] [INFO] csvReader - CSV line 125
+[2022-04-25T11:14:56.230] [INFO] csvReader - CSV line 126
+[2022-04-25T11:14:56.231] [INFO] csvReader - CSV line 127
+[2022-04-25T11:14:56.232] [INFO] csvReader - CSV line 128
+[2022-04-25T11:14:56.232] [INFO] csvReader - CSV line 129
+[2022-04-25T11:14:56.233] [INFO] csvReader - CSV line 130
+[2022-04-25T11:14:56.233] [INFO] csvReader - CSV line 131
+[2022-04-25T11:14:56.234] [INFO] csvReader - CSV line 132
+[2022-04-25T11:14:56.234] [INFO] csvReader - CSV line 133
+[2022-04-25T11:14:56.235] [INFO] csvReader - CSV line 134
+[2022-04-25T11:14:56.235] [INFO] csvReader - CSV line 135
+[2022-04-25T11:14:56.235] [INFO] csvReader - CSV line 136
+[2022-04-25T11:14:56.236] [INFO] csvReader - CSV line 137
+[2022-04-25T11:14:56.236] [INFO] csvReader - CSV line 138
+[2022-04-25T11:14:56.236] [INFO] csvReader - CSV line 139
+[2022-04-25T11:14:56.237] [INFO] csvReader - CSV line 140
+[2022-04-25T11:14:56.237] [INFO] csvReader - CSV line 141
+[2022-04-25T11:14:56.238] [INFO] csvReader - CSV line 142
+[2022-04-25T11:14:56.238] [INFO] csvReader - CSV line 143
+[2022-04-25T11:14:56.238] [INFO] csvReader - CSV line 144
+[2022-04-25T11:14:56.239] [INFO] csvReader - CSV line 145
+[2022-04-25T11:14:56.239] [INFO] csvReader - CSV line 146
+[2022-04-25T11:14:56.239] [INFO] csvReader - CSV line 147
+[2022-04-25T11:14:56.240] [INFO] csvReader - CSV line 148
+[2022-04-25T11:14:56.240] [INFO] csvReader - CSV line 149
+[2022-04-25T11:14:56.242] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:14:56.242] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:14:58.180] [INFO] csvReader - User entered: Sam N
+[2022-04-25T11:14:58.180] [INFO] csvReader - Fetching Sam N's transactions...
+[2022-04-25T11:14:58.181] [INFO] csvReader - Wed Jan 15 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sam N paid Stephen S $11.63 for Spline Reticulation
+[2022-04-25T11:14:58.182] [INFO] csvReader - Mon Jan 20 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sam N paid Stephen S $8.20 for Beers
+[2022-04-25T11:14:58.183] [INFO] csvReader - Fri Jan 24 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Laura B paid Sam N $11.68 for Coffee
+[2022-04-25T11:14:58.183] [INFO] csvReader - Fri Jan 31 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sam N paid Gergana I $6.29 for Services Rendered
+[2022-04-25T11:14:58.184] [INFO] csvReader - Fri Feb 07 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Jon A paid Sam N $1.65 for Beers
+[2022-04-25T11:14:58.184] [INFO] csvReader - Mon Feb 10 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Dan W paid Sam N $0.93 for Lunch
+[2022-04-25T11:14:58.185] [INFO] csvReader - Tue Feb 18 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sarah T paid Sam N $1.60 for Spline Reticulation
+[2022-04-25T11:14:58.185] [INFO] csvReader - Sat Feb 22 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Tim L paid Sam N $5.20 for Pokemon Training
+[2022-04-25T11:14:58.186] [INFO] csvReader - Mon Mar 03 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sam N paid Gergana I $8.76 for Lunch
+[2022-04-25T11:14:58.187] [INFO] csvReader - Sun Mar 23 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Jon A paid Sam N $8.49 for Lunch
+[2022-04-25T11:14:58.187] [INFO] csvReader - Thu Mar 27 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Ben B paid Sam N $10.76 for Misc Morale
+[2022-04-25T11:14:58.188] [INFO] csvReader - Tue Apr 01 2014 00:00:00 GMT+0100 (British Summer Time) Sam N paid Laura B $2.87 for Lunch
+[2022-04-25T11:14:58.188] [INFO] csvReader - Tue Apr 08 2014 00:00:00 GMT+0100 (British Summer Time) Stephen S paid Sam N $2.96 for Lego Assistance
+[2022-04-25T11:14:58.189] [INFO] csvReader - Tue Apr 15 2014 00:00:00 GMT+0100 (British Summer Time) Rob S paid Sam N $8.86 for Snooker Night
+[2022-04-25T11:14:58.189] [INFO] csvReader - Sat May 24 2014 00:00:00 GMT+0100 (British Summer Time) Sam N paid Tim L $8.80 for Sandcastle Help
+[2022-04-25T11:14:58.190] [INFO] csvReader - Wed Jun 11 2014 00:00:00 GMT+0100 (British Summer Time) Stephen S paid Sam N $5.14 for Lego Assistance
+[2022-04-25T11:14:58.190] [INFO] csvReader - Sat Jun 14 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sam N $6.30 for Lego Assistance
+[2022-04-25T11:14:58.191] [INFO] csvReader - Sun Jul 06 2014 00:00:00 GMT+0100 (British Summer Time) Sam N paid Jon A $4.37 for Beers
+[2022-04-25T11:14:58.191] [INFO] csvReader - Mon Jul 14 2014 00:00:00 GMT+0100 (British Summer Time) Gergana I paid Sam N $10.92 for Coffee
+[2022-04-25T11:14:58.191] [INFO] csvReader - Tue Jul 29 2014 00:00:00 GMT+0100 (British Summer Time) Jon A paid Sam N $5.31 for Lunch
+[2022-04-25T11:14:58.192] [INFO] csvReader - Fri Aug 01 2014 00:00:00 GMT+0100 (British Summer Time) Sam N paid Gergana I $2.72 for Coffee
+[2022-04-25T11:14:58.192] [INFO] csvReader - Fri Aug 22 2014 00:00:00 GMT+0100 (British Summer Time) Chris W paid Sam N $1.90 for Golf Bets
+[2022-04-25T11:14:58.192] [INFO] csvReader - Mon Sep 01 2014 00:00:00 GMT+0100 (British Summer Time) Sam N paid Gergana I $9.41 for Pokemon Training
+[2022-04-25T11:14:58.193] [INFO] csvReader - Sun Oct 19 2014 00:00:00 GMT+0100 (British Summer Time) Dan W paid Sam N $8.00 for Automated Testing Services
+[2022-04-25T11:14:58.193] [INFO] csvReader - Wed Oct 22 2014 00:00:00 GMT+0100 (British Summer Time) Dan W paid Sam N $0.55 for Beers
+[2022-04-25T11:14:58.193] [INFO] csvReader - Sun Nov 09 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sam N paid Laura B $7.76 for Beers
+[2022-04-25T11:14:58.194] [INFO] csvReader - Fri Nov 14 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sam N paid Dan W $0.80 for Spline Reticulation
+[2022-04-25T11:14:58.194] [INFO] csvReader - Tue Nov 18 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Sam N paid Chris W $6.44 for Golf Bets
+[2022-04-25T11:14:58.195] [INFO] csvReader - Tue Dec 02 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Jon A paid Sam N $11.04 for Pokemon Training
+[2022-04-25T11:14:58.195] [INFO] csvReader - Mon Dec 29 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Ben B paid Sam N $5.26 for Coffee
+[2022-04-25T11:14:58.195] [INFO] csvReader - Finished printing Sam N's transactions.
+[2022-04-25T11:15:48.182] [INFO] csvReader - User selected List All
+[2022-04-25T11:15:48.184] [INFO] csvReader - Program started
+[2022-04-25T11:15:48.185] [INFO] csvReader - Reading file...
+[2022-04-25T11:15:48.193] [INFO] csvReader - CSV line 2
+[2022-04-25T11:15:48.196] [INFO] csvReader - CSV line 3
+[2022-04-25T11:15:48.197] [INFO] csvReader - CSV line 4
+[2022-04-25T11:15:48.198] [INFO] csvReader - CSV line 5
+[2022-04-25T11:15:48.198] [INFO] csvReader - CSV line 6
+[2022-04-25T11:15:48.199] [INFO] csvReader - CSV line 7
+[2022-04-25T11:15:48.200] [INFO] csvReader - CSV line 8
+[2022-04-25T11:15:48.200] [INFO] csvReader - CSV line 9
+[2022-04-25T11:15:48.201] [INFO] csvReader - CSV line 10
+[2022-04-25T11:15:48.202] [INFO] csvReader - CSV line 11
+[2022-04-25T11:15:48.202] [INFO] csvReader - CSV line 12
+[2022-04-25T11:15:48.203] [INFO] csvReader - CSV line 13
+[2022-04-25T11:15:48.203] [INFO] csvReader - CSV line 14
+[2022-04-25T11:15:48.204] [INFO] csvReader - CSV line 15
+[2022-04-25T11:15:48.205] [INFO] csvReader - CSV line 16
+[2022-04-25T11:15:48.205] [INFO] csvReader - CSV line 17
+[2022-04-25T11:15:48.206] [INFO] csvReader - CSV line 18
+[2022-04-25T11:15:48.206] [INFO] csvReader - CSV line 19
+[2022-04-25T11:15:48.207] [INFO] csvReader - CSV line 20
+[2022-04-25T11:15:48.208] [INFO] csvReader - CSV line 21
+[2022-04-25T11:15:48.208] [INFO] csvReader - CSV line 22
+[2022-04-25T11:15:48.209] [INFO] csvReader - CSV line 23
+[2022-04-25T11:15:48.209] [INFO] csvReader - CSV line 24
+[2022-04-25T11:15:48.210] [INFO] csvReader - CSV line 25
+[2022-04-25T11:15:48.210] [INFO] csvReader - CSV line 26
+[2022-04-25T11:15:48.211] [INFO] csvReader - CSV line 27
+[2022-04-25T11:15:48.211] [INFO] csvReader - CSV line 28
+[2022-04-25T11:15:48.212] [INFO] csvReader - CSV line 29
+[2022-04-25T11:15:48.212] [INFO] csvReader - CSV line 30
+[2022-04-25T11:15:48.213] [INFO] csvReader - CSV line 31
+[2022-04-25T11:15:48.213] [INFO] csvReader - CSV line 32
+[2022-04-25T11:15:48.214] [INFO] csvReader - CSV line 33
+[2022-04-25T11:15:48.214] [INFO] csvReader - CSV line 34
+[2022-04-25T11:15:48.215] [INFO] csvReader - CSV line 35
+[2022-04-25T11:15:48.215] [INFO] csvReader - CSV line 36
+[2022-04-25T11:15:48.216] [INFO] csvReader - CSV line 37
+[2022-04-25T11:15:48.216] [INFO] csvReader - CSV line 38
+[2022-04-25T11:15:48.216] [INFO] csvReader - CSV line 39
+[2022-04-25T11:15:48.217] [INFO] csvReader - CSV line 40
+[2022-04-25T11:15:48.217] [INFO] csvReader - CSV line 41
+[2022-04-25T11:15:48.218] [INFO] csvReader - CSV line 42
+[2022-04-25T11:15:48.218] [INFO] csvReader - CSV line 43
+[2022-04-25T11:15:48.219] [INFO] csvReader - CSV line 44
+[2022-04-25T11:15:48.219] [INFO] csvReader - CSV line 45
+[2022-04-25T11:15:48.220] [INFO] csvReader - CSV line 46
+[2022-04-25T11:15:48.220] [INFO] csvReader - CSV line 47
+[2022-04-25T11:15:48.221] [INFO] csvReader - CSV line 48
+[2022-04-25T11:15:48.221] [INFO] csvReader - CSV line 49
+[2022-04-25T11:15:48.222] [INFO] csvReader - CSV line 50
+[2022-04-25T11:15:48.222] [INFO] csvReader - CSV line 51
+[2022-04-25T11:15:48.223] [INFO] csvReader - CSV line 52
+[2022-04-25T11:15:48.223] [INFO] csvReader - CSV line 53
+[2022-04-25T11:15:48.224] [INFO] csvReader - CSV line 54
+[2022-04-25T11:15:48.224] [INFO] csvReader - CSV line 55
+[2022-04-25T11:15:48.225] [INFO] csvReader - CSV line 56
+[2022-04-25T11:15:48.225] [INFO] csvReader - CSV line 57
+[2022-04-25T11:15:48.226] [INFO] csvReader - CSV line 58
+[2022-04-25T11:15:48.226] [INFO] csvReader - CSV line 59
+[2022-04-25T11:15:48.227] [INFO] csvReader - CSV line 60
+[2022-04-25T11:15:48.227] [INFO] csvReader - CSV line 61
+[2022-04-25T11:15:48.228] [INFO] csvReader - CSV line 62
+[2022-04-25T11:15:48.228] [INFO] csvReader - CSV line 63
+[2022-04-25T11:15:48.229] [INFO] csvReader - CSV line 64
+[2022-04-25T11:15:48.229] [INFO] csvReader - CSV line 65
+[2022-04-25T11:15:48.230] [INFO] csvReader - CSV line 66
+[2022-04-25T11:15:48.230] [INFO] csvReader - CSV line 67
+[2022-04-25T11:15:48.231] [INFO] csvReader - CSV line 68
+[2022-04-25T11:15:48.231] [INFO] csvReader - CSV line 69
+[2022-04-25T11:15:48.232] [INFO] csvReader - CSV line 70
+[2022-04-25T11:15:48.232] [INFO] csvReader - CSV line 71
+[2022-04-25T11:15:48.233] [INFO] csvReader - CSV line 72
+[2022-04-25T11:15:48.233] [INFO] csvReader - CSV line 73
+[2022-04-25T11:15:48.233] [INFO] csvReader - CSV line 74
+[2022-04-25T11:15:48.234] [INFO] csvReader - CSV line 75
+[2022-04-25T11:15:48.234] [INFO] csvReader - CSV line 76
+[2022-04-25T11:15:48.235] [INFO] csvReader - CSV line 77
+[2022-04-25T11:15:48.235] [INFO] csvReader - CSV line 78
+[2022-04-25T11:15:48.236] [INFO] csvReader - CSV line 79
+[2022-04-25T11:15:48.236] [INFO] csvReader - CSV line 80
+[2022-04-25T11:15:48.237] [INFO] csvReader - CSV line 81
+[2022-04-25T11:15:48.237] [INFO] csvReader - CSV line 82
+[2022-04-25T11:15:48.238] [INFO] csvReader - CSV line 83
+[2022-04-25T11:15:48.238] [INFO] csvReader - CSV line 84
+[2022-04-25T11:15:48.239] [INFO] csvReader - CSV line 85
+[2022-04-25T11:15:48.239] [INFO] csvReader - CSV line 86
+[2022-04-25T11:15:48.240] [INFO] csvReader - CSV line 87
+[2022-04-25T11:15:48.240] [INFO] csvReader - CSV line 88
+[2022-04-25T11:15:48.241] [INFO] csvReader - CSV line 89
+[2022-04-25T11:15:48.241] [INFO] csvReader - CSV line 90
+[2022-04-25T11:15:48.242] [INFO] csvReader - CSV line 91
+[2022-04-25T11:15:48.242] [INFO] csvReader - CSV line 92
+[2022-04-25T11:15:48.243] [INFO] csvReader - CSV line 93
+[2022-04-25T11:15:48.243] [INFO] csvReader - CSV line 94
+[2022-04-25T11:15:48.243] [INFO] csvReader - CSV line 95
+[2022-04-25T11:15:48.244] [INFO] csvReader - CSV line 96
+[2022-04-25T11:15:48.244] [INFO] csvReader - CSV line 97
+[2022-04-25T11:15:48.245] [INFO] csvReader - CSV line 98
+[2022-04-25T11:15:48.245] [INFO] csvReader - CSV line 99
+[2022-04-25T11:15:48.245] [INFO] csvReader - CSV line 100
+[2022-04-25T11:15:48.246] [INFO] csvReader - CSV line 101
+[2022-04-25T11:15:48.246] [INFO] csvReader - CSV line 102
+[2022-04-25T11:15:48.247] [INFO] csvReader - CSV line 103
+[2022-04-25T11:15:48.247] [INFO] csvReader - CSV line 104
+[2022-04-25T11:15:48.248] [INFO] csvReader - CSV line 105
+[2022-04-25T11:15:48.248] [INFO] csvReader - CSV line 106
+[2022-04-25T11:15:48.248] [INFO] csvReader - CSV line 107
+[2022-04-25T11:15:48.249] [INFO] csvReader - CSV line 108
+[2022-04-25T11:15:48.249] [INFO] csvReader - CSV line 109
+[2022-04-25T11:15:48.250] [INFO] csvReader - CSV line 110
+[2022-04-25T11:15:48.250] [INFO] csvReader - CSV line 111
+[2022-04-25T11:15:48.251] [INFO] csvReader - CSV line 112
+[2022-04-25T11:15:48.251] [INFO] csvReader - CSV line 113
+[2022-04-25T11:15:48.252] [INFO] csvReader - CSV line 114
+[2022-04-25T11:15:48.252] [INFO] csvReader - CSV line 115
+[2022-04-25T11:15:48.253] [INFO] csvReader - CSV line 116
+[2022-04-25T11:15:48.253] [INFO] csvReader - CSV line 117
+[2022-04-25T11:15:48.254] [INFO] csvReader - CSV line 118
+[2022-04-25T11:15:48.254] [INFO] csvReader - CSV line 119
+[2022-04-25T11:15:48.254] [INFO] csvReader - CSV line 120
+[2022-04-25T11:15:48.255] [INFO] csvReader - CSV line 121
+[2022-04-25T11:15:48.256] [INFO] csvReader - CSV line 122
+[2022-04-25T11:15:48.256] [INFO] csvReader - CSV line 123
+[2022-04-25T11:15:48.257] [INFO] csvReader - CSV line 124
+[2022-04-25T11:15:48.257] [INFO] csvReader - CSV line 125
+[2022-04-25T11:15:48.257] [INFO] csvReader - CSV line 126
+[2022-04-25T11:15:48.259] [INFO] csvReader - CSV line 127
+[2022-04-25T11:15:48.260] [INFO] csvReader - CSV line 128
+[2022-04-25T11:15:48.260] [INFO] csvReader - CSV line 129
+[2022-04-25T11:15:48.261] [INFO] csvReader - CSV line 130
+[2022-04-25T11:15:48.261] [INFO] csvReader - CSV line 131
+[2022-04-25T11:15:48.261] [INFO] csvReader - CSV line 132
+[2022-04-25T11:15:48.262] [INFO] csvReader - CSV line 133
+[2022-04-25T11:15:48.262] [INFO] csvReader - CSV line 134
+[2022-04-25T11:15:48.263] [INFO] csvReader - CSV line 135
+[2022-04-25T11:15:48.263] [INFO] csvReader - CSV line 136
+[2022-04-25T11:15:48.264] [INFO] csvReader - CSV line 137
+[2022-04-25T11:15:48.264] [INFO] csvReader - CSV line 138
+[2022-04-25T11:15:48.265] [INFO] csvReader - CSV line 139
+[2022-04-25T11:15:48.265] [INFO] csvReader - CSV line 140
+[2022-04-25T11:15:48.266] [INFO] csvReader - CSV line 141
+[2022-04-25T11:15:48.266] [INFO] csvReader - CSV line 142
+[2022-04-25T11:15:48.267] [INFO] csvReader - CSV line 143
+[2022-04-25T11:15:48.267] [INFO] csvReader - CSV line 144
+[2022-04-25T11:15:48.268] [INFO] csvReader - CSV line 145
+[2022-04-25T11:15:48.268] [INFO] csvReader - CSV line 146
+[2022-04-25T11:15:48.268] [INFO] csvReader - CSV line 147
+[2022-04-25T11:15:48.269] [INFO] csvReader - CSV line 148
+[2022-04-25T11:15:48.269] [INFO] csvReader - CSV line 149
+[2022-04-25T11:15:48.271] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:15:48.272] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:15:48.272] [INFO] csvReader - Jon A: -88.62
+[2022-04-25T11:15:48.274] [INFO] csvReader - Sarah T: -28.81
+[2022-04-25T11:15:48.274] [INFO] csvReader - Stephen S: 37.21
+[2022-04-25T11:15:48.274] [INFO] csvReader - Tim L: 19.82
+[2022-04-25T11:15:48.275] [INFO] csvReader - Laura B: -22.30
+[2022-04-25T11:15:48.275] [INFO] csvReader - Rob S: 26.75
+[2022-04-25T11:15:48.276] [INFO] csvReader - Ben B: 33.65
+[2022-04-25T11:15:48.276] [INFO] csvReader - Sam N: 28.50
+[2022-04-25T11:15:48.276] [INFO] csvReader - Gergana I: 46.37
+[2022-04-25T11:15:48.277] [INFO] csvReader - Todd: -12.03
+[2022-04-25T11:15:48.277] [INFO] csvReader - Chris W: -44.95
+[2022-04-25T11:15:48.278] [INFO] csvReader - Dan W: 4.41
+[2022-04-25T11:15:48.278] [INFO] csvReader - Finished printing balances for 12 accounts.
+[2022-04-25T11:15:50.605] [INFO] csvReader - User selected List Account
+[2022-04-25T11:15:50.606] [INFO] csvReader - Program started
+[2022-04-25T11:15:50.607] [INFO] csvReader - Reading file...
+[2022-04-25T11:15:50.611] [INFO] csvReader - CSV line 2
+[2022-04-25T11:15:50.613] [INFO] csvReader - CSV line 3
+[2022-04-25T11:15:50.613] [INFO] csvReader - CSV line 4
+[2022-04-25T11:15:50.614] [INFO] csvReader - CSV line 5
+[2022-04-25T11:15:50.614] [INFO] csvReader - CSV line 6
+[2022-04-25T11:15:50.615] [INFO] csvReader - CSV line 7
+[2022-04-25T11:15:50.615] [INFO] csvReader - CSV line 8
+[2022-04-25T11:15:50.616] [INFO] csvReader - CSV line 9
+[2022-04-25T11:15:50.616] [INFO] csvReader - CSV line 10
+[2022-04-25T11:15:50.617] [INFO] csvReader - CSV line 11
+[2022-04-25T11:15:50.617] [INFO] csvReader - CSV line 12
+[2022-04-25T11:15:50.618] [INFO] csvReader - CSV line 13
+[2022-04-25T11:15:50.618] [INFO] csvReader - CSV line 14
+[2022-04-25T11:15:50.619] [INFO] csvReader - CSV line 15
+[2022-04-25T11:15:50.619] [INFO] csvReader - CSV line 16
+[2022-04-25T11:15:50.620] [INFO] csvReader - CSV line 17
+[2022-04-25T11:15:50.620] [INFO] csvReader - CSV line 18
+[2022-04-25T11:15:50.621] [INFO] csvReader - CSV line 19
+[2022-04-25T11:15:50.621] [INFO] csvReader - CSV line 20
+[2022-04-25T11:15:50.622] [INFO] csvReader - CSV line 21
+[2022-04-25T11:15:50.622] [INFO] csvReader - CSV line 22
+[2022-04-25T11:15:50.623] [INFO] csvReader - CSV line 23
+[2022-04-25T11:15:50.623] [INFO] csvReader - CSV line 24
+[2022-04-25T11:15:50.623] [INFO] csvReader - CSV line 25
+[2022-04-25T11:15:50.624] [INFO] csvReader - CSV line 26
+[2022-04-25T11:15:50.624] [INFO] csvReader - CSV line 27
+[2022-04-25T11:15:50.625] [INFO] csvReader - CSV line 28
+[2022-04-25T11:15:50.625] [INFO] csvReader - CSV line 29
+[2022-04-25T11:15:50.626] [INFO] csvReader - CSV line 30
+[2022-04-25T11:15:50.626] [INFO] csvReader - CSV line 31
+[2022-04-25T11:15:50.627] [INFO] csvReader - CSV line 32
+[2022-04-25T11:15:50.627] [INFO] csvReader - CSV line 33
+[2022-04-25T11:15:50.628] [INFO] csvReader - CSV line 34
+[2022-04-25T11:15:50.628] [INFO] csvReader - CSV line 35
+[2022-04-25T11:15:50.629] [INFO] csvReader - CSV line 36
+[2022-04-25T11:15:50.629] [INFO] csvReader - CSV line 37
+[2022-04-25T11:15:50.630] [INFO] csvReader - CSV line 38
+[2022-04-25T11:15:50.630] [INFO] csvReader - CSV line 39
+[2022-04-25T11:15:50.631] [INFO] csvReader - CSV line 40
+[2022-04-25T11:15:50.631] [INFO] csvReader - CSV line 41
+[2022-04-25T11:15:50.632] [INFO] csvReader - CSV line 42
+[2022-04-25T11:15:50.632] [INFO] csvReader - CSV line 43
+[2022-04-25T11:15:50.633] [INFO] csvReader - CSV line 44
+[2022-04-25T11:15:50.633] [INFO] csvReader - CSV line 45
+[2022-04-25T11:15:50.633] [INFO] csvReader - CSV line 46
+[2022-04-25T11:15:50.634] [INFO] csvReader - CSV line 47
+[2022-04-25T11:15:50.634] [INFO] csvReader - CSV line 48
+[2022-04-25T11:15:50.635] [INFO] csvReader - CSV line 49
+[2022-04-25T11:15:50.635] [INFO] csvReader - CSV line 50
+[2022-04-25T11:15:50.635] [INFO] csvReader - CSV line 51
+[2022-04-25T11:15:50.636] [INFO] csvReader - CSV line 52
+[2022-04-25T11:15:50.636] [INFO] csvReader - CSV line 53
+[2022-04-25T11:15:50.636] [INFO] csvReader - CSV line 54
+[2022-04-25T11:15:50.637] [INFO] csvReader - CSV line 55
+[2022-04-25T11:15:50.637] [INFO] csvReader - CSV line 56
+[2022-04-25T11:15:50.638] [INFO] csvReader - CSV line 57
+[2022-04-25T11:15:50.638] [INFO] csvReader - CSV line 58
+[2022-04-25T11:15:50.638] [INFO] csvReader - CSV line 59
+[2022-04-25T11:15:50.639] [INFO] csvReader - CSV line 60
+[2022-04-25T11:15:50.639] [INFO] csvReader - CSV line 61
+[2022-04-25T11:15:50.640] [INFO] csvReader - CSV line 62
+[2022-04-25T11:15:50.640] [INFO] csvReader - CSV line 63
+[2022-04-25T11:15:50.640] [INFO] csvReader - CSV line 64
+[2022-04-25T11:15:50.641] [INFO] csvReader - CSV line 65
+[2022-04-25T11:15:50.641] [INFO] csvReader - CSV line 66
+[2022-04-25T11:15:50.642] [INFO] csvReader - CSV line 67
+[2022-04-25T11:15:50.642] [INFO] csvReader - CSV line 68
+[2022-04-25T11:15:50.643] [INFO] csvReader - CSV line 69
+[2022-04-25T11:15:50.643] [INFO] csvReader - CSV line 70
+[2022-04-25T11:15:50.644] [INFO] csvReader - CSV line 71
+[2022-04-25T11:15:50.644] [INFO] csvReader - CSV line 72
+[2022-04-25T11:15:50.644] [INFO] csvReader - CSV line 73
+[2022-04-25T11:15:50.645] [INFO] csvReader - CSV line 74
+[2022-04-25T11:15:50.645] [INFO] csvReader - CSV line 75
+[2022-04-25T11:15:50.646] [INFO] csvReader - CSV line 76
+[2022-04-25T11:15:50.646] [INFO] csvReader - CSV line 77
+[2022-04-25T11:15:50.646] [INFO] csvReader - CSV line 78
+[2022-04-25T11:15:50.647] [INFO] csvReader - CSV line 79
+[2022-04-25T11:15:50.647] [INFO] csvReader - CSV line 80
+[2022-04-25T11:15:50.648] [INFO] csvReader - CSV line 81
+[2022-04-25T11:15:50.648] [INFO] csvReader - CSV line 82
+[2022-04-25T11:15:50.648] [INFO] csvReader - CSV line 83
+[2022-04-25T11:15:50.649] [INFO] csvReader - CSV line 84
+[2022-04-25T11:15:50.649] [INFO] csvReader - CSV line 85
+[2022-04-25T11:15:50.650] [INFO] csvReader - CSV line 86
+[2022-04-25T11:15:50.650] [INFO] csvReader - CSV line 87
+[2022-04-25T11:15:50.650] [INFO] csvReader - CSV line 88
+[2022-04-25T11:15:50.651] [INFO] csvReader - CSV line 89
+[2022-04-25T11:15:50.651] [INFO] csvReader - CSV line 90
+[2022-04-25T11:15:50.652] [INFO] csvReader - CSV line 91
+[2022-04-25T11:15:50.652] [INFO] csvReader - CSV line 92
+[2022-04-25T11:15:50.652] [INFO] csvReader - CSV line 93
+[2022-04-25T11:15:50.653] [INFO] csvReader - CSV line 94
+[2022-04-25T11:15:50.653] [INFO] csvReader - CSV line 95
+[2022-04-25T11:15:50.653] [INFO] csvReader - CSV line 96
+[2022-04-25T11:15:50.654] [INFO] csvReader - CSV line 97
+[2022-04-25T11:15:50.654] [INFO] csvReader - CSV line 98
+[2022-04-25T11:15:50.654] [INFO] csvReader - CSV line 99
+[2022-04-25T11:15:50.655] [INFO] csvReader - CSV line 100
+[2022-04-25T11:15:50.655] [INFO] csvReader - CSV line 101
+[2022-04-25T11:15:50.656] [INFO] csvReader - CSV line 102
+[2022-04-25T11:15:50.656] [INFO] csvReader - CSV line 103
+[2022-04-25T11:15:50.656] [INFO] csvReader - CSV line 104
+[2022-04-25T11:15:50.657] [INFO] csvReader - CSV line 105
+[2022-04-25T11:15:50.657] [INFO] csvReader - CSV line 106
+[2022-04-25T11:15:50.657] [INFO] csvReader - CSV line 107
+[2022-04-25T11:15:50.658] [INFO] csvReader - CSV line 108
+[2022-04-25T11:15:50.659] [INFO] csvReader - CSV line 109
+[2022-04-25T11:15:50.659] [INFO] csvReader - CSV line 110
+[2022-04-25T11:15:50.660] [INFO] csvReader - CSV line 111
+[2022-04-25T11:15:50.660] [INFO] csvReader - CSV line 112
+[2022-04-25T11:15:50.660] [INFO] csvReader - CSV line 113
+[2022-04-25T11:15:50.661] [INFO] csvReader - CSV line 114
+[2022-04-25T11:15:50.661] [INFO] csvReader - CSV line 115
+[2022-04-25T11:15:50.662] [INFO] csvReader - CSV line 116
+[2022-04-25T11:15:50.662] [INFO] csvReader - CSV line 117
+[2022-04-25T11:15:50.662] [INFO] csvReader - CSV line 118
+[2022-04-25T11:15:50.663] [INFO] csvReader - CSV line 119
+[2022-04-25T11:15:50.663] [INFO] csvReader - CSV line 120
+[2022-04-25T11:15:50.663] [INFO] csvReader - CSV line 121
+[2022-04-25T11:15:50.664] [INFO] csvReader - CSV line 122
+[2022-04-25T11:15:50.664] [INFO] csvReader - CSV line 123
+[2022-04-25T11:15:50.665] [INFO] csvReader - CSV line 124
+[2022-04-25T11:15:50.665] [INFO] csvReader - CSV line 125
+[2022-04-25T11:15:50.666] [INFO] csvReader - CSV line 126
+[2022-04-25T11:15:50.668] [INFO] csvReader - CSV line 127
+[2022-04-25T11:15:50.669] [INFO] csvReader - CSV line 128
+[2022-04-25T11:15:50.669] [INFO] csvReader - CSV line 129
+[2022-04-25T11:15:50.670] [INFO] csvReader - CSV line 130
+[2022-04-25T11:15:50.670] [INFO] csvReader - CSV line 131
+[2022-04-25T11:15:50.671] [INFO] csvReader - CSV line 132
+[2022-04-25T11:15:50.671] [INFO] csvReader - CSV line 133
+[2022-04-25T11:15:50.672] [INFO] csvReader - CSV line 134
+[2022-04-25T11:15:50.672] [INFO] csvReader - CSV line 135
+[2022-04-25T11:15:50.673] [INFO] csvReader - CSV line 136
+[2022-04-25T11:15:50.673] [INFO] csvReader - CSV line 137
+[2022-04-25T11:15:50.674] [INFO] csvReader - CSV line 138
+[2022-04-25T11:15:50.674] [INFO] csvReader - CSV line 139
+[2022-04-25T11:15:50.675] [INFO] csvReader - CSV line 140
+[2022-04-25T11:15:50.675] [INFO] csvReader - CSV line 141
+[2022-04-25T11:15:50.676] [INFO] csvReader - CSV line 142
+[2022-04-25T11:15:50.676] [INFO] csvReader - CSV line 143
+[2022-04-25T11:15:50.677] [INFO] csvReader - CSV line 144
+[2022-04-25T11:15:50.677] [INFO] csvReader - CSV line 145
+[2022-04-25T11:15:50.678] [INFO] csvReader - CSV line 146
+[2022-04-25T11:15:50.678] [INFO] csvReader - CSV line 147
+[2022-04-25T11:15:50.679] [INFO] csvReader - CSV line 148
+[2022-04-25T11:15:50.679] [INFO] csvReader - CSV line 149
+[2022-04-25T11:15:50.681] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:15:50.682] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:15:53.676] [INFO] csvReader - User entered: Todd
+[2022-04-25T11:15:53.676] [INFO] csvReader - Fetching Todd's transactions...
+[2022-04-25T11:15:53.677] [INFO] csvReader - Tue Jan 28 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.81 for Coffee
+[2022-04-25T11:15:53.679] [INFO] csvReader - Sat Feb 01 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.87 for Snooker Night
+[2022-04-25T11:15:53.679] [INFO] csvReader - Wed Feb 05 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $5.62 for Sandbox Help
+[2022-04-25T11:15:53.680] [INFO] csvReader - Tue Feb 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $7.10 for Automated Testing Services
+[2022-04-25T11:15:53.680] [INFO] csvReader - Fri Mar 07 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Laura B $9.39 for Pokemon Training
+[2022-04-25T11:15:53.681] [INFO] csvReader - Mon Mar 10 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Gergana I $1.62 for Sandbox Help
+[2022-04-25T11:15:53.681] [INFO] csvReader - Sat Mar 29 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $5.01 for Git-Fu Rendered
+[2022-04-25T11:15:53.682] [INFO] csvReader - Fri Apr 04 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Ben B $10.85 for Rails Consultancy
+[2022-04-25T11:15:53.682] [INFO] csvReader - Thu Apr 10 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sarah T $3.55 for Snooker Night
+[2022-04-25T11:15:53.683] [INFO] csvReader - Fri Apr 11 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Laura B $3.72 for Coffee
+[2022-04-25T11:15:53.683] [INFO] csvReader - Sat Apr 26 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Tim L $1.46 for Lunch
+[2022-04-25T11:15:53.683] [INFO] csvReader - Sat May 10 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $10.63 for Lego Assistance
+[2022-04-25T11:15:53.684] [INFO] csvReader - Mon May 19 2014 00:00:00 GMT+0100 (British Summer Time) Jon A paid Todd $9.04 for Beers
+[2022-04-25T11:15:53.684] [INFO] csvReader - Thu May 22 2014 00:00:00 GMT+0100 (British Summer Time) Tim L paid Todd $3.81 for Coffee
+[2022-04-25T11:15:53.685] [INFO] csvReader - Fri May 30 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $7.01 for Lunch
+[2022-04-25T11:15:53.685] [INFO] csvReader - Sat Jun 14 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sam N $6.30 for Lego Assistance
+[2022-04-25T11:15:53.685] [INFO] csvReader - Thu Jun 26 2014 00:00:00 GMT+0100 (British Summer Time) Chris W paid Todd $9.81 for Beers
+[2022-04-25T11:15:53.686] [INFO] csvReader - Wed Aug 13 2014 00:00:00 GMT+0100 (British Summer Time) Sarah T paid Todd $8.25 for Beers
+[2022-04-25T11:15:53.686] [INFO] csvReader - Sat Sep 06 2014 00:00:00 GMT+0100 (British Summer Time) Dan W paid Todd $1.80 for Lunch
+[2022-04-25T11:15:53.687] [INFO] csvReader - Tue Sep 09 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Dan W $3.93 for Audit and Other Financial Services
+[2022-04-25T11:15:53.687] [INFO] csvReader - Sat Oct 04 2014 00:00:00 GMT+0100 (British Summer Time) Ben B paid Todd $11.28 for Lunch
+[2022-04-25T11:15:53.687] [INFO] csvReader - Sat Oct 25 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $8.42 for Beers
+[2022-04-25T11:15:53.688] [INFO] csvReader - Fri Nov 21 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Chris W paid Todd $1.42 for Lego Assistance
+[2022-04-25T11:15:53.688] [INFO] csvReader - Sun Nov 23 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $2.24 for Beers
+[2022-04-25T11:15:53.688] [INFO] csvReader - Tue Dec 16 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Tim L $7.17 for Poker Winnings
+[2022-04-25T11:15:53.689] [INFO] csvReader - Thu Dec 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $1.86 for Lego Assistance
+[2022-04-25T11:15:53.689] [INFO] csvReader - Finished printing Todd's transactions.
+[2022-04-25T11:24:25.430] [INFO] csvReader - User selected List All
+[2022-04-25T11:24:25.432] [INFO] csvReader - Program started
+[2022-04-25T11:24:25.432] [INFO] csvReader - Reading file...
+[2022-04-25T11:24:25.436] [INFO] csvReader - CSV line 2
+[2022-04-25T11:24:25.437] [INFO] csvReader - CSV line 3
+[2022-04-25T11:24:25.437] [INFO] csvReader - CSV line 4
+[2022-04-25T11:24:25.438] [INFO] csvReader - CSV line 5
+[2022-04-25T11:24:25.438] [INFO] csvReader - CSV line 6
+[2022-04-25T11:24:25.439] [INFO] csvReader - CSV line 7
+[2022-04-25T11:24:25.439] [INFO] csvReader - CSV line 8
+[2022-04-25T11:24:25.439] [INFO] csvReader - CSV line 9
+[2022-04-25T11:24:25.440] [INFO] csvReader - CSV line 10
+[2022-04-25T11:24:25.440] [INFO] csvReader - CSV line 11
+[2022-04-25T11:24:25.441] [INFO] csvReader - CSV line 12
+[2022-04-25T11:24:25.441] [INFO] csvReader - CSV line 13
+[2022-04-25T11:24:25.442] [INFO] csvReader - CSV line 14
+[2022-04-25T11:24:25.442] [INFO] csvReader - CSV line 15
+[2022-04-25T11:24:25.442] [INFO] csvReader - CSV line 16
+[2022-04-25T11:24:25.443] [INFO] csvReader - CSV line 17
+[2022-04-25T11:24:25.443] [INFO] csvReader - CSV line 18
+[2022-04-25T11:24:25.444] [INFO] csvReader - CSV line 19
+[2022-04-25T11:24:25.444] [INFO] csvReader - CSV line 20
+[2022-04-25T11:24:25.444] [INFO] csvReader - CSV line 21
+[2022-04-25T11:24:25.445] [INFO] csvReader - CSV line 22
+[2022-04-25T11:24:25.445] [INFO] csvReader - CSV line 23
+[2022-04-25T11:24:25.446] [INFO] csvReader - CSV line 24
+[2022-04-25T11:24:25.446] [INFO] csvReader - CSV line 25
+[2022-04-25T11:24:25.446] [INFO] csvReader - CSV line 26
+[2022-04-25T11:24:25.447] [INFO] csvReader - CSV line 27
+[2022-04-25T11:24:25.447] [INFO] csvReader - CSV line 28
+[2022-04-25T11:24:25.448] [INFO] csvReader - CSV line 29
+[2022-04-25T11:24:25.448] [INFO] csvReader - CSV line 30
+[2022-04-25T11:24:25.448] [INFO] csvReader - CSV line 31
+[2022-04-25T11:24:25.449] [INFO] csvReader - CSV line 32
+[2022-04-25T11:24:25.449] [INFO] csvReader - CSV line 33
+[2022-04-25T11:24:25.450] [INFO] csvReader - CSV line 34
+[2022-04-25T11:24:25.450] [INFO] csvReader - CSV line 35
+[2022-04-25T11:24:25.450] [INFO] csvReader - CSV line 36
+[2022-04-25T11:24:25.451] [INFO] csvReader - CSV line 37
+[2022-04-25T11:24:25.451] [INFO] csvReader - CSV line 38
+[2022-04-25T11:24:25.452] [INFO] csvReader - CSV line 39
+[2022-04-25T11:24:25.452] [INFO] csvReader - CSV line 40
+[2022-04-25T11:24:25.453] [INFO] csvReader - CSV line 41
+[2022-04-25T11:24:25.453] [INFO] csvReader - CSV line 42
+[2022-04-25T11:24:25.454] [INFO] csvReader - CSV line 43
+[2022-04-25T11:24:25.454] [INFO] csvReader - CSV line 44
+[2022-04-25T11:24:25.454] [INFO] csvReader - CSV line 45
+[2022-04-25T11:24:25.455] [INFO] csvReader - CSV line 46
+[2022-04-25T11:24:25.455] [INFO] csvReader - CSV line 47
+[2022-04-25T11:24:25.455] [INFO] csvReader - CSV line 48
+[2022-04-25T11:24:25.456] [INFO] csvReader - CSV line 49
+[2022-04-25T11:24:25.456] [INFO] csvReader - CSV line 50
+[2022-04-25T11:24:25.457] [INFO] csvReader - CSV line 51
+[2022-04-25T11:24:25.457] [INFO] csvReader - CSV line 52
+[2022-04-25T11:24:25.457] [INFO] csvReader - CSV line 53
+[2022-04-25T11:24:25.458] [INFO] csvReader - CSV line 54
+[2022-04-25T11:24:25.458] [INFO] csvReader - CSV line 55
+[2022-04-25T11:24:25.459] [INFO] csvReader - CSV line 56
+[2022-04-25T11:24:25.459] [INFO] csvReader - CSV line 57
+[2022-04-25T11:24:25.459] [INFO] csvReader - CSV line 58
+[2022-04-25T11:24:25.460] [INFO] csvReader - CSV line 59
+[2022-04-25T11:24:25.460] [INFO] csvReader - CSV line 60
+[2022-04-25T11:24:25.461] [INFO] csvReader - CSV line 61
+[2022-04-25T11:24:25.461] [INFO] csvReader - CSV line 62
+[2022-04-25T11:24:25.461] [INFO] csvReader - CSV line 63
+[2022-04-25T11:24:25.462] [INFO] csvReader - CSV line 64
+[2022-04-25T11:24:25.462] [INFO] csvReader - CSV line 65
+[2022-04-25T11:24:25.462] [INFO] csvReader - CSV line 66
+[2022-04-25T11:24:25.463] [INFO] csvReader - CSV line 67
+[2022-04-25T11:24:25.463] [INFO] csvReader - CSV line 68
+[2022-04-25T11:24:25.464] [INFO] csvReader - CSV line 69
+[2022-04-25T11:24:25.464] [INFO] csvReader - CSV line 70
+[2022-04-25T11:24:25.464] [INFO] csvReader - CSV line 71
+[2022-04-25T11:24:25.465] [INFO] csvReader - CSV line 72
+[2022-04-25T11:24:25.465] [INFO] csvReader - CSV line 73
+[2022-04-25T11:24:25.465] [INFO] csvReader - CSV line 74
+[2022-04-25T11:24:25.466] [INFO] csvReader - CSV line 75
+[2022-04-25T11:24:25.466] [INFO] csvReader - CSV line 76
+[2022-04-25T11:24:25.466] [INFO] csvReader - CSV line 77
+[2022-04-25T11:24:25.467] [INFO] csvReader - CSV line 78
+[2022-04-25T11:24:25.467] [INFO] csvReader - CSV line 79
+[2022-04-25T11:24:25.467] [INFO] csvReader - CSV line 80
+[2022-04-25T11:24:25.468] [INFO] csvReader - CSV line 81
+[2022-04-25T11:24:25.468] [INFO] csvReader - CSV line 82
+[2022-04-25T11:24:25.469] [INFO] csvReader - CSV line 83
+[2022-04-25T11:24:25.469] [INFO] csvReader - CSV line 84
+[2022-04-25T11:24:25.470] [INFO] csvReader - CSV line 85
+[2022-04-25T11:24:25.470] [INFO] csvReader - CSV line 86
+[2022-04-25T11:24:25.470] [INFO] csvReader - CSV line 87
+[2022-04-25T11:24:25.471] [INFO] csvReader - CSV line 88
+[2022-04-25T11:24:25.471] [INFO] csvReader - CSV line 89
+[2022-04-25T11:24:25.472] [INFO] csvReader - CSV line 90
+[2022-04-25T11:24:25.472] [INFO] csvReader - CSV line 91
+[2022-04-25T11:24:25.472] [INFO] csvReader - CSV line 92
+[2022-04-25T11:24:25.473] [INFO] csvReader - CSV line 93
+[2022-04-25T11:24:25.473] [INFO] csvReader - CSV line 94
+[2022-04-25T11:24:25.473] [INFO] csvReader - CSV line 95
+[2022-04-25T11:24:25.474] [INFO] csvReader - CSV line 96
+[2022-04-25T11:24:25.474] [INFO] csvReader - CSV line 97
+[2022-04-25T11:24:25.474] [INFO] csvReader - CSV line 98
+[2022-04-25T11:24:25.475] [INFO] csvReader - CSV line 99
+[2022-04-25T11:24:25.475] [INFO] csvReader - CSV line 100
+[2022-04-25T11:24:25.475] [INFO] csvReader - CSV line 101
+[2022-04-25T11:24:25.476] [INFO] csvReader - CSV line 102
+[2022-04-25T11:24:25.476] [INFO] csvReader - CSV line 103
+[2022-04-25T11:24:25.476] [INFO] csvReader - CSV line 104
+[2022-04-25T11:24:25.477] [INFO] csvReader - CSV line 105
+[2022-04-25T11:24:25.477] [INFO] csvReader - CSV line 106
+[2022-04-25T11:24:25.478] [INFO] csvReader - CSV line 107
+[2022-04-25T11:24:25.478] [INFO] csvReader - CSV line 108
+[2022-04-25T11:24:25.478] [INFO] csvReader - CSV line 109
+[2022-04-25T11:24:25.479] [INFO] csvReader - CSV line 110
+[2022-04-25T11:24:25.479] [INFO] csvReader - CSV line 111
+[2022-04-25T11:24:25.479] [INFO] csvReader - CSV line 112
+[2022-04-25T11:24:25.480] [INFO] csvReader - CSV line 113
+[2022-04-25T11:24:25.480] [INFO] csvReader - CSV line 114
+[2022-04-25T11:24:25.480] [INFO] csvReader - CSV line 115
+[2022-04-25T11:24:25.481] [INFO] csvReader - CSV line 116
+[2022-04-25T11:24:25.481] [INFO] csvReader - CSV line 117
+[2022-04-25T11:24:25.481] [INFO] csvReader - CSV line 118
+[2022-04-25T11:24:25.482] [INFO] csvReader - CSV line 119
+[2022-04-25T11:24:25.482] [INFO] csvReader - CSV line 120
+[2022-04-25T11:24:25.483] [INFO] csvReader - CSV line 121
+[2022-04-25T11:24:25.483] [INFO] csvReader - CSV line 122
+[2022-04-25T11:24:25.484] [INFO] csvReader - CSV line 123
+[2022-04-25T11:24:25.484] [INFO] csvReader - CSV line 124
+[2022-04-25T11:24:25.485] [INFO] csvReader - CSV line 125
+[2022-04-25T11:24:25.485] [INFO] csvReader - CSV line 126
+[2022-04-25T11:24:25.487] [INFO] csvReader - CSV line 127
+[2022-04-25T11:24:25.487] [INFO] csvReader - CSV line 128
+[2022-04-25T11:24:25.488] [INFO] csvReader - CSV line 129
+[2022-04-25T11:24:25.488] [INFO] csvReader - CSV line 130
+[2022-04-25T11:24:25.488] [INFO] csvReader - CSV line 131
+[2022-04-25T11:24:25.489] [INFO] csvReader - CSV line 132
+[2022-04-25T11:24:25.489] [INFO] csvReader - CSV line 133
+[2022-04-25T11:24:25.490] [INFO] csvReader - CSV line 134
+[2022-04-25T11:24:25.490] [INFO] csvReader - CSV line 135
+[2022-04-25T11:24:25.490] [INFO] csvReader - CSV line 136
+[2022-04-25T11:24:25.491] [INFO] csvReader - CSV line 137
+[2022-04-25T11:24:25.491] [INFO] csvReader - CSV line 138
+[2022-04-25T11:24:25.492] [INFO] csvReader - CSV line 139
+[2022-04-25T11:24:25.492] [INFO] csvReader - CSV line 140
+[2022-04-25T11:24:25.492] [INFO] csvReader - CSV line 141
+[2022-04-25T11:24:25.493] [INFO] csvReader - CSV line 142
+[2022-04-25T11:24:25.493] [INFO] csvReader - CSV line 143
+[2022-04-25T11:24:25.494] [INFO] csvReader - CSV line 144
+[2022-04-25T11:24:25.494] [INFO] csvReader - CSV line 145
+[2022-04-25T11:24:25.495] [INFO] csvReader - CSV line 146
+[2022-04-25T11:24:25.495] [INFO] csvReader - CSV line 147
+[2022-04-25T11:24:25.496] [INFO] csvReader - CSV line 148
+[2022-04-25T11:24:25.496] [INFO] csvReader - CSV line 149
+[2022-04-25T11:24:25.498] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:24:25.498] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:24:25.498] [INFO] csvReader - Jon A: -88.62
+[2022-04-25T11:24:25.500] [INFO] csvReader - Sarah T: -28.81
+[2022-04-25T11:24:25.500] [INFO] csvReader - Stephen S: 37.21
+[2022-04-25T11:24:25.501] [INFO] csvReader - Tim L: 19.82
+[2022-04-25T11:24:25.502] [INFO] csvReader - Laura B: -22.30
+[2022-04-25T11:24:25.502] [INFO] csvReader - Rob S: 26.75
+[2022-04-25T11:24:25.503] [INFO] csvReader - Ben B: 33.65
+[2022-04-25T11:24:25.503] [INFO] csvReader - Sam N: 28.50
+[2022-04-25T11:24:25.504] [INFO] csvReader - Gergana I: 46.37
+[2022-04-25T11:24:25.504] [INFO] csvReader - Todd: -12.03
+[2022-04-25T11:24:25.504] [INFO] csvReader - Chris W: -44.95
+[2022-04-25T11:24:25.505] [INFO] csvReader - Dan W: 4.41
+[2022-04-25T11:24:25.505] [INFO] csvReader - Finished printing balances for 12 accounts.
+[2022-04-25T11:24:28.282] [INFO] csvReader - User selected List Account
+[2022-04-25T11:24:28.286] [INFO] csvReader - Program started
+[2022-04-25T11:24:28.287] [INFO] csvReader - Reading file...
+[2022-04-25T11:24:28.290] [INFO] csvReader - CSV line 2
+[2022-04-25T11:24:28.291] [INFO] csvReader - CSV line 3
+[2022-04-25T11:24:28.292] [INFO] csvReader - CSV line 4
+[2022-04-25T11:24:28.292] [INFO] csvReader - CSV line 5
+[2022-04-25T11:24:28.293] [INFO] csvReader - CSV line 6
+[2022-04-25T11:24:28.293] [INFO] csvReader - CSV line 7
+[2022-04-25T11:24:28.293] [INFO] csvReader - CSV line 8
+[2022-04-25T11:24:28.294] [INFO] csvReader - CSV line 9
+[2022-04-25T11:24:28.294] [INFO] csvReader - CSV line 10
+[2022-04-25T11:24:28.295] [INFO] csvReader - CSV line 11
+[2022-04-25T11:24:28.295] [INFO] csvReader - CSV line 12
+[2022-04-25T11:24:28.295] [INFO] csvReader - CSV line 13
+[2022-04-25T11:24:28.296] [INFO] csvReader - CSV line 14
+[2022-04-25T11:24:28.296] [INFO] csvReader - CSV line 15
+[2022-04-25T11:24:28.297] [INFO] csvReader - CSV line 16
+[2022-04-25T11:24:28.297] [INFO] csvReader - CSV line 17
+[2022-04-25T11:24:28.298] [INFO] csvReader - CSV line 18
+[2022-04-25T11:24:28.298] [INFO] csvReader - CSV line 19
+[2022-04-25T11:24:28.298] [INFO] csvReader - CSV line 20
+[2022-04-25T11:24:28.299] [INFO] csvReader - CSV line 21
+[2022-04-25T11:24:28.299] [INFO] csvReader - CSV line 22
+[2022-04-25T11:24:28.300] [INFO] csvReader - CSV line 23
+[2022-04-25T11:24:28.300] [INFO] csvReader - CSV line 24
+[2022-04-25T11:24:28.301] [INFO] csvReader - CSV line 25
+[2022-04-25T11:24:28.301] [INFO] csvReader - CSV line 26
+[2022-04-25T11:24:28.301] [INFO] csvReader - CSV line 27
+[2022-04-25T11:24:28.302] [INFO] csvReader - CSV line 28
+[2022-04-25T11:24:28.302] [INFO] csvReader - CSV line 29
+[2022-04-25T11:24:28.303] [INFO] csvReader - CSV line 30
+[2022-04-25T11:24:28.303] [INFO] csvReader - CSV line 31
+[2022-04-25T11:24:28.304] [INFO] csvReader - CSV line 32
+[2022-04-25T11:24:28.304] [INFO] csvReader - CSV line 33
+[2022-04-25T11:24:28.304] [INFO] csvReader - CSV line 34
+[2022-04-25T11:24:28.305] [INFO] csvReader - CSV line 35
+[2022-04-25T11:24:28.305] [INFO] csvReader - CSV line 36
+[2022-04-25T11:24:28.306] [INFO] csvReader - CSV line 37
+[2022-04-25T11:24:28.306] [INFO] csvReader - CSV line 38
+[2022-04-25T11:24:28.306] [INFO] csvReader - CSV line 39
+[2022-04-25T11:24:28.307] [INFO] csvReader - CSV line 40
+[2022-04-25T11:24:28.307] [INFO] csvReader - CSV line 41
+[2022-04-25T11:24:28.307] [INFO] csvReader - CSV line 42
+[2022-04-25T11:24:28.308] [INFO] csvReader - CSV line 43
+[2022-04-25T11:24:28.308] [INFO] csvReader - CSV line 44
+[2022-04-25T11:24:28.309] [INFO] csvReader - CSV line 45
+[2022-04-25T11:24:28.309] [INFO] csvReader - CSV line 46
+[2022-04-25T11:24:28.309] [INFO] csvReader - CSV line 47
+[2022-04-25T11:24:28.310] [INFO] csvReader - CSV line 48
+[2022-04-25T11:24:28.310] [INFO] csvReader - CSV line 49
+[2022-04-25T11:24:28.310] [INFO] csvReader - CSV line 50
+[2022-04-25T11:24:28.311] [INFO] csvReader - CSV line 51
+[2022-04-25T11:24:28.311] [INFO] csvReader - CSV line 52
+[2022-04-25T11:24:28.311] [INFO] csvReader - CSV line 53
+[2022-04-25T11:24:28.312] [INFO] csvReader - CSV line 54
+[2022-04-25T11:24:28.312] [INFO] csvReader - CSV line 55
+[2022-04-25T11:24:28.313] [INFO] csvReader - CSV line 56
+[2022-04-25T11:24:28.313] [INFO] csvReader - CSV line 57
+[2022-04-25T11:24:28.313] [INFO] csvReader - CSV line 58
+[2022-04-25T11:24:28.314] [INFO] csvReader - CSV line 59
+[2022-04-25T11:24:28.314] [INFO] csvReader - CSV line 60
+[2022-04-25T11:24:28.314] [INFO] csvReader - CSV line 61
+[2022-04-25T11:24:28.315] [INFO] csvReader - CSV line 62
+[2022-04-25T11:24:28.315] [INFO] csvReader - CSV line 63
+[2022-04-25T11:24:28.315] [INFO] csvReader - CSV line 64
+[2022-04-25T11:24:28.316] [INFO] csvReader - CSV line 65
+[2022-04-25T11:24:28.316] [INFO] csvReader - CSV line 66
+[2022-04-25T11:24:28.316] [INFO] csvReader - CSV line 67
+[2022-04-25T11:24:28.317] [INFO] csvReader - CSV line 68
+[2022-04-25T11:24:28.317] [INFO] csvReader - CSV line 69
+[2022-04-25T11:24:28.317] [INFO] csvReader - CSV line 70
+[2022-04-25T11:24:28.318] [INFO] csvReader - CSV line 71
+[2022-04-25T11:24:28.318] [INFO] csvReader - CSV line 72
+[2022-04-25T11:24:28.318] [INFO] csvReader - CSV line 73
+[2022-04-25T11:24:28.319] [INFO] csvReader - CSV line 74
+[2022-04-25T11:24:28.319] [INFO] csvReader - CSV line 75
+[2022-04-25T11:24:28.319] [INFO] csvReader - CSV line 76
+[2022-04-25T11:24:28.320] [INFO] csvReader - CSV line 77
+[2022-04-25T11:24:28.320] [INFO] csvReader - CSV line 78
+[2022-04-25T11:24:28.321] [INFO] csvReader - CSV line 79
+[2022-04-25T11:24:28.321] [INFO] csvReader - CSV line 80
+[2022-04-25T11:24:28.321] [INFO] csvReader - CSV line 81
+[2022-04-25T11:24:28.322] [INFO] csvReader - CSV line 82
+[2022-04-25T11:24:28.322] [INFO] csvReader - CSV line 83
+[2022-04-25T11:24:28.323] [INFO] csvReader - CSV line 84
+[2022-04-25T11:24:28.323] [INFO] csvReader - CSV line 85
+[2022-04-25T11:24:28.323] [INFO] csvReader - CSV line 86
+[2022-04-25T11:24:28.323] [INFO] csvReader - CSV line 87
+[2022-04-25T11:24:28.324] [INFO] csvReader - CSV line 88
+[2022-04-25T11:24:28.324] [INFO] csvReader - CSV line 89
+[2022-04-25T11:24:28.324] [INFO] csvReader - CSV line 90
+[2022-04-25T11:24:28.325] [INFO] csvReader - CSV line 91
+[2022-04-25T11:24:28.325] [INFO] csvReader - CSV line 92
+[2022-04-25T11:24:28.325] [INFO] csvReader - CSV line 93
+[2022-04-25T11:24:28.326] [INFO] csvReader - CSV line 94
+[2022-04-25T11:24:28.326] [INFO] csvReader - CSV line 95
+[2022-04-25T11:24:28.326] [INFO] csvReader - CSV line 96
+[2022-04-25T11:24:28.327] [INFO] csvReader - CSV line 97
+[2022-04-25T11:24:28.327] [INFO] csvReader - CSV line 98
+[2022-04-25T11:24:28.327] [INFO] csvReader - CSV line 99
+[2022-04-25T11:24:28.327] [INFO] csvReader - CSV line 100
+[2022-04-25T11:24:28.328] [INFO] csvReader - CSV line 101
+[2022-04-25T11:24:28.328] [INFO] csvReader - CSV line 102
+[2022-04-25T11:24:28.328] [INFO] csvReader - CSV line 103
+[2022-04-25T11:24:28.329] [INFO] csvReader - CSV line 104
+[2022-04-25T11:24:28.329] [INFO] csvReader - CSV line 105
+[2022-04-25T11:24:28.329] [INFO] csvReader - CSV line 106
+[2022-04-25T11:24:28.330] [INFO] csvReader - CSV line 107
+[2022-04-25T11:24:28.330] [INFO] csvReader - CSV line 108
+[2022-04-25T11:24:28.330] [INFO] csvReader - CSV line 109
+[2022-04-25T11:24:28.330] [INFO] csvReader - CSV line 110
+[2022-04-25T11:24:28.331] [INFO] csvReader - CSV line 111
+[2022-04-25T11:24:28.331] [INFO] csvReader - CSV line 112
+[2022-04-25T11:24:28.331] [INFO] csvReader - CSV line 113
+[2022-04-25T11:24:28.332] [INFO] csvReader - CSV line 114
+[2022-04-25T11:24:28.332] [INFO] csvReader - CSV line 115
+[2022-04-25T11:24:28.333] [INFO] csvReader - CSV line 116
+[2022-04-25T11:24:28.333] [INFO] csvReader - CSV line 117
+[2022-04-25T11:24:28.333] [INFO] csvReader - CSV line 118
+[2022-04-25T11:24:28.334] [INFO] csvReader - CSV line 119
+[2022-04-25T11:24:28.334] [INFO] csvReader - CSV line 120
+[2022-04-25T11:24:28.334] [INFO] csvReader - CSV line 121
+[2022-04-25T11:24:28.335] [INFO] csvReader - CSV line 122
+[2022-04-25T11:24:28.335] [INFO] csvReader - CSV line 123
+[2022-04-25T11:24:28.336] [INFO] csvReader - CSV line 124
+[2022-04-25T11:24:28.337] [INFO] csvReader - CSV line 125
+[2022-04-25T11:24:28.337] [INFO] csvReader - CSV line 126
+[2022-04-25T11:24:28.340] [INFO] csvReader - CSV line 127
+[2022-04-25T11:24:28.340] [INFO] csvReader - CSV line 128
+[2022-04-25T11:24:28.340] [INFO] csvReader - CSV line 129
+[2022-04-25T11:24:28.341] [INFO] csvReader - CSV line 130
+[2022-04-25T11:24:28.341] [INFO] csvReader - CSV line 131
+[2022-04-25T11:24:28.341] [INFO] csvReader - CSV line 132
+[2022-04-25T11:24:28.342] [INFO] csvReader - CSV line 133
+[2022-04-25T11:24:28.342] [INFO] csvReader - CSV line 134
+[2022-04-25T11:24:28.343] [INFO] csvReader - CSV line 135
+[2022-04-25T11:24:28.343] [INFO] csvReader - CSV line 136
+[2022-04-25T11:24:28.343] [INFO] csvReader - CSV line 137
+[2022-04-25T11:24:28.344] [INFO] csvReader - CSV line 138
+[2022-04-25T11:24:28.344] [INFO] csvReader - CSV line 139
+[2022-04-25T11:24:28.345] [INFO] csvReader - CSV line 140
+[2022-04-25T11:24:28.345] [INFO] csvReader - CSV line 141
+[2022-04-25T11:24:28.345] [INFO] csvReader - CSV line 142
+[2022-04-25T11:24:28.346] [INFO] csvReader - CSV line 143
+[2022-04-25T11:24:28.346] [INFO] csvReader - CSV line 144
+[2022-04-25T11:24:28.347] [INFO] csvReader - CSV line 145
+[2022-04-25T11:24:28.347] [INFO] csvReader - CSV line 146
+[2022-04-25T11:24:28.347] [INFO] csvReader - CSV line 147
+[2022-04-25T11:24:28.348] [INFO] csvReader - CSV line 148
+[2022-04-25T11:24:28.348] [INFO] csvReader - CSV line 149
+[2022-04-25T11:24:28.350] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:24:28.351] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:24:29.543] [INFO] csvReader - User entered: Todd
+[2022-04-25T11:24:29.543] [INFO] csvReader - Fetching Todd's transactions...
+[2022-04-25T11:25:57.579] [INFO] csvReader - User selected List Account
+[2022-04-25T11:25:57.583] [INFO] csvReader - Program started
+[2022-04-25T11:25:57.584] [INFO] csvReader - Reading file...
+[2022-04-25T11:25:57.587] [INFO] csvReader - CSV line 2
+[2022-04-25T11:25:57.588] [INFO] csvReader - CSV line 3
+[2022-04-25T11:25:57.589] [INFO] csvReader - CSV line 4
+[2022-04-25T11:25:57.589] [INFO] csvReader - CSV line 5
+[2022-04-25T11:25:57.590] [INFO] csvReader - CSV line 6
+[2022-04-25T11:25:57.590] [INFO] csvReader - CSV line 7
+[2022-04-25T11:25:57.591] [INFO] csvReader - CSV line 8
+[2022-04-25T11:25:57.591] [INFO] csvReader - CSV line 9
+[2022-04-25T11:25:57.591] [INFO] csvReader - CSV line 10
+[2022-04-25T11:25:57.592] [INFO] csvReader - CSV line 11
+[2022-04-25T11:25:57.592] [INFO] csvReader - CSV line 12
+[2022-04-25T11:25:57.593] [INFO] csvReader - CSV line 13
+[2022-04-25T11:25:57.593] [INFO] csvReader - CSV line 14
+[2022-04-25T11:25:57.594] [INFO] csvReader - CSV line 15
+[2022-04-25T11:25:57.594] [INFO] csvReader - CSV line 16
+[2022-04-25T11:25:57.595] [INFO] csvReader - CSV line 17
+[2022-04-25T11:25:57.595] [INFO] csvReader - CSV line 18
+[2022-04-25T11:25:57.596] [INFO] csvReader - CSV line 19
+[2022-04-25T11:25:57.596] [INFO] csvReader - CSV line 20
+[2022-04-25T11:25:57.596] [INFO] csvReader - CSV line 21
+[2022-04-25T11:25:57.597] [INFO] csvReader - CSV line 22
+[2022-04-25T11:25:57.597] [INFO] csvReader - CSV line 23
+[2022-04-25T11:25:57.598] [INFO] csvReader - CSV line 24
+[2022-04-25T11:25:57.598] [INFO] csvReader - CSV line 25
+[2022-04-25T11:25:57.598] [INFO] csvReader - CSV line 26
+[2022-04-25T11:25:57.599] [INFO] csvReader - CSV line 27
+[2022-04-25T11:25:57.599] [INFO] csvReader - CSV line 28
+[2022-04-25T11:25:57.600] [INFO] csvReader - CSV line 29
+[2022-04-25T11:25:57.600] [INFO] csvReader - CSV line 30
+[2022-04-25T11:25:57.600] [INFO] csvReader - CSV line 31
+[2022-04-25T11:25:57.601] [INFO] csvReader - CSV line 32
+[2022-04-25T11:25:57.601] [INFO] csvReader - CSV line 33
+[2022-04-25T11:25:57.601] [INFO] csvReader - CSV line 34
+[2022-04-25T11:25:57.602] [INFO] csvReader - CSV line 35
+[2022-04-25T11:25:57.602] [INFO] csvReader - CSV line 36
+[2022-04-25T11:25:57.603] [INFO] csvReader - CSV line 37
+[2022-04-25T11:25:57.603] [INFO] csvReader - CSV line 38
+[2022-04-25T11:25:57.603] [INFO] csvReader - CSV line 39
+[2022-04-25T11:25:57.604] [INFO] csvReader - CSV line 40
+[2022-04-25T11:25:57.604] [INFO] csvReader - CSV line 41
+[2022-04-25T11:25:57.604] [INFO] csvReader - CSV line 42
+[2022-04-25T11:25:57.605] [INFO] csvReader - CSV line 43
+[2022-04-25T11:25:57.605] [INFO] csvReader - CSV line 44
+[2022-04-25T11:25:57.605] [INFO] csvReader - CSV line 45
+[2022-04-25T11:25:57.606] [INFO] csvReader - CSV line 46
+[2022-04-25T11:25:57.606] [INFO] csvReader - CSV line 47
+[2022-04-25T11:25:57.606] [INFO] csvReader - CSV line 48
+[2022-04-25T11:25:57.607] [INFO] csvReader - CSV line 49
+[2022-04-25T11:25:57.607] [INFO] csvReader - CSV line 50
+[2022-04-25T11:25:57.607] [INFO] csvReader - CSV line 51
+[2022-04-25T11:25:57.608] [INFO] csvReader - CSV line 52
+[2022-04-25T11:25:57.608] [INFO] csvReader - CSV line 53
+[2022-04-25T11:25:57.608] [INFO] csvReader - CSV line 54
+[2022-04-25T11:25:57.609] [INFO] csvReader - CSV line 55
+[2022-04-25T11:25:57.609] [INFO] csvReader - CSV line 56
+[2022-04-25T11:25:57.609] [INFO] csvReader - CSV line 57
+[2022-04-25T11:25:57.610] [INFO] csvReader - CSV line 58
+[2022-04-25T11:25:57.610] [INFO] csvReader - CSV line 59
+[2022-04-25T11:25:57.611] [INFO] csvReader - CSV line 60
+[2022-04-25T11:25:57.611] [INFO] csvReader - CSV line 61
+[2022-04-25T11:25:57.611] [INFO] csvReader - CSV line 62
+[2022-04-25T11:25:57.612] [INFO] csvReader - CSV line 63
+[2022-04-25T11:25:57.612] [INFO] csvReader - CSV line 64
+[2022-04-25T11:25:57.612] [INFO] csvReader - CSV line 65
+[2022-04-25T11:25:57.613] [INFO] csvReader - CSV line 66
+[2022-04-25T11:25:57.613] [INFO] csvReader - CSV line 67
+[2022-04-25T11:25:57.614] [INFO] csvReader - CSV line 68
+[2022-04-25T11:25:57.614] [INFO] csvReader - CSV line 69
+[2022-04-25T11:25:57.615] [INFO] csvReader - CSV line 70
+[2022-04-25T11:25:57.615] [INFO] csvReader - CSV line 71
+[2022-04-25T11:25:57.615] [INFO] csvReader - CSV line 72
+[2022-04-25T11:25:57.616] [INFO] csvReader - CSV line 73
+[2022-04-25T11:25:57.616] [INFO] csvReader - CSV line 74
+[2022-04-25T11:25:57.616] [INFO] csvReader - CSV line 75
+[2022-04-25T11:25:57.617] [INFO] csvReader - CSV line 76
+[2022-04-25T11:25:57.617] [INFO] csvReader - CSV line 77
+[2022-04-25T11:25:57.617] [INFO] csvReader - CSV line 78
+[2022-04-25T11:25:57.618] [INFO] csvReader - CSV line 79
+[2022-04-25T11:25:57.618] [INFO] csvReader - CSV line 80
+[2022-04-25T11:25:57.618] [INFO] csvReader - CSV line 81
+[2022-04-25T11:25:57.619] [INFO] csvReader - CSV line 82
+[2022-04-25T11:25:57.619] [INFO] csvReader - CSV line 83
+[2022-04-25T11:25:57.619] [INFO] csvReader - CSV line 84
+[2022-04-25T11:25:57.620] [INFO] csvReader - CSV line 85
+[2022-04-25T11:25:57.620] [INFO] csvReader - CSV line 86
+[2022-04-25T11:25:57.620] [INFO] csvReader - CSV line 87
+[2022-04-25T11:25:57.621] [INFO] csvReader - CSV line 88
+[2022-04-25T11:25:57.621] [INFO] csvReader - CSV line 89
+[2022-04-25T11:25:57.621] [INFO] csvReader - CSV line 90
+[2022-04-25T11:25:57.621] [INFO] csvReader - CSV line 91
+[2022-04-25T11:25:57.622] [INFO] csvReader - CSV line 92
+[2022-04-25T11:25:57.622] [INFO] csvReader - CSV line 93
+[2022-04-25T11:25:57.622] [INFO] csvReader - CSV line 94
+[2022-04-25T11:25:57.623] [INFO] csvReader - CSV line 95
+[2022-04-25T11:25:57.623] [INFO] csvReader - CSV line 96
+[2022-04-25T11:25:57.624] [INFO] csvReader - CSV line 97
+[2022-04-25T11:25:57.624] [INFO] csvReader - CSV line 98
+[2022-04-25T11:25:57.624] [INFO] csvReader - CSV line 99
+[2022-04-25T11:25:57.625] [INFO] csvReader - CSV line 100
+[2022-04-25T11:25:57.625] [INFO] csvReader - CSV line 101
+[2022-04-25T11:25:57.625] [INFO] csvReader - CSV line 102
+[2022-04-25T11:25:57.626] [INFO] csvReader - CSV line 103
+[2022-04-25T11:25:57.626] [INFO] csvReader - CSV line 104
+[2022-04-25T11:25:57.626] [INFO] csvReader - CSV line 105
+[2022-04-25T11:25:57.627] [INFO] csvReader - CSV line 106
+[2022-04-25T11:25:57.627] [INFO] csvReader - CSV line 107
+[2022-04-25T11:25:57.627] [INFO] csvReader - CSV line 108
+[2022-04-25T11:25:57.628] [INFO] csvReader - CSV line 109
+[2022-04-25T11:25:57.628] [INFO] csvReader - CSV line 110
+[2022-04-25T11:25:57.628] [INFO] csvReader - CSV line 111
+[2022-04-25T11:25:57.629] [INFO] csvReader - CSV line 112
+[2022-04-25T11:25:57.629] [INFO] csvReader - CSV line 113
+[2022-04-25T11:25:57.629] [INFO] csvReader - CSV line 114
+[2022-04-25T11:25:57.630] [INFO] csvReader - CSV line 115
+[2022-04-25T11:25:57.630] [INFO] csvReader - CSV line 116
+[2022-04-25T11:25:57.630] [INFO] csvReader - CSV line 117
+[2022-04-25T11:25:57.631] [INFO] csvReader - CSV line 118
+[2022-04-25T11:25:57.631] [INFO] csvReader - CSV line 119
+[2022-04-25T11:25:57.632] [INFO] csvReader - CSV line 120
+[2022-04-25T11:25:57.632] [INFO] csvReader - CSV line 121
+[2022-04-25T11:25:57.633] [INFO] csvReader - CSV line 122
+[2022-04-25T11:25:57.633] [INFO] csvReader - CSV line 123
+[2022-04-25T11:25:57.634] [INFO] csvReader - CSV line 124
+[2022-04-25T11:25:57.634] [INFO] csvReader - CSV line 125
+[2022-04-25T11:25:57.634] [INFO] csvReader - CSV line 126
+[2022-04-25T11:25:57.636] [INFO] csvReader - CSV line 127
+[2022-04-25T11:25:57.636] [INFO] csvReader - CSV line 128
+[2022-04-25T11:25:57.637] [INFO] csvReader - CSV line 129
+[2022-04-25T11:25:57.637] [INFO] csvReader - CSV line 130
+[2022-04-25T11:25:57.637] [INFO] csvReader - CSV line 131
+[2022-04-25T11:25:57.638] [INFO] csvReader - CSV line 132
+[2022-04-25T11:25:57.638] [INFO] csvReader - CSV line 133
+[2022-04-25T11:25:57.639] [INFO] csvReader - CSV line 134
+[2022-04-25T11:25:57.639] [INFO] csvReader - CSV line 135
+[2022-04-25T11:25:57.639] [INFO] csvReader - CSV line 136
+[2022-04-25T11:25:57.640] [INFO] csvReader - CSV line 137
+[2022-04-25T11:25:57.640] [INFO] csvReader - CSV line 138
+[2022-04-25T11:25:57.641] [INFO] csvReader - CSV line 139
+[2022-04-25T11:25:57.641] [INFO] csvReader - CSV line 140
+[2022-04-25T11:25:57.641] [INFO] csvReader - CSV line 141
+[2022-04-25T11:25:57.642] [INFO] csvReader - CSV line 142
+[2022-04-25T11:25:57.642] [INFO] csvReader - CSV line 143
+[2022-04-25T11:25:57.642] [INFO] csvReader - CSV line 144
+[2022-04-25T11:25:57.643] [INFO] csvReader - CSV line 145
+[2022-04-25T11:25:57.643] [INFO] csvReader - CSV line 146
+[2022-04-25T11:25:57.644] [INFO] csvReader - CSV line 147
+[2022-04-25T11:25:57.644] [INFO] csvReader - CSV line 148
+[2022-04-25T11:25:57.645] [INFO] csvReader - CSV line 149
+[2022-04-25T11:25:57.647] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:25:57.647] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:25:59.015] [INFO] csvReader - User entered: Todd
+[2022-04-25T11:25:59.016] [INFO] csvReader - Fetching Todd's transactions...
+[2022-04-25T11:25:59.017] [INFO] printAllTransactions - Tue Jan 28 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.81 for Coffee
+[2022-04-25T11:25:59.018] [INFO] printAllTransactions - Sat Feb 01 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.87 for Snooker Night
+[2022-04-25T11:25:59.019] [INFO] printAllTransactions - Wed Feb 05 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $5.62 for Sandbox Help
+[2022-04-25T11:25:59.019] [INFO] printAllTransactions - Tue Feb 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $7.10 for Automated Testing Services
+[2022-04-25T11:25:59.020] [INFO] printAllTransactions - Fri Mar 07 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Laura B $9.39 for Pokemon Training
+[2022-04-25T11:25:59.020] [INFO] printAllTransactions - Mon Mar 10 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Gergana I $1.62 for Sandbox Help
+[2022-04-25T11:25:59.021] [INFO] printAllTransactions - Sat Mar 29 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $5.01 for Git-Fu Rendered
+[2022-04-25T11:25:59.022] [INFO] printAllTransactions - Fri Apr 04 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Ben B $10.85 for Rails Consultancy
+[2022-04-25T11:25:59.022] [INFO] printAllTransactions - Thu Apr 10 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sarah T $3.55 for Snooker Night
+[2022-04-25T11:25:59.023] [INFO] printAllTransactions - Fri Apr 11 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Laura B $3.72 for Coffee
+[2022-04-25T11:25:59.023] [INFO] printAllTransactions - Sat Apr 26 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Tim L $1.46 for Lunch
+[2022-04-25T11:25:59.024] [INFO] printAllTransactions - Sat May 10 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $10.63 for Lego Assistance
+[2022-04-25T11:25:59.025] [INFO] printAllTransactions - Mon May 19 2014 00:00:00 GMT+0100 (British Summer Time) Jon A paid Todd $9.04 for Beers
+[2022-04-25T11:25:59.025] [INFO] printAllTransactions - Thu May 22 2014 00:00:00 GMT+0100 (British Summer Time) Tim L paid Todd $3.81 for Coffee
+[2022-04-25T11:25:59.026] [INFO] printAllTransactions - Fri May 30 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $7.01 for Lunch
+[2022-04-25T11:25:59.026] [INFO] printAllTransactions - Sat Jun 14 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sam N $6.30 for Lego Assistance
+[2022-04-25T11:25:59.027] [INFO] printAllTransactions - Thu Jun 26 2014 00:00:00 GMT+0100 (British Summer Time) Chris W paid Todd $9.81 for Beers
+[2022-04-25T11:25:59.028] [INFO] printAllTransactions - Wed Aug 13 2014 00:00:00 GMT+0100 (British Summer Time) Sarah T paid Todd $8.25 for Beers
+[2022-04-25T11:25:59.028] [INFO] printAllTransactions - Sat Sep 06 2014 00:00:00 GMT+0100 (British Summer Time) Dan W paid Todd $1.80 for Lunch
+[2022-04-25T11:25:59.029] [INFO] printAllTransactions - Tue Sep 09 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Dan W $3.93 for Audit and Other Financial Services
+[2022-04-25T11:25:59.029] [INFO] printAllTransactions - Sat Oct 04 2014 00:00:00 GMT+0100 (British Summer Time) Ben B paid Todd $11.28 for Lunch
+[2022-04-25T11:25:59.030] [INFO] printAllTransactions - Sat Oct 25 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $8.42 for Beers
+[2022-04-25T11:25:59.031] [INFO] printAllTransactions - Fri Nov 21 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Chris W paid Todd $1.42 for Lego Assistance
+[2022-04-25T11:25:59.031] [INFO] printAllTransactions - Sun Nov 23 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $2.24 for Beers
+[2022-04-25T11:25:59.032] [INFO] printAllTransactions - Tue Dec 16 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Tim L $7.17 for Poker Winnings
+[2022-04-25T11:25:59.032] [INFO] printAllTransactions - Thu Dec 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $1.86 for Lego Assistance
+[2022-04-25T11:25:59.033] [INFO] printAllTransactions - Finished printing Todd's transactions.
+[2022-04-25T11:27:28.443] [INFO] csvReader - User selected List All
+[2022-04-25T11:27:28.448] [INFO] csvReader - Program started
+[2022-04-25T11:27:28.449] [INFO] csvReader - Reading file...
+[2022-04-25T11:27:28.453] [INFO] csvReader - CSV line 2
+[2022-04-25T11:27:28.455] [INFO] csvReader - CSV line 3
+[2022-04-25T11:27:28.455] [INFO] csvReader - CSV line 4
+[2022-04-25T11:27:28.456] [INFO] csvReader - CSV line 5
+[2022-04-25T11:27:28.456] [INFO] csvReader - CSV line 6
+[2022-04-25T11:27:28.457] [INFO] csvReader - CSV line 7
+[2022-04-25T11:27:28.457] [INFO] csvReader - CSV line 8
+[2022-04-25T11:27:28.458] [INFO] csvReader - CSV line 9
+[2022-04-25T11:27:28.458] [INFO] csvReader - CSV line 10
+[2022-04-25T11:27:28.458] [INFO] csvReader - CSV line 11
+[2022-04-25T11:27:28.459] [INFO] csvReader - CSV line 12
+[2022-04-25T11:27:28.459] [INFO] csvReader - CSV line 13
+[2022-04-25T11:27:28.460] [INFO] csvReader - CSV line 14
+[2022-04-25T11:27:28.460] [INFO] csvReader - CSV line 15
+[2022-04-25T11:27:28.461] [INFO] csvReader - CSV line 16
+[2022-04-25T11:27:28.461] [INFO] csvReader - CSV line 17
+[2022-04-25T11:27:28.462] [INFO] csvReader - CSV line 18
+[2022-04-25T11:27:28.462] [INFO] csvReader - CSV line 19
+[2022-04-25T11:27:28.462] [INFO] csvReader - CSV line 20
+[2022-04-25T11:27:28.463] [INFO] csvReader - CSV line 21
+[2022-04-25T11:27:28.463] [INFO] csvReader - CSV line 22
+[2022-04-25T11:27:28.464] [INFO] csvReader - CSV line 23
+[2022-04-25T11:27:28.464] [INFO] csvReader - CSV line 24
+[2022-04-25T11:27:28.465] [INFO] csvReader - CSV line 25
+[2022-04-25T11:27:28.465] [INFO] csvReader - CSV line 26
+[2022-04-25T11:27:28.466] [INFO] csvReader - CSV line 27
+[2022-04-25T11:27:28.466] [INFO] csvReader - CSV line 28
+[2022-04-25T11:27:28.467] [INFO] csvReader - CSV line 29
+[2022-04-25T11:27:28.467] [INFO] csvReader - CSV line 30
+[2022-04-25T11:27:28.467] [INFO] csvReader - CSV line 31
+[2022-04-25T11:27:28.468] [INFO] csvReader - CSV line 32
+[2022-04-25T11:27:28.468] [INFO] csvReader - CSV line 33
+[2022-04-25T11:27:28.469] [INFO] csvReader - CSV line 34
+[2022-04-25T11:27:28.469] [INFO] csvReader - CSV line 35
+[2022-04-25T11:27:28.469] [INFO] csvReader - CSV line 36
+[2022-04-25T11:27:28.470] [INFO] csvReader - CSV line 37
+[2022-04-25T11:27:28.470] [INFO] csvReader - CSV line 38
+[2022-04-25T11:27:28.470] [INFO] csvReader - CSV line 39
+[2022-04-25T11:27:28.471] [INFO] csvReader - CSV line 40
+[2022-04-25T11:27:28.471] [INFO] csvReader - CSV line 41
+[2022-04-25T11:27:28.472] [INFO] csvReader - CSV line 42
+[2022-04-25T11:27:28.472] [INFO] csvReader - CSV line 43
+[2022-04-25T11:27:28.472] [INFO] csvReader - CSV line 44
+[2022-04-25T11:27:28.473] [INFO] csvReader - CSV line 45
+[2022-04-25T11:27:28.473] [INFO] csvReader - CSV line 46
+[2022-04-25T11:27:28.473] [INFO] csvReader - CSV line 47
+[2022-04-25T11:27:28.474] [INFO] csvReader - CSV line 48
+[2022-04-25T11:27:28.474] [INFO] csvReader - CSV line 49
+[2022-04-25T11:27:28.475] [INFO] csvReader - CSV line 50
+[2022-04-25T11:27:28.475] [INFO] csvReader - CSV line 51
+[2022-04-25T11:27:28.475] [INFO] csvReader - CSV line 52
+[2022-04-25T11:27:28.476] [INFO] csvReader - CSV line 53
+[2022-04-25T11:27:28.476] [INFO] csvReader - CSV line 54
+[2022-04-25T11:27:28.476] [INFO] csvReader - CSV line 55
+[2022-04-25T11:27:28.477] [INFO] csvReader - CSV line 56
+[2022-04-25T11:27:28.477] [INFO] csvReader - CSV line 57
+[2022-04-25T11:27:28.478] [INFO] csvReader - CSV line 58
+[2022-04-25T11:27:28.478] [INFO] csvReader - CSV line 59
+[2022-04-25T11:27:28.478] [INFO] csvReader - CSV line 60
+[2022-04-25T11:27:28.479] [INFO] csvReader - CSV line 61
+[2022-04-25T11:27:28.479] [INFO] csvReader - CSV line 62
+[2022-04-25T11:27:28.480] [INFO] csvReader - CSV line 63
+[2022-04-25T11:27:28.480] [INFO] csvReader - CSV line 64
+[2022-04-25T11:27:28.480] [INFO] csvReader - CSV line 65
+[2022-04-25T11:27:28.481] [INFO] csvReader - CSV line 66
+[2022-04-25T11:27:28.481] [INFO] csvReader - CSV line 67
+[2022-04-25T11:27:28.481] [INFO] csvReader - CSV line 68
+[2022-04-25T11:27:28.482] [INFO] csvReader - CSV line 69
+[2022-04-25T11:27:28.482] [INFO] csvReader - CSV line 70
+[2022-04-25T11:27:28.482] [INFO] csvReader - CSV line 71
+[2022-04-25T11:27:28.483] [INFO] csvReader - CSV line 72
+[2022-04-25T11:27:28.483] [INFO] csvReader - CSV line 73
+[2022-04-25T11:27:28.484] [INFO] csvReader - CSV line 74
+[2022-04-25T11:27:28.484] [INFO] csvReader - CSV line 75
+[2022-04-25T11:27:28.484] [INFO] csvReader - CSV line 76
+[2022-04-25T11:27:28.485] [INFO] csvReader - CSV line 77
+[2022-04-25T11:27:28.485] [INFO] csvReader - CSV line 78
+[2022-04-25T11:27:28.485] [INFO] csvReader - CSV line 79
+[2022-04-25T11:27:28.486] [INFO] csvReader - CSV line 80
+[2022-04-25T11:27:28.486] [INFO] csvReader - CSV line 81
+[2022-04-25T11:27:28.486] [INFO] csvReader - CSV line 82
+[2022-04-25T11:27:28.487] [INFO] csvReader - CSV line 83
+[2022-04-25T11:27:28.487] [INFO] csvReader - CSV line 84
+[2022-04-25T11:27:28.488] [INFO] csvReader - CSV line 85
+[2022-04-25T11:27:28.488] [INFO] csvReader - CSV line 86
+[2022-04-25T11:27:28.489] [INFO] csvReader - CSV line 87
+[2022-04-25T11:27:28.489] [INFO] csvReader - CSV line 88
+[2022-04-25T11:27:28.489] [INFO] csvReader - CSV line 89
+[2022-04-25T11:27:28.490] [INFO] csvReader - CSV line 90
+[2022-04-25T11:27:28.490] [INFO] csvReader - CSV line 91
+[2022-04-25T11:27:28.490] [INFO] csvReader - CSV line 92
+[2022-04-25T11:27:28.491] [INFO] csvReader - CSV line 93
+[2022-04-25T11:27:28.491] [INFO] csvReader - CSV line 94
+[2022-04-25T11:27:28.491] [INFO] csvReader - CSV line 95
+[2022-04-25T11:27:28.492] [INFO] csvReader - CSV line 96
+[2022-04-25T11:27:28.492] [INFO] csvReader - CSV line 97
+[2022-04-25T11:27:28.492] [INFO] csvReader - CSV line 98
+[2022-04-25T11:27:28.493] [INFO] csvReader - CSV line 99
+[2022-04-25T11:27:28.493] [INFO] csvReader - CSV line 100
+[2022-04-25T11:27:28.494] [INFO] csvReader - CSV line 101
+[2022-04-25T11:27:28.494] [INFO] csvReader - CSV line 102
+[2022-04-25T11:27:28.495] [INFO] csvReader - CSV line 103
+[2022-04-25T11:27:28.495] [INFO] csvReader - CSV line 104
+[2022-04-25T11:27:28.496] [INFO] csvReader - CSV line 105
+[2022-04-25T11:27:28.496] [INFO] csvReader - CSV line 106
+[2022-04-25T11:27:28.497] [INFO] csvReader - CSV line 107
+[2022-04-25T11:27:28.497] [INFO] csvReader - CSV line 108
+[2022-04-25T11:27:28.497] [INFO] csvReader - CSV line 109
+[2022-04-25T11:27:28.498] [INFO] csvReader - CSV line 110
+[2022-04-25T11:27:28.498] [INFO] csvReader - CSV line 111
+[2022-04-25T11:27:28.499] [INFO] csvReader - CSV line 112
+[2022-04-25T11:27:28.499] [INFO] csvReader - CSV line 113
+[2022-04-25T11:27:28.499] [INFO] csvReader - CSV line 114
+[2022-04-25T11:27:28.500] [INFO] csvReader - CSV line 115
+[2022-04-25T11:27:28.500] [INFO] csvReader - CSV line 116
+[2022-04-25T11:27:28.501] [INFO] csvReader - CSV line 117
+[2022-04-25T11:27:28.501] [INFO] csvReader - CSV line 118
+[2022-04-25T11:27:28.501] [INFO] csvReader - CSV line 119
+[2022-04-25T11:27:28.502] [INFO] csvReader - CSV line 120
+[2022-04-25T11:27:28.502] [INFO] csvReader - CSV line 121
+[2022-04-25T11:27:28.503] [INFO] csvReader - CSV line 122
+[2022-04-25T11:27:28.503] [INFO] csvReader - CSV line 123
+[2022-04-25T11:27:28.503] [INFO] csvReader - CSV line 124
+[2022-04-25T11:27:28.504] [INFO] csvReader - CSV line 125
+[2022-04-25T11:27:28.504] [INFO] csvReader - CSV line 126
+[2022-04-25T11:27:28.506] [INFO] csvReader - CSV line 127
+[2022-04-25T11:27:28.506] [INFO] csvReader - CSV line 128
+[2022-04-25T11:27:28.506] [INFO] csvReader - CSV line 129
+[2022-04-25T11:27:28.507] [INFO] csvReader - CSV line 130
+[2022-04-25T11:27:28.507] [INFO] csvReader - CSV line 131
+[2022-04-25T11:27:28.508] [INFO] csvReader - CSV line 132
+[2022-04-25T11:27:28.508] [INFO] csvReader - CSV line 133
+[2022-04-25T11:27:28.508] [INFO] csvReader - CSV line 134
+[2022-04-25T11:27:28.509] [INFO] csvReader - CSV line 135
+[2022-04-25T11:27:28.509] [INFO] csvReader - CSV line 136
+[2022-04-25T11:27:28.510] [INFO] csvReader - CSV line 137
+[2022-04-25T11:27:28.510] [INFO] csvReader - CSV line 138
+[2022-04-25T11:27:28.511] [INFO] csvReader - CSV line 139
+[2022-04-25T11:27:28.511] [INFO] csvReader - CSV line 140
+[2022-04-25T11:27:28.511] [INFO] csvReader - CSV line 141
+[2022-04-25T11:27:28.512] [INFO] csvReader - CSV line 142
+[2022-04-25T11:27:28.512] [INFO] csvReader - CSV line 143
+[2022-04-25T11:27:28.513] [INFO] csvReader - CSV line 144
+[2022-04-25T11:27:28.513] [INFO] csvReader - CSV line 145
+[2022-04-25T11:27:28.514] [INFO] csvReader - CSV line 146
+[2022-04-25T11:27:28.514] [INFO] csvReader - CSV line 147
+[2022-04-25T11:27:28.515] [INFO] csvReader - CSV line 148
+[2022-04-25T11:27:28.515] [INFO] csvReader - CSV line 149
+[2022-04-25T11:27:28.517] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:27:28.517] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:27:28.518] [INFO] csvReader - Jon A: -88.62
+[2022-04-25T11:27:28.519] [INFO] csvReader - Sarah T: -28.81
+[2022-04-25T11:27:28.520] [INFO] csvReader - Stephen S: 37.21
+[2022-04-25T11:27:28.520] [INFO] csvReader - Tim L: 19.82
+[2022-04-25T11:27:28.520] [INFO] csvReader - Laura B: -22.30
+[2022-04-25T11:27:28.521] [INFO] csvReader - Rob S: 26.75
+[2022-04-25T11:27:28.521] [INFO] csvReader - Ben B: 33.65
+[2022-04-25T11:27:28.522] [INFO] csvReader - Sam N: 28.50
+[2022-04-25T11:27:28.522] [INFO] csvReader - Gergana I: 46.37
+[2022-04-25T11:27:28.523] [INFO] csvReader - Todd: -12.03
+[2022-04-25T11:27:28.523] [INFO] csvReader - Chris W: -44.95
+[2022-04-25T11:27:28.523] [INFO] csvReader - Dan W: 4.41
+[2022-04-25T11:27:28.524] [INFO] csvReader - Finished printing balances for 12 accounts.
+[2022-04-25T11:27:30.546] [INFO] csvReader - User selected List Account
+[2022-04-25T11:27:30.551] [INFO] csvReader - Program started
+[2022-04-25T11:27:30.553] [INFO] csvReader - Reading file...
+[2022-04-25T11:27:30.567] [INFO] csvReader - CSV line 2
+[2022-04-25T11:27:30.571] [INFO] csvReader - CSV line 3
+[2022-04-25T11:27:30.573] [INFO] csvReader - CSV line 4
+[2022-04-25T11:27:30.574] [INFO] csvReader - CSV line 5
+[2022-04-25T11:27:30.575] [INFO] csvReader - CSV line 6
+[2022-04-25T11:27:30.575] [INFO] csvReader - CSV line 7
+[2022-04-25T11:27:30.576] [INFO] csvReader - CSV line 8
+[2022-04-25T11:27:30.577] [INFO] csvReader - CSV line 9
+[2022-04-25T11:27:30.578] [INFO] csvReader - CSV line 10
+[2022-04-25T11:27:30.579] [INFO] csvReader - CSV line 11
+[2022-04-25T11:27:30.580] [INFO] csvReader - CSV line 12
+[2022-04-25T11:27:30.580] [INFO] csvReader - CSV line 13
+[2022-04-25T11:27:30.581] [INFO] csvReader - CSV line 14
+[2022-04-25T11:27:30.582] [INFO] csvReader - CSV line 15
+[2022-04-25T11:27:30.582] [INFO] csvReader - CSV line 16
+[2022-04-25T11:27:30.583] [INFO] csvReader - CSV line 17
+[2022-04-25T11:27:30.584] [INFO] csvReader - CSV line 18
+[2022-04-25T11:27:30.584] [INFO] csvReader - CSV line 19
+[2022-04-25T11:27:30.585] [INFO] csvReader - CSV line 20
+[2022-04-25T11:27:30.586] [INFO] csvReader - CSV line 21
+[2022-04-25T11:27:30.586] [INFO] csvReader - CSV line 22
+[2022-04-25T11:27:30.587] [INFO] csvReader - CSV line 23
+[2022-04-25T11:27:30.587] [INFO] csvReader - CSV line 24
+[2022-04-25T11:27:30.588] [INFO] csvReader - CSV line 25
+[2022-04-25T11:27:30.589] [INFO] csvReader - CSV line 26
+[2022-04-25T11:27:30.589] [INFO] csvReader - CSV line 27
+[2022-04-25T11:27:30.590] [INFO] csvReader - CSV line 28
+[2022-04-25T11:27:30.590] [INFO] csvReader - CSV line 29
+[2022-04-25T11:27:30.591] [INFO] csvReader - CSV line 30
+[2022-04-25T11:27:30.591] [INFO] csvReader - CSV line 31
+[2022-04-25T11:27:30.592] [INFO] csvReader - CSV line 32
+[2022-04-25T11:27:30.592] [INFO] csvReader - CSV line 33
+[2022-04-25T11:27:30.593] [INFO] csvReader - CSV line 34
+[2022-04-25T11:27:30.593] [INFO] csvReader - CSV line 35
+[2022-04-25T11:27:30.594] [INFO] csvReader - CSV line 36
+[2022-04-25T11:27:30.594] [INFO] csvReader - CSV line 37
+[2022-04-25T11:27:30.595] [INFO] csvReader - CSV line 38
+[2022-04-25T11:27:30.595] [INFO] csvReader - CSV line 39
+[2022-04-25T11:27:30.595] [INFO] csvReader - CSV line 40
+[2022-04-25T11:27:30.596] [INFO] csvReader - CSV line 41
+[2022-04-25T11:27:30.596] [INFO] csvReader - CSV line 42
+[2022-04-25T11:27:30.596] [INFO] csvReader - CSV line 43
+[2022-04-25T11:27:30.597] [INFO] csvReader - CSV line 44
+[2022-04-25T11:27:30.597] [INFO] csvReader - CSV line 45
+[2022-04-25T11:27:30.597] [INFO] csvReader - CSV line 46
+[2022-04-25T11:27:30.598] [INFO] csvReader - CSV line 47
+[2022-04-25T11:27:30.598] [INFO] csvReader - CSV line 48
+[2022-04-25T11:27:30.598] [INFO] csvReader - CSV line 49
+[2022-04-25T11:27:30.599] [INFO] csvReader - CSV line 50
+[2022-04-25T11:27:30.599] [INFO] csvReader - CSV line 51
+[2022-04-25T11:27:30.600] [INFO] csvReader - CSV line 52
+[2022-04-25T11:27:30.600] [INFO] csvReader - CSV line 53
+[2022-04-25T11:27:30.600] [INFO] csvReader - CSV line 54
+[2022-04-25T11:27:30.601] [INFO] csvReader - CSV line 55
+[2022-04-25T11:27:30.602] [INFO] csvReader - CSV line 56
+[2022-04-25T11:27:30.602] [INFO] csvReader - CSV line 57
+[2022-04-25T11:27:30.602] [INFO] csvReader - CSV line 58
+[2022-04-25T11:27:30.603] [INFO] csvReader - CSV line 59
+[2022-04-25T11:27:30.603] [INFO] csvReader - CSV line 60
+[2022-04-25T11:27:30.604] [INFO] csvReader - CSV line 61
+[2022-04-25T11:27:30.604] [INFO] csvReader - CSV line 62
+[2022-04-25T11:27:30.604] [INFO] csvReader - CSV line 63
+[2022-04-25T11:27:30.605] [INFO] csvReader - CSV line 64
+[2022-04-25T11:27:30.605] [INFO] csvReader - CSV line 65
+[2022-04-25T11:27:30.606] [INFO] csvReader - CSV line 66
+[2022-04-25T11:27:30.606] [INFO] csvReader - CSV line 67
+[2022-04-25T11:27:30.606] [INFO] csvReader - CSV line 68
+[2022-04-25T11:27:30.607] [INFO] csvReader - CSV line 69
+[2022-04-25T11:27:30.607] [INFO] csvReader - CSV line 70
+[2022-04-25T11:27:30.607] [INFO] csvReader - CSV line 71
+[2022-04-25T11:27:30.608] [INFO] csvReader - CSV line 72
+[2022-04-25T11:27:30.608] [INFO] csvReader - CSV line 73
+[2022-04-25T11:27:30.608] [INFO] csvReader - CSV line 74
+[2022-04-25T11:27:30.609] [INFO] csvReader - CSV line 75
+[2022-04-25T11:27:30.609] [INFO] csvReader - CSV line 76
+[2022-04-25T11:27:30.609] [INFO] csvReader - CSV line 77
+[2022-04-25T11:27:30.610] [INFO] csvReader - CSV line 78
+[2022-04-25T11:27:30.610] [INFO] csvReader - CSV line 79
+[2022-04-25T11:27:30.610] [INFO] csvReader - CSV line 80
+[2022-04-25T11:27:30.610] [INFO] csvReader - CSV line 81
+[2022-04-25T11:27:30.611] [INFO] csvReader - CSV line 82
+[2022-04-25T11:27:30.611] [INFO] csvReader - CSV line 83
+[2022-04-25T11:27:30.611] [INFO] csvReader - CSV line 84
+[2022-04-25T11:27:30.612] [INFO] csvReader - CSV line 85
+[2022-04-25T11:27:30.612] [INFO] csvReader - CSV line 86
+[2022-04-25T11:27:30.612] [INFO] csvReader - CSV line 87
+[2022-04-25T11:27:30.613] [INFO] csvReader - CSV line 88
+[2022-04-25T11:27:30.613] [INFO] csvReader - CSV line 89
+[2022-04-25T11:27:30.614] [INFO] csvReader - CSV line 90
+[2022-04-25T11:27:30.614] [INFO] csvReader - CSV line 91
+[2022-04-25T11:27:30.614] [INFO] csvReader - CSV line 92
+[2022-04-25T11:27:30.615] [INFO] csvReader - CSV line 93
+[2022-04-25T11:27:30.615] [INFO] csvReader - CSV line 94
+[2022-04-25T11:27:30.615] [INFO] csvReader - CSV line 95
+[2022-04-25T11:27:30.616] [INFO] csvReader - CSV line 96
+[2022-04-25T11:27:30.616] [INFO] csvReader - CSV line 97
+[2022-04-25T11:27:30.617] [INFO] csvReader - CSV line 98
+[2022-04-25T11:27:30.617] [INFO] csvReader - CSV line 99
+[2022-04-25T11:27:30.617] [INFO] csvReader - CSV line 100
+[2022-04-25T11:27:30.618] [INFO] csvReader - CSV line 101
+[2022-04-25T11:27:30.618] [INFO] csvReader - CSV line 102
+[2022-04-25T11:27:30.618] [INFO] csvReader - CSV line 103
+[2022-04-25T11:27:30.619] [INFO] csvReader - CSV line 104
+[2022-04-25T11:27:30.619] [INFO] csvReader - CSV line 105
+[2022-04-25T11:27:30.619] [INFO] csvReader - CSV line 106
+[2022-04-25T11:27:30.620] [INFO] csvReader - CSV line 107
+[2022-04-25T11:27:30.620] [INFO] csvReader - CSV line 108
+[2022-04-25T11:27:30.620] [INFO] csvReader - CSV line 109
+[2022-04-25T11:27:30.620] [INFO] csvReader - CSV line 110
+[2022-04-25T11:27:30.621] [INFO] csvReader - CSV line 111
+[2022-04-25T11:27:30.621] [INFO] csvReader - CSV line 112
+[2022-04-25T11:27:30.621] [INFO] csvReader - CSV line 113
+[2022-04-25T11:27:30.622] [INFO] csvReader - CSV line 114
+[2022-04-25T11:27:30.622] [INFO] csvReader - CSV line 115
+[2022-04-25T11:27:30.623] [INFO] csvReader - CSV line 116
+[2022-04-25T11:27:30.624] [INFO] csvReader - CSV line 117
+[2022-04-25T11:27:30.624] [INFO] csvReader - CSV line 118
+[2022-04-25T11:27:30.624] [INFO] csvReader - CSV line 119
+[2022-04-25T11:27:30.625] [INFO] csvReader - CSV line 120
+[2022-04-25T11:27:30.625] [INFO] csvReader - CSV line 121
+[2022-04-25T11:27:30.625] [INFO] csvReader - CSV line 122
+[2022-04-25T11:27:30.626] [INFO] csvReader - CSV line 123
+[2022-04-25T11:27:30.626] [INFO] csvReader - CSV line 124
+[2022-04-25T11:27:30.626] [INFO] csvReader - CSV line 125
+[2022-04-25T11:27:30.627] [INFO] csvReader - CSV line 126
+[2022-04-25T11:27:30.628] [INFO] csvReader - CSV line 127
+[2022-04-25T11:27:30.629] [INFO] csvReader - CSV line 128
+[2022-04-25T11:27:30.629] [INFO] csvReader - CSV line 129
+[2022-04-25T11:27:30.629] [INFO] csvReader - CSV line 130
+[2022-04-25T11:27:30.630] [INFO] csvReader - CSV line 131
+[2022-04-25T11:27:30.630] [INFO] csvReader - CSV line 132
+[2022-04-25T11:27:30.631] [INFO] csvReader - CSV line 133
+[2022-04-25T11:27:30.631] [INFO] csvReader - CSV line 134
+[2022-04-25T11:27:30.631] [INFO] csvReader - CSV line 135
+[2022-04-25T11:27:30.632] [INFO] csvReader - CSV line 136
+[2022-04-25T11:27:30.632] [INFO] csvReader - CSV line 137
+[2022-04-25T11:27:30.633] [INFO] csvReader - CSV line 138
+[2022-04-25T11:27:30.633] [INFO] csvReader - CSV line 139
+[2022-04-25T11:27:30.633] [INFO] csvReader - CSV line 140
+[2022-04-25T11:27:30.634] [INFO] csvReader - CSV line 141
+[2022-04-25T11:27:30.634] [INFO] csvReader - CSV line 142
+[2022-04-25T11:27:30.635] [INFO] csvReader - CSV line 143
+[2022-04-25T11:27:30.635] [INFO] csvReader - CSV line 144
+[2022-04-25T11:27:30.635] [INFO] csvReader - CSV line 145
+[2022-04-25T11:27:30.636] [INFO] csvReader - CSV line 146
+[2022-04-25T11:27:30.636] [INFO] csvReader - CSV line 147
+[2022-04-25T11:27:30.637] [INFO] csvReader - CSV line 148
+[2022-04-25T11:27:30.637] [INFO] csvReader - CSV line 149
+[2022-04-25T11:27:30.639] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:27:30.639] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:27:32.768] [INFO] csvReader - User entered: Todd
+[2022-04-25T11:27:32.768] [INFO] csvReader - Fetching Todd's transactions...
+[2022-04-25T11:27:32.769] [INFO] printAllTransactions - Tue Jan 28 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.81 for Coffee
+[2022-04-25T11:27:32.770] [INFO] printAllTransactions - Sat Feb 01 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.87 for Snooker Night
+[2022-04-25T11:27:32.770] [INFO] printAllTransactions - Wed Feb 05 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $5.62 for Sandbox Help
+[2022-04-25T11:27:32.771] [INFO] printAllTransactions - Tue Feb 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $7.10 for Automated Testing Services
+[2022-04-25T11:27:32.771] [INFO] printAllTransactions - Fri Mar 07 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Laura B $9.39 for Pokemon Training
+[2022-04-25T11:27:32.772] [INFO] printAllTransactions - Mon Mar 10 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Gergana I $1.62 for Sandbox Help
+[2022-04-25T11:27:32.772] [INFO] printAllTransactions - Sat Mar 29 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $5.01 for Git-Fu Rendered
+[2022-04-25T11:27:32.773] [INFO] printAllTransactions - Fri Apr 04 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Ben B $10.85 for Rails Consultancy
+[2022-04-25T11:27:32.773] [INFO] printAllTransactions - Thu Apr 10 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sarah T $3.55 for Snooker Night
+[2022-04-25T11:27:32.773] [INFO] printAllTransactions - Fri Apr 11 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Laura B $3.72 for Coffee
+[2022-04-25T11:27:32.774] [INFO] printAllTransactions - Sat Apr 26 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Tim L $1.46 for Lunch
+[2022-04-25T11:27:32.774] [INFO] printAllTransactions - Sat May 10 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $10.63 for Lego Assistance
+[2022-04-25T11:27:32.774] [INFO] printAllTransactions - Mon May 19 2014 00:00:00 GMT+0100 (British Summer Time) Jon A paid Todd $9.04 for Beers
+[2022-04-25T11:27:32.775] [INFO] printAllTransactions - Thu May 22 2014 00:00:00 GMT+0100 (British Summer Time) Tim L paid Todd $3.81 for Coffee
+[2022-04-25T11:27:32.775] [INFO] printAllTransactions - Fri May 30 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $7.01 for Lunch
+[2022-04-25T11:27:32.776] [INFO] printAllTransactions - Sat Jun 14 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sam N $6.30 for Lego Assistance
+[2022-04-25T11:27:32.776] [INFO] printAllTransactions - Thu Jun 26 2014 00:00:00 GMT+0100 (British Summer Time) Chris W paid Todd $9.81 for Beers
+[2022-04-25T11:27:32.776] [INFO] printAllTransactions - Wed Aug 13 2014 00:00:00 GMT+0100 (British Summer Time) Sarah T paid Todd $8.25 for Beers
+[2022-04-25T11:27:32.777] [INFO] printAllTransactions - Sat Sep 06 2014 00:00:00 GMT+0100 (British Summer Time) Dan W paid Todd $1.80 for Lunch
+[2022-04-25T11:27:32.777] [INFO] printAllTransactions - Tue Sep 09 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Dan W $3.93 for Audit and Other Financial Services
+[2022-04-25T11:27:32.778] [INFO] printAllTransactions - Sat Oct 04 2014 00:00:00 GMT+0100 (British Summer Time) Ben B paid Todd $11.28 for Lunch
+[2022-04-25T11:27:32.778] [INFO] printAllTransactions - Sat Oct 25 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $8.42 for Beers
+[2022-04-25T11:27:32.778] [INFO] printAllTransactions - Fri Nov 21 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Chris W paid Todd $1.42 for Lego Assistance
+[2022-04-25T11:27:32.779] [INFO] printAllTransactions - Sun Nov 23 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $2.24 for Beers
+[2022-04-25T11:27:32.779] [INFO] printAllTransactions - Tue Dec 16 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Tim L $7.17 for Poker Winnings
+[2022-04-25T11:27:32.779] [INFO] printAllTransactions - Thu Dec 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $1.86 for Lego Assistance
+[2022-04-25T11:27:32.780] [INFO] printAllTransactions - Finished printing Todd's transactions.
+[2022-04-25T11:41:51.298] [INFO] csvReader - User selected List All
+[2022-04-25T11:41:51.304] [INFO] csvReader - Program started
+[2022-04-25T11:41:51.306] [INFO] csvReader - Reading file...
+[2022-04-25T11:41:51.322] [INFO] csvReader - CSV line 2
+[2022-04-25T11:41:51.324] [INFO] csvReader - CSV line 3
+[2022-04-25T11:41:51.325] [INFO] csvReader - CSV line 4
+[2022-04-25T11:41:51.325] [INFO] csvReader - CSV line 5
+[2022-04-25T11:41:51.325] [INFO] csvReader - CSV line 6
+[2022-04-25T11:41:51.326] [INFO] csvReader - CSV line 7
+[2022-04-25T11:41:51.326] [INFO] csvReader - CSV line 8
+[2022-04-25T11:41:51.327] [INFO] csvReader - CSV line 9
+[2022-04-25T11:41:51.327] [INFO] csvReader - CSV line 10
+[2022-04-25T11:41:51.328] [INFO] csvReader - CSV line 11
+[2022-04-25T11:41:51.328] [INFO] csvReader - CSV line 12
+[2022-04-25T11:41:51.328] [INFO] csvReader - CSV line 13
+[2022-04-25T11:41:51.329] [INFO] csvReader - CSV line 14
+[2022-04-25T11:41:51.329] [INFO] csvReader - CSV line 15
+[2022-04-25T11:41:51.330] [INFO] csvReader - CSV line 16
+[2022-04-25T11:41:51.330] [INFO] csvReader - CSV line 17
+[2022-04-25T11:41:51.331] [INFO] csvReader - CSV line 18
+[2022-04-25T11:41:51.331] [INFO] csvReader - CSV line 19
+[2022-04-25T11:41:51.332] [INFO] csvReader - CSV line 20
+[2022-04-25T11:41:51.332] [INFO] csvReader - CSV line 21
+[2022-04-25T11:41:51.333] [INFO] csvReader - CSV line 22
+[2022-04-25T11:41:51.333] [INFO] csvReader - CSV line 23
+[2022-04-25T11:41:51.333] [INFO] csvReader - CSV line 24
+[2022-04-25T11:41:51.334] [INFO] csvReader - CSV line 25
+[2022-04-25T11:41:51.334] [INFO] csvReader - CSV line 26
+[2022-04-25T11:41:51.335] [INFO] csvReader - CSV line 27
+[2022-04-25T11:41:51.335] [INFO] csvReader - CSV line 28
+[2022-04-25T11:41:51.335] [INFO] csvReader - CSV line 29
+[2022-04-25T11:41:51.336] [INFO] csvReader - CSV line 30
+[2022-04-25T11:41:51.336] [INFO] csvReader - CSV line 31
+[2022-04-25T11:41:51.337] [INFO] csvReader - CSV line 32
+[2022-04-25T11:41:51.337] [INFO] csvReader - CSV line 33
+[2022-04-25T11:41:51.338] [INFO] csvReader - CSV line 34
+[2022-04-25T11:41:51.338] [INFO] csvReader - CSV line 35
+[2022-04-25T11:41:51.338] [INFO] csvReader - CSV line 36
+[2022-04-25T11:41:51.339] [INFO] csvReader - CSV line 37
+[2022-04-25T11:41:51.339] [INFO] csvReader - CSV line 38
+[2022-04-25T11:41:51.339] [INFO] csvReader - CSV line 39
+[2022-04-25T11:41:51.340] [INFO] csvReader - CSV line 40
+[2022-04-25T11:41:51.340] [INFO] csvReader - CSV line 41
+[2022-04-25T11:41:51.341] [INFO] csvReader - CSV line 42
+[2022-04-25T11:41:51.341] [INFO] csvReader - CSV line 43
+[2022-04-25T11:41:51.341] [INFO] csvReader - CSV line 44
+[2022-04-25T11:41:51.342] [INFO] csvReader - CSV line 45
+[2022-04-25T11:41:51.342] [INFO] csvReader - CSV line 46
+[2022-04-25T11:41:51.342] [INFO] csvReader - CSV line 47
+[2022-04-25T11:41:51.343] [INFO] csvReader - CSV line 48
+[2022-04-25T11:41:51.343] [INFO] csvReader - CSV line 49
+[2022-04-25T11:41:51.344] [INFO] csvReader - CSV line 50
+[2022-04-25T11:41:51.344] [INFO] csvReader - CSV line 51
+[2022-04-25T11:41:51.344] [INFO] csvReader - CSV line 52
+[2022-04-25T11:41:51.345] [INFO] csvReader - CSV line 53
+[2022-04-25T11:41:51.345] [INFO] csvReader - CSV line 54
+[2022-04-25T11:41:51.345] [INFO] csvReader - CSV line 55
+[2022-04-25T11:41:51.346] [INFO] csvReader - CSV line 56
+[2022-04-25T11:41:51.346] [INFO] csvReader - CSV line 57
+[2022-04-25T11:41:51.347] [INFO] csvReader - CSV line 58
+[2022-04-25T11:41:51.347] [INFO] csvReader - CSV line 59
+[2022-04-25T11:41:51.347] [INFO] csvReader - CSV line 60
+[2022-04-25T11:41:51.348] [INFO] csvReader - CSV line 61
+[2022-04-25T11:41:51.348] [INFO] csvReader - CSV line 62
+[2022-04-25T11:41:51.348] [INFO] csvReader - CSV line 63
+[2022-04-25T11:41:51.349] [INFO] csvReader - CSV line 64
+[2022-04-25T11:41:51.349] [INFO] csvReader - CSV line 65
+[2022-04-25T11:41:51.349] [INFO] csvReader - CSV line 66
+[2022-04-25T11:41:51.350] [INFO] csvReader - CSV line 67
+[2022-04-25T11:41:51.350] [INFO] csvReader - CSV line 68
+[2022-04-25T11:41:51.351] [INFO] csvReader - CSV line 69
+[2022-04-25T11:41:51.351] [INFO] csvReader - CSV line 70
+[2022-04-25T11:41:51.351] [INFO] csvReader - CSV line 71
+[2022-04-25T11:41:51.352] [INFO] csvReader - CSV line 72
+[2022-04-25T11:41:51.352] [INFO] csvReader - CSV line 73
+[2022-04-25T11:41:51.352] [INFO] csvReader - CSV line 74
+[2022-04-25T11:41:51.353] [INFO] csvReader - CSV line 75
+[2022-04-25T11:41:51.353] [INFO] csvReader - CSV line 76
+[2022-04-25T11:41:51.354] [INFO] csvReader - CSV line 77
+[2022-04-25T11:41:51.355] [INFO] csvReader - CSV line 78
+[2022-04-25T11:41:51.355] [INFO] csvReader - CSV line 79
+[2022-04-25T11:41:51.355] [INFO] csvReader - CSV line 80
+[2022-04-25T11:41:51.356] [INFO] csvReader - CSV line 81
+[2022-04-25T11:41:51.356] [INFO] csvReader - CSV line 82
+[2022-04-25T11:41:51.357] [INFO] csvReader - CSV line 83
+[2022-04-25T11:41:51.357] [INFO] csvReader - CSV line 84
+[2022-04-25T11:41:51.358] [INFO] csvReader - CSV line 85
+[2022-04-25T11:41:51.358] [INFO] csvReader - CSV line 86
+[2022-04-25T11:41:51.359] [INFO] csvReader - CSV line 87
+[2022-04-25T11:41:51.359] [INFO] csvReader - CSV line 88
+[2022-04-25T11:41:51.360] [INFO] csvReader - CSV line 89
+[2022-04-25T11:41:51.360] [INFO] csvReader - CSV line 90
+[2022-04-25T11:41:51.361] [INFO] csvReader - CSV line 91
+[2022-04-25T11:41:51.361] [INFO] csvReader - CSV line 92
+[2022-04-25T11:41:51.361] [INFO] csvReader - CSV line 93
+[2022-04-25T11:41:51.362] [INFO] csvReader - CSV line 94
+[2022-04-25T11:41:51.362] [INFO] csvReader - CSV line 95
+[2022-04-25T11:41:51.362] [INFO] csvReader - CSV line 96
+[2022-04-25T11:41:51.363] [INFO] csvReader - CSV line 97
+[2022-04-25T11:41:51.363] [INFO] csvReader - CSV line 98
+[2022-04-25T11:41:51.363] [INFO] csvReader - CSV line 99
+[2022-04-25T11:41:51.364] [INFO] csvReader - CSV line 100
+[2022-04-25T11:41:51.364] [INFO] csvReader - CSV line 101
+[2022-04-25T11:41:51.364] [INFO] csvReader - CSV line 102
+[2022-04-25T11:41:51.364] [INFO] csvReader - CSV line 103
+[2022-04-25T11:41:51.365] [INFO] csvReader - CSV line 104
+[2022-04-25T11:41:51.366] [INFO] csvReader - CSV line 105
+[2022-04-25T11:41:51.366] [INFO] csvReader - CSV line 106
+[2022-04-25T11:41:51.366] [INFO] csvReader - CSV line 107
+[2022-04-25T11:41:51.367] [INFO] csvReader - CSV line 108
+[2022-04-25T11:41:51.367] [INFO] csvReader - CSV line 109
+[2022-04-25T11:41:51.367] [INFO] csvReader - CSV line 110
+[2022-04-25T11:41:51.368] [INFO] csvReader - CSV line 111
+[2022-04-25T11:41:51.368] [INFO] csvReader - CSV line 112
+[2022-04-25T11:41:51.368] [INFO] csvReader - CSV line 113
+[2022-04-25T11:41:51.369] [INFO] csvReader - CSV line 114
+[2022-04-25T11:41:51.369] [INFO] csvReader - CSV line 115
+[2022-04-25T11:41:51.370] [INFO] csvReader - CSV line 116
+[2022-04-25T11:41:51.370] [INFO] csvReader - CSV line 117
+[2022-04-25T11:41:51.371] [INFO] csvReader - CSV line 118
+[2022-04-25T11:41:51.371] [INFO] csvReader - CSV line 119
+[2022-04-25T11:41:51.371] [INFO] csvReader - CSV line 120
+[2022-04-25T11:41:51.372] [INFO] csvReader - CSV line 121
+[2022-04-25T11:41:51.372] [INFO] csvReader - CSV line 122
+[2022-04-25T11:41:51.373] [INFO] csvReader - CSV line 123
+[2022-04-25T11:41:51.373] [INFO] csvReader - CSV line 124
+[2022-04-25T11:41:51.373] [INFO] csvReader - CSV line 125
+[2022-04-25T11:41:51.374] [INFO] csvReader - CSV line 126
+[2022-04-25T11:41:51.375] [INFO] csvReader - CSV line 127
+[2022-04-25T11:41:51.376] [INFO] csvReader - CSV line 128
+[2022-04-25T11:41:51.376] [INFO] csvReader - CSV line 129
+[2022-04-25T11:41:51.377] [INFO] csvReader - CSV line 130
+[2022-04-25T11:41:51.377] [INFO] csvReader - CSV line 131
+[2022-04-25T11:41:51.378] [INFO] csvReader - CSV line 132
+[2022-04-25T11:41:51.378] [INFO] csvReader - CSV line 133
+[2022-04-25T11:41:51.378] [INFO] csvReader - CSV line 134
+[2022-04-25T11:41:51.379] [INFO] csvReader - CSV line 135
+[2022-04-25T11:41:51.379] [INFO] csvReader - CSV line 136
+[2022-04-25T11:41:51.380] [INFO] csvReader - CSV line 137
+[2022-04-25T11:41:51.380] [INFO] csvReader - CSV line 138
+[2022-04-25T11:41:51.380] [INFO] csvReader - CSV line 139
+[2022-04-25T11:41:51.381] [INFO] csvReader - CSV line 140
+[2022-04-25T11:41:51.381] [INFO] csvReader - CSV line 141
+[2022-04-25T11:41:51.382] [INFO] csvReader - CSV line 142
+[2022-04-25T11:41:51.382] [INFO] csvReader - CSV line 143
+[2022-04-25T11:41:51.382] [INFO] csvReader - CSV line 144
+[2022-04-25T11:41:51.383] [INFO] csvReader - CSV line 145
+[2022-04-25T11:41:51.383] [INFO] csvReader - CSV line 146
+[2022-04-25T11:41:51.384] [INFO] csvReader - CSV line 147
+[2022-04-25T11:41:51.384] [INFO] csvReader - CSV line 148
+[2022-04-25T11:41:51.384] [INFO] csvReader - CSV line 149
+[2022-04-25T11:41:51.386] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:41:51.387] [INFO] csvReader - Fetching account balances...
+[2022-04-25T11:41:51.387] [INFO] getAccountBalances - Jon A: -88.62
+[2022-04-25T11:41:51.389] [INFO] getAccountBalances - Sarah T: -28.81
+[2022-04-25T11:41:51.389] [INFO] getAccountBalances - Stephen S: 37.21
+[2022-04-25T11:41:51.390] [INFO] getAccountBalances - Tim L: 19.82
+[2022-04-25T11:41:51.390] [INFO] getAccountBalances - Laura B: -22.30
+[2022-04-25T11:41:51.391] [INFO] getAccountBalances - Rob S: 26.75
+[2022-04-25T11:41:51.391] [INFO] getAccountBalances - Ben B: 33.65
+[2022-04-25T11:41:51.392] [INFO] getAccountBalances - Sam N: 28.50
+[2022-04-25T11:41:51.392] [INFO] getAccountBalances - Gergana I: 46.37
+[2022-04-25T11:41:51.392] [INFO] getAccountBalances - Todd: -12.03
+[2022-04-25T11:41:51.393] [INFO] getAccountBalances - Chris W: -44.95
+[2022-04-25T11:41:51.393] [INFO] getAccountBalances - Dan W: 4.41
+[2022-04-25T11:41:51.394] [INFO] getAccountBalances - Finished printing balances for 12 accounts.
+[2022-04-25T11:41:54.075] [INFO] csvReader - User selected List Account
+[2022-04-25T11:41:54.080] [INFO] csvReader - Program started
+[2022-04-25T11:41:54.080] [INFO] csvReader - Reading file...
+[2022-04-25T11:41:54.084] [INFO] csvReader - CSV line 2
+[2022-04-25T11:41:54.085] [INFO] csvReader - CSV line 3
+[2022-04-25T11:41:54.086] [INFO] csvReader - CSV line 4
+[2022-04-25T11:41:54.086] [INFO] csvReader - CSV line 5
+[2022-04-25T11:41:54.086] [INFO] csvReader - CSV line 6
+[2022-04-25T11:41:54.087] [INFO] csvReader - CSV line 7
+[2022-04-25T11:41:54.087] [INFO] csvReader - CSV line 8
+[2022-04-25T11:41:54.088] [INFO] csvReader - CSV line 9
+[2022-04-25T11:41:54.088] [INFO] csvReader - CSV line 10
+[2022-04-25T11:41:54.089] [INFO] csvReader - CSV line 11
+[2022-04-25T11:41:54.089] [INFO] csvReader - CSV line 12
+[2022-04-25T11:41:54.090] [INFO] csvReader - CSV line 13
+[2022-04-25T11:41:54.090] [INFO] csvReader - CSV line 14
+[2022-04-25T11:41:54.091] [INFO] csvReader - CSV line 15
+[2022-04-25T11:41:54.091] [INFO] csvReader - CSV line 16
+[2022-04-25T11:41:54.092] [INFO] csvReader - CSV line 17
+[2022-04-25T11:41:54.092] [INFO] csvReader - CSV line 18
+[2022-04-25T11:41:54.092] [INFO] csvReader - CSV line 19
+[2022-04-25T11:41:54.093] [INFO] csvReader - CSV line 20
+[2022-04-25T11:41:54.093] [INFO] csvReader - CSV line 21
+[2022-04-25T11:41:54.094] [INFO] csvReader - CSV line 22
+[2022-04-25T11:41:54.094] [INFO] csvReader - CSV line 23
+[2022-04-25T11:41:54.095] [INFO] csvReader - CSV line 24
+[2022-04-25T11:41:54.095] [INFO] csvReader - CSV line 25
+[2022-04-25T11:41:54.096] [INFO] csvReader - CSV line 26
+[2022-04-25T11:41:54.096] [INFO] csvReader - CSV line 27
+[2022-04-25T11:41:54.097] [INFO] csvReader - CSV line 28
+[2022-04-25T11:41:54.097] [INFO] csvReader - CSV line 29
+[2022-04-25T11:41:54.097] [INFO] csvReader - CSV line 30
+[2022-04-25T11:41:54.098] [INFO] csvReader - CSV line 31
+[2022-04-25T11:41:54.098] [INFO] csvReader - CSV line 32
+[2022-04-25T11:41:54.098] [INFO] csvReader - CSV line 33
+[2022-04-25T11:41:54.099] [INFO] csvReader - CSV line 34
+[2022-04-25T11:41:54.099] [INFO] csvReader - CSV line 35
+[2022-04-25T11:41:54.099] [INFO] csvReader - CSV line 36
+[2022-04-25T11:41:54.100] [INFO] csvReader - CSV line 37
+[2022-04-25T11:41:54.100] [INFO] csvReader - CSV line 38
+[2022-04-25T11:41:54.100] [INFO] csvReader - CSV line 39
+[2022-04-25T11:41:54.101] [INFO] csvReader - CSV line 40
+[2022-04-25T11:41:54.101] [INFO] csvReader - CSV line 41
+[2022-04-25T11:41:54.101] [INFO] csvReader - CSV line 42
+[2022-04-25T11:41:54.102] [INFO] csvReader - CSV line 43
+[2022-04-25T11:41:54.102] [INFO] csvReader - CSV line 44
+[2022-04-25T11:41:54.102] [INFO] csvReader - CSV line 45
+[2022-04-25T11:41:54.103] [INFO] csvReader - CSV line 46
+[2022-04-25T11:41:54.103] [INFO] csvReader - CSV line 47
+[2022-04-25T11:41:54.103] [INFO] csvReader - CSV line 48
+[2022-04-25T11:41:54.104] [INFO] csvReader - CSV line 49
+[2022-04-25T11:41:54.104] [INFO] csvReader - CSV line 50
+[2022-04-25T11:41:54.104] [INFO] csvReader - CSV line 51
+[2022-04-25T11:41:54.105] [INFO] csvReader - CSV line 52
+[2022-04-25T11:41:54.105] [INFO] csvReader - CSV line 53
+[2022-04-25T11:41:54.106] [INFO] csvReader - CSV line 54
+[2022-04-25T11:41:54.106] [INFO] csvReader - CSV line 55
+[2022-04-25T11:41:54.106] [INFO] csvReader - CSV line 56
+[2022-04-25T11:41:54.107] [INFO] csvReader - CSV line 57
+[2022-04-25T11:41:54.107] [INFO] csvReader - CSV line 58
+[2022-04-25T11:41:54.107] [INFO] csvReader - CSV line 59
+[2022-04-25T11:41:54.108] [INFO] csvReader - CSV line 60
+[2022-04-25T11:41:54.108] [INFO] csvReader - CSV line 61
+[2022-04-25T11:41:54.108] [INFO] csvReader - CSV line 62
+[2022-04-25T11:41:54.109] [INFO] csvReader - CSV line 63
+[2022-04-25T11:41:54.109] [INFO] csvReader - CSV line 64
+[2022-04-25T11:41:54.109] [INFO] csvReader - CSV line 65
+[2022-04-25T11:41:54.110] [INFO] csvReader - CSV line 66
+[2022-04-25T11:41:54.110] [INFO] csvReader - CSV line 67
+[2022-04-25T11:41:54.110] [INFO] csvReader - CSV line 68
+[2022-04-25T11:41:54.111] [INFO] csvReader - CSV line 69
+[2022-04-25T11:41:54.111] [INFO] csvReader - CSV line 70
+[2022-04-25T11:41:54.111] [INFO] csvReader - CSV line 71
+[2022-04-25T11:41:54.112] [INFO] csvReader - CSV line 72
+[2022-04-25T11:41:54.112] [INFO] csvReader - CSV line 73
+[2022-04-25T11:41:54.112] [INFO] csvReader - CSV line 74
+[2022-04-25T11:41:54.113] [INFO] csvReader - CSV line 75
+[2022-04-25T11:41:54.113] [INFO] csvReader - CSV line 76
+[2022-04-25T11:41:54.113] [INFO] csvReader - CSV line 77
+[2022-04-25T11:41:54.114] [INFO] csvReader - CSV line 78
+[2022-04-25T11:41:54.114] [INFO] csvReader - CSV line 79
+[2022-04-25T11:41:54.114] [INFO] csvReader - CSV line 80
+[2022-04-25T11:41:54.115] [INFO] csvReader - CSV line 81
+[2022-04-25T11:41:54.115] [INFO] csvReader - CSV line 82
+[2022-04-25T11:41:54.115] [INFO] csvReader - CSV line 83
+[2022-04-25T11:41:54.116] [INFO] csvReader - CSV line 84
+[2022-04-25T11:41:54.116] [INFO] csvReader - CSV line 85
+[2022-04-25T11:41:54.116] [INFO] csvReader - CSV line 86
+[2022-04-25T11:41:54.117] [INFO] csvReader - CSV line 87
+[2022-04-25T11:41:54.117] [INFO] csvReader - CSV line 88
+[2022-04-25T11:41:54.117] [INFO] csvReader - CSV line 89
+[2022-04-25T11:41:54.118] [INFO] csvReader - CSV line 90
+[2022-04-25T11:41:54.118] [INFO] csvReader - CSV line 91
+[2022-04-25T11:41:54.118] [INFO] csvReader - CSV line 92
+[2022-04-25T11:41:54.119] [INFO] csvReader - CSV line 93
+[2022-04-25T11:41:54.119] [INFO] csvReader - CSV line 94
+[2022-04-25T11:41:54.119] [INFO] csvReader - CSV line 95
+[2022-04-25T11:41:54.120] [INFO] csvReader - CSV line 96
+[2022-04-25T11:41:54.120] [INFO] csvReader - CSV line 97
+[2022-04-25T11:41:54.120] [INFO] csvReader - CSV line 98
+[2022-04-25T11:41:54.121] [INFO] csvReader - CSV line 99
+[2022-04-25T11:41:54.121] [INFO] csvReader - CSV line 100
+[2022-04-25T11:41:54.121] [INFO] csvReader - CSV line 101
+[2022-04-25T11:41:54.122] [INFO] csvReader - CSV line 102
+[2022-04-25T11:41:54.122] [INFO] csvReader - CSV line 103
+[2022-04-25T11:41:54.123] [INFO] csvReader - CSV line 104
+[2022-04-25T11:41:54.123] [INFO] csvReader - CSV line 105
+[2022-04-25T11:41:54.124] [INFO] csvReader - CSV line 106
+[2022-04-25T11:41:54.124] [INFO] csvReader - CSV line 107
+[2022-04-25T11:41:54.126] [INFO] csvReader - CSV line 108
+[2022-04-25T11:41:54.127] [INFO] csvReader - CSV line 109
+[2022-04-25T11:41:54.127] [INFO] csvReader - CSV line 110
+[2022-04-25T11:41:54.128] [INFO] csvReader - CSV line 111
+[2022-04-25T11:41:54.128] [INFO] csvReader - CSV line 112
+[2022-04-25T11:41:54.129] [INFO] csvReader - CSV line 113
+[2022-04-25T11:41:54.129] [INFO] csvReader - CSV line 114
+[2022-04-25T11:41:54.129] [INFO] csvReader - CSV line 115
+[2022-04-25T11:41:54.130] [INFO] csvReader - CSV line 116
+[2022-04-25T11:41:54.130] [INFO] csvReader - CSV line 117
+[2022-04-25T11:41:54.131] [INFO] csvReader - CSV line 118
+[2022-04-25T11:41:54.131] [INFO] csvReader - CSV line 119
+[2022-04-25T11:41:54.131] [INFO] csvReader - CSV line 120
+[2022-04-25T11:41:54.132] [INFO] csvReader - CSV line 121
+[2022-04-25T11:41:54.132] [INFO] csvReader - CSV line 122
+[2022-04-25T11:41:54.132] [INFO] csvReader - CSV line 123
+[2022-04-25T11:41:54.133] [INFO] csvReader - CSV line 124
+[2022-04-25T11:41:54.133] [INFO] csvReader - CSV line 125
+[2022-04-25T11:41:54.134] [INFO] csvReader - CSV line 126
+[2022-04-25T11:41:54.135] [INFO] csvReader - CSV line 127
+[2022-04-25T11:41:54.136] [INFO] csvReader - CSV line 128
+[2022-04-25T11:41:54.136] [INFO] csvReader - CSV line 129
+[2022-04-25T11:41:54.136] [INFO] csvReader - CSV line 130
+[2022-04-25T11:41:54.137] [INFO] csvReader - CSV line 131
+[2022-04-25T11:41:54.137] [INFO] csvReader - CSV line 132
+[2022-04-25T11:41:54.138] [INFO] csvReader - CSV line 133
+[2022-04-25T11:41:54.138] [INFO] csvReader - CSV line 134
+[2022-04-25T11:41:54.139] [INFO] csvReader - CSV line 135
+[2022-04-25T11:41:54.139] [INFO] csvReader - CSV line 136
+[2022-04-25T11:41:54.140] [INFO] csvReader - CSV line 137
+[2022-04-25T11:41:54.140] [INFO] csvReader - CSV line 138
+[2022-04-25T11:41:54.141] [INFO] csvReader - CSV line 139
+[2022-04-25T11:41:54.141] [INFO] csvReader - CSV line 140
+[2022-04-25T11:41:54.142] [INFO] csvReader - CSV line 141
+[2022-04-25T11:41:54.142] [INFO] csvReader - CSV line 142
+[2022-04-25T11:41:54.142] [INFO] csvReader - CSV line 143
+[2022-04-25T11:41:54.143] [INFO] csvReader - CSV line 144
+[2022-04-25T11:41:54.143] [INFO] csvReader - CSV line 145
+[2022-04-25T11:41:54.144] [INFO] csvReader - CSV line 146
+[2022-04-25T11:41:54.144] [INFO] csvReader - CSV line 147
+[2022-04-25T11:41:54.144] [INFO] csvReader - CSV line 148
+[2022-04-25T11:41:54.145] [INFO] csvReader - CSV line 149
+[2022-04-25T11:41:54.146] [INFO] csvReader - End of file. File read successfully.
+[2022-04-25T11:41:54.147] [INFO] csvReader - Prompting user for account name...
+[2022-04-25T11:41:56.071] [INFO] csvReader - User entered: Todd
+[2022-04-25T11:41:56.072] [INFO] csvReader - Fetching Todd's transactions...
+[2022-04-25T11:41:56.073] [INFO] printAllTransactions - Tue Jan 28 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.81 for Coffee
+[2022-04-25T11:41:56.075] [INFO] printAllTransactions - Sat Feb 01 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Ben B $6.87 for Snooker Night
+[2022-04-25T11:41:56.076] [INFO] printAllTransactions - Wed Feb 05 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $5.62 for Sandbox Help
+[2022-04-25T11:41:56.077] [INFO] printAllTransactions - Tue Feb 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $7.10 for Automated Testing Services
+[2022-04-25T11:41:56.077] [INFO] printAllTransactions - Fri Mar 07 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Laura B $9.39 for Pokemon Training
+[2022-04-25T11:41:56.078] [INFO] printAllTransactions - Mon Mar 10 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Gergana I $1.62 for Sandbox Help
+[2022-04-25T11:41:56.079] [INFO] printAllTransactions - Sat Mar 29 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $5.01 for Git-Fu Rendered
+[2022-04-25T11:41:56.079] [INFO] printAllTransactions - Fri Apr 04 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Ben B $10.85 for Rails Consultancy
+[2022-04-25T11:41:56.080] [INFO] printAllTransactions - Thu Apr 10 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sarah T $3.55 for Snooker Night
+[2022-04-25T11:41:56.081] [INFO] printAllTransactions - Fri Apr 11 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Laura B $3.72 for Coffee
+[2022-04-25T11:41:56.081] [INFO] printAllTransactions - Sat Apr 26 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Tim L $1.46 for Lunch
+[2022-04-25T11:41:56.082] [INFO] printAllTransactions - Sat May 10 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $10.63 for Lego Assistance
+[2022-04-25T11:41:56.083] [INFO] printAllTransactions - Mon May 19 2014 00:00:00 GMT+0100 (British Summer Time) Jon A paid Todd $9.04 for Beers
+[2022-04-25T11:41:56.083] [INFO] printAllTransactions - Thu May 22 2014 00:00:00 GMT+0100 (British Summer Time) Tim L paid Todd $3.81 for Coffee
+[2022-04-25T11:41:56.084] [INFO] printAllTransactions - Fri May 30 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $7.01 for Lunch
+[2022-04-25T11:41:56.085] [INFO] printAllTransactions - Sat Jun 14 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Sam N $6.30 for Lego Assistance
+[2022-04-25T11:41:56.086] [INFO] printAllTransactions - Thu Jun 26 2014 00:00:00 GMT+0100 (British Summer Time) Chris W paid Todd $9.81 for Beers
+[2022-04-25T11:41:56.086] [INFO] printAllTransactions - Wed Aug 13 2014 00:00:00 GMT+0100 (British Summer Time) Sarah T paid Todd $8.25 for Beers
+[2022-04-25T11:41:56.087] [INFO] printAllTransactions - Sat Sep 06 2014 00:00:00 GMT+0100 (British Summer Time) Dan W paid Todd $1.80 for Lunch
+[2022-04-25T11:41:56.088] [INFO] printAllTransactions - Tue Sep 09 2014 00:00:00 GMT+0100 (British Summer Time) Todd paid Dan W $3.93 for Audit and Other Financial Services
+[2022-04-25T11:41:56.088] [INFO] printAllTransactions - Sat Oct 04 2014 00:00:00 GMT+0100 (British Summer Time) Ben B paid Todd $11.28 for Lunch
+[2022-04-25T11:41:56.089] [INFO] printAllTransactions - Sat Oct 25 2014 00:00:00 GMT+0100 (British Summer Time) Laura B paid Todd $8.42 for Beers
+[2022-04-25T11:41:56.090] [INFO] printAllTransactions - Fri Nov 21 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Chris W paid Todd $1.42 for Lego Assistance
+[2022-04-25T11:41:56.090] [INFO] printAllTransactions - Sun Nov 23 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Sarah T $2.24 for Beers
+[2022-04-25T11:41:56.091] [INFO] printAllTransactions - Tue Dec 16 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Tim L $7.17 for Poker Winnings
+[2022-04-25T11:41:56.091] [INFO] printAllTransactions - Thu Dec 25 2014 00:00:00 GMT+0000 (Greenwich Mean Time) Todd paid Rob S $1.86 for Lego Assistance
+[2022-04-25T11:41:56.092] [INFO] printAllTransactions - Finished printing Todd's transactions.
