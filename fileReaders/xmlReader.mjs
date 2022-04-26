@@ -20,9 +20,6 @@ export function getXmlFileTransactions(file) {
     const accounts = new Set();
     let line = 1;
     xml2js.parseString(xml, { mergeAttrs: true }, (err, result) => {
-        if (err) {
-            throw err;
-        }
         const jsonArray = result.TransactionList.SupportTransaction;
         jsonArray.forEach((data) => {
             logger.info('XML line ' + line)
@@ -45,5 +42,5 @@ export function getXmlFileTransactions(file) {
             line++;
         });
     });
-    return ({transactions, accounts});;
+    return ({transactions, accounts});
 }

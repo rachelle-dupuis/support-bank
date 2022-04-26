@@ -1,11 +1,11 @@
 import log4js from "log4js";
-import * as readline from 'readline-sync';
+import * as readlineSync from 'readline-sync';
 import {getJsonFileTransactions} from "./fileReaders/jsonReader.mjs";
 import {printAllTransactions} from "./client/printAllTransactions.mjs";
 import {getAccountBalances} from "./client/getAccountBalances.mjs";
 import {getCsvFileTransactions} from "./fileReaders/csvReader.mjs";
 import {getXmlFileTransactions} from "./fileReaders/xmlReader.mjs";
-const logger = log4js.getLogger('csvReader');
+const logger = log4js.getLogger('index');
 log4js.configure({
     appenders: {
         file: { type: 'fileSync', filename: 'logs/debug.log' }
@@ -31,21 +31,47 @@ export class Transaction {
     }
 }
 
-const filePath = 'Transactions2014.csv';
-const jsonFile = 'Transactions2013.json';
-const xml = 'C:\\Work\\Training\\support-bank\\Transactions2012.xml';
+const filePath = 'C:\\Work\\Training\\support-bank\\';
 
-const readlineSync = readline,
-    options = ['List All', 'List Account'],
-    index = readlineSync.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
-logger.info('User selected ' + options[index]);
+function getUserSelection() {
+    const readline = readlineSync,
+        options = ['List All', 'List Account'],
+        index = readline.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
+    logger.info('User selected ' + options[index]);
+    return options[index];
+}
 
-async function returnUserSelection() {
+function getFileNameFromUser() {
+    let fileName = readlineSync.question('What is the file name?')
+    return filePath.concat(fileName);
+}
+
+let userSelection = getUserSelection();
+let file = getFileNameFromUser();
+
+async function returnUserSelection(file, option) {
     logger.info('Program started')
 
-    const { transactions, accounts } = await getXmlFileTransactions(xml);
+    let transactions;
+    let accounts;
 
-    switch (options[index]) {
+    if (file.includes('.json')) {
+        let jsonTransactions = getJsonFileTransactions(file);
+        transactions = jsonTransactions.transactions;
+        accounts = jsonTransactions.accounts;
+    } else if (file.includes('.csv')) {
+        let csvTransactions = await getCsvFileTransactions(file);
+        transactions = csvTransactions.transactions;
+        accounts = csvTransactions.accounts;
+    } else if (file.includes('.xml')) {
+        let xmlTransactions = getXmlFileTransactions(file);
+        transactions = xmlTransactions.transactions;
+        accounts = xmlTransactions.accounts;
+    } else {
+        return console.log('That file type not supported');
+    }
+
+    switch (option) {
         case 'List All':
             logger.info('Fetching account balances...')
             getAccountBalances(transactions, accounts);
@@ -64,4 +90,4 @@ async function returnUserSelection() {
     }
 }
 
-returnUserSelection();
+returnUserSelection(file, userSelection);
