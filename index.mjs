@@ -43,20 +43,26 @@ async function returnUserSelection(file, option) {
     let transactions;
     let accounts;
 
-    if (file.includes('.json')) {
-        let jsonTransactions = getJsonFileTransactions(file);
-        transactions = jsonTransactions.transactions;
-        accounts = jsonTransactions.accounts;
-    } else if (file.includes('.csv')) {
-        let csvTransactions = await getCsvFileTransactions(file);
-        transactions = csvTransactions.transactions;
-        accounts = csvTransactions.accounts;
-    } else if (file.includes('.xml')) {
-        let xmlTransactions = getXmlFileTransactions(file);
-        transactions = xmlTransactions.transactions;
-        accounts = xmlTransactions.accounts;
-    } else {
-        return console.log('That file type not supported');
+    try {
+        if (file.includes('.json')) {
+            let jsonTransactions = getJsonFileTransactions(file);
+            transactions = jsonTransactions.transactions;
+            accounts = jsonTransactions.accounts;
+        } else if (file.includes('.csv')) {
+            let csvTransactions = await getCsvFileTransactions(file);
+            transactions = csvTransactions.transactions;
+            accounts = csvTransactions.accounts;
+        } else if (file.includes('.xml')) {
+            let xmlTransactions = getXmlFileTransactions(file);
+            transactions = xmlTransactions.transactions;
+            accounts = xmlTransactions.accounts;
+        } else {
+            console.error('That file type is not supported');
+            logger.error('That file type is not supported');
+            return;
+        }
+    } catch (e) {
+        console.error(e);
     }
 
     switch (option) {

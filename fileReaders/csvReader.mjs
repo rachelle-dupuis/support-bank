@@ -19,32 +19,34 @@ export function getCsvFileTransactions(file) {
     const accounts = new Set();
     let line = 2;
     logger.info('Reading file...')
-    return new Promise((resolve, reject) => {
-        fs.createReadStream(file)
-            .on('error', reject)
-            .pipe(csv())
-            .on('data', (data) => {
-                logger.info('CSV line ' + line)
-                accounts.add(data.From);
-                accounts.add(data.To);
-                const dateMomentObject = moment(data.Date, "DD/MM/YYYY", true);
-                const date = new Date(dateMomentObject);
-                if (!dateMomentObject.isValid()) {
-                    logger.error('Date is not valid');
-                    throw new Error(`${filePath} line ${line}: Date is not valid`);
-                }
-                const amount = parseFloat(data.Amount);
-                if (isNaN(amount)) {
-                    logger.error('Amount is not valid');
-                    throw new Error(`${filePath} line ${line}: Amount is not valid`);
-                }
-                const newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
-                transactions.push(newTransaction);
-                line++;
-            })
-            .on('end', () => {
-                logger.info('End of file. File read successfully.')
-                resolve({transactions, accounts});
-            });
-    });
+        return new Promise((resolve, reject) => {
+            fs.createReadStream(file)
+                .on('error', (error) => {
+                    reject(error);
+                })
+                .pipe(csv())
+                .on('data', (data) => {
+                    logger.info('CSV line ' + line)
+                    accounts.add(data.From);
+                    accounts.add(data.To);
+                    const dateMomentObject = moment(data.Date, "DD/MM/YYYY", true);
+                    const date = new Date(dateMomentObject);
+                    if (!dateMomentObject.isValid()) {
+                        logger.error('Date is not valid');
+                        throw new Error(`${filePath} line ${line}: Date is not valid`);
+                    }
+                    const amount = parseFloat(data.Amount);
+                    if (isNaN(amount)) {
+                        logger.error('Amount is not valid');
+                        throw new Error(`${filePath} line ${line}: Amount is not valid`);
+                    }
+                    const newTransaction = new Transaction(date, data.From, data.To, data.Narrative, amount);
+                    transactions.push(newTransaction);
+                    line++;
+                })
+                .on('end', () => {
+                    logger.info('End of file. File read successfully.')
+                    resolve({transactions, accounts});
+                });
+        });
 }
