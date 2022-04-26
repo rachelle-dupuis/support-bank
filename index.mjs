@@ -1,5 +1,7 @@
 import log4js from "log4js";
 import * as readlineSync from 'readline-sync';
+import {getUserSelection} from "./client/getUserSelection.mjs";
+import {getFileNameFromUser} from "./client/getFileNameFromUser.mjs";
 import {getJsonFileTransactions} from "./fileReaders/jsonReader.mjs";
 import {printAllTransactions} from "./client/printAllTransactions.mjs";
 import {getAccountBalances} from "./client/getAccountBalances.mjs";
@@ -32,22 +34,8 @@ export class Transaction {
 }
 
 const filePath = 'C:\\Work\\Training\\support-bank\\';
-
-function getUserSelection() {
-    const readline = readlineSync,
-        options = ['List All', 'List Account'],
-        index = readline.keyInSelect(options, 'Welcome to Support Bank. What would you like to do today?');
-    logger.info('User selected ' + options[index]);
-    return options[index];
-}
-
-function getFileNameFromUser() {
-    let fileName = readlineSync.question('What is the file name?')
-    return filePath.concat(fileName);
-}
-
 let userSelection = getUserSelection();
-let file = getFileNameFromUser();
+let file = getFileNameFromUser(filePath);
 
 async function returnUserSelection(file, option) {
     logger.info('Program started')
